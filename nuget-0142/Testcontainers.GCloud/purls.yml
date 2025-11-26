@@ -1,0 +1,5 @@
+- pkg:nuget/Testcontainers.GCloud@4.4.0
+- pkg:nuget/Testcontainers.GCloud@4.5.0
+- pkg:nuget/Testcontainers.GCloud@4.6.0
+- pkg:nuget/Testcontainers.GCloud@4.7.0
+- pkg:nuget/Testcontainers.GCloud@4.9.0
