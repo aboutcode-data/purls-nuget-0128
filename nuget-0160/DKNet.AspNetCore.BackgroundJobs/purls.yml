@@ -1,0 +1,3 @@
+- pkg:nuget/DKNet.AspNetCore.BackgroundJobs@9.0.38
+- pkg:nuget/DKNet.AspNetCore.BackgroundJobs@9.0.39
+- pkg:nuget/DKNet.AspNetCore.BackgroundJobs@9.0.40

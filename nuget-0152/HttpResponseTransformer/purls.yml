@@ -1,0 +1,8 @@
+- pkg:nuget/HttpResponseTransformer@0.0.2.2-prerelease
+- pkg:nuget/HttpResponseTransformer@0.0.4.3-prerelease
+- pkg:nuget/HttpResponseTransformer@0.0.4.4-prerelease
+- pkg:nuget/HttpResponseTransformer@0.0.5.5-prerelease
+- pkg:nuget/HttpResponseTransformer@0.0.6.6-prerelease
+- pkg:nuget/HttpResponseTransformer@0.0.7.7-prerelease
+- pkg:nuget/HttpResponseTransformer@1.0.0.12-prerelease
+- pkg:nuget/HttpResponseTransformer@1.0.1.13

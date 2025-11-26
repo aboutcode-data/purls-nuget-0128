@@ -1,0 +1,5 @@
+- pkg:nuget/EFCore.QueryAnalyzer@1.0.0
+- pkg:nuget/EFCore.QueryAnalyzer@1.0.1
+- pkg:nuget/EFCore.QueryAnalyzer@1.0.2
+- pkg:nuget/EFCore.QueryAnalyzer@1.0.3-beta
+- pkg:nuget/EFCore.QueryAnalyzer@1.0.3-beta-01
