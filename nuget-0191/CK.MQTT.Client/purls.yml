@@ -42,6 +42,7 @@
 - pkg:nuget/CK.MQTT.Client@0.30.0
 - pkg:nuget/CK.MQTT.Client@0.31.0
 - pkg:nuget/CK.MQTT.Client@0.31.1
+- pkg:nuget/CK.MQTT.Client@0.33.1
 - pkg:nuget/CK.MQTT.Client@0.7.0
 - pkg:nuget/CK.MQTT.Client@0.7.10
 - pkg:nuget/CK.MQTT.Client@0.7.11

@@ -13,3 +13,4 @@
 - pkg:nuget/CK.Testing.AspNetServer@18.0.0
 - pkg:nuget/CK.Testing.AspNetServer@19.0.0
 - pkg:nuget/CK.Testing.AspNetServer@19.0.1
+- pkg:nuget/CK.Testing.AspNetServer@20.1.1
