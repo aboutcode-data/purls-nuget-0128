@@ -569,6 +569,8 @@
 - pkg:nuget/MudBlazor.Extensions@8.13.1-prev-251016192-main
 - pkg:nuget/MudBlazor.Extensions@8.13.2-prev-2511031912-main
 - pkg:nuget/MudBlazor.Extensions@8.14.1-prev-251121099-feat-range-slide
+- pkg:nuget/MudBlazor.Extensions@8.15.1-prev-2511302141-main
+- pkg:nuget/MudBlazor.Extensions@8.15.1-prev-2511302155-main
 - pkg:nuget/MudBlazor.Extensions@8.2.0
 - pkg:nuget/MudBlazor.Extensions@8.2.0-prev-2502141916-main
 - pkg:nuget/MudBlazor.Extensions@8.2.1
