@@ -75,3 +75,4 @@
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.79
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.82
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.87
+- pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.90
