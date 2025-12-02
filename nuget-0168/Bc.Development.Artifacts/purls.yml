@@ -47,6 +47,7 @@
 - pkg:nuget/Bc.Development.Artifacts@0.0.60
 - pkg:nuget/Bc.Development.Artifacts@0.0.63
 - pkg:nuget/Bc.Development.Artifacts@0.0.64
+- pkg:nuget/Bc.Development.Artifacts@0.0.65
 - pkg:nuget/Bc.Development.Artifacts@0.0.7
 - pkg:nuget/Bc.Development.Artifacts@0.0.8
 - pkg:nuget/Bc.Development.Artifacts@0.0.9
