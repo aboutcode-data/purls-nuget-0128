@@ -25,3 +25,4 @@
 - pkg:nuget/mazharenko.AoCAgent@6.5.0
 - pkg:nuget/mazharenko.AoCAgent@7.0.0
 - pkg:nuget/mazharenko.AoCAgent@7.0.1
+- pkg:nuget/mazharenko.AoCAgent@8.0.0-alpha2
