@@ -1,1 +1,2 @@
 - pkg:nuget/Orleans.GpuBridge.HealthChecks@0.1.0
+- pkg:nuget/Orleans.GpuBridge.HealthChecks@0.2.1
