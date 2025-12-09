@@ -10,6 +10,7 @@
 - pkg:nuget/Excel.Report.PDF@0.2.0
 - pkg:nuget/Excel.Report.PDF@0.20.0
 - pkg:nuget/Excel.Report.PDF@0.3.0
+- pkg:nuget/Excel.Report.PDF@0.32.0
 - pkg:nuget/Excel.Report.PDF@0.4.0
 - pkg:nuget/Excel.Report.PDF@0.5.0
 - pkg:nuget/Excel.Report.PDF@0.6.0
