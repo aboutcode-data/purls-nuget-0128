@@ -96,6 +96,7 @@
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@1.9.0
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@1.9.1
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@10.0.0-rc.1.25451.107-01
+- pkg:nuget/Z.EntityFramework.Plus.EFCore@10.105.2
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.0
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.1
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.15
@@ -927,6 +928,7 @@
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@8.103.9.2
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@8.103.9.3
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@8.104.0
+- pkg:nuget/Z.EntityFramework.Plus.EFCore@8.105.2
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.0.0-rc.1.24451.1-01
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.0.0-rc.1.24451.1-02
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.0.0-rc.2.24474.1-01
@@ -945,3 +947,4 @@
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.103.9.2
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.103.9.3
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@9.104.0
+- pkg:nuget/Z.EntityFramework.Plus.EFCore@9.105.2

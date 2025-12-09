@@ -434,6 +434,7 @@
 - pkg:nuget/NimbleBlazor@20.6.0
 - pkg:nuget/NimbleBlazor@20.9.2
 - pkg:nuget/NimbleBlazor@20.9.7
+- pkg:nuget/NimbleBlazor@20.9.8
 - pkg:nuget/NimbleBlazor@3.0.1
 - pkg:nuget/NimbleBlazor@3.1.1
 - pkg:nuget/NimbleBlazor@3.1.2
