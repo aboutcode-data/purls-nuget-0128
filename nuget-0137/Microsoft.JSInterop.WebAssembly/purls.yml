@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@10.0.0-preview.7.25380.108
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@10.0.0-rc.2.25502.107
+- pkg:nuget/Microsoft.JSInterop.WebAssembly@10.0.1
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@3.2.0
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@3.2.0-preview2.20160.5
 - pkg:nuget/Microsoft.JSInterop.WebAssembly@3.2.0-preview3.20168.3

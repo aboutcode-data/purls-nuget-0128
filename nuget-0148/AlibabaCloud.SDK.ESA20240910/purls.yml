@@ -36,6 +36,7 @@
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.30.0
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.32.0
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.32.2
+- pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.33.3
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.4.0
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.4.1
 - pkg:nuget/AlibabaCloud.SDK.ESA20240910@2.4.2
