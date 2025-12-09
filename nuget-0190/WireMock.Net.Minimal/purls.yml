@@ -5,6 +5,7 @@
 - pkg:nuget/WireMock.Net.Minimal@1.11.2
 - pkg:nuget/WireMock.Net.Minimal@1.12.0
 - pkg:nuget/WireMock.Net.Minimal@1.13.0
+- pkg:nuget/WireMock.Net.Minimal@1.18.0
 - pkg:nuget/WireMock.Net.Minimal@1.6.0-preview-00
 - pkg:nuget/WireMock.Net.Minimal@1.8.10
 - pkg:nuget/WireMock.Net.Minimal@1.8.11
