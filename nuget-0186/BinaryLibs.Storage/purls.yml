@@ -10,6 +10,7 @@
 - pkg:nuget/BinaryLibs.Storage@0.108.0
 - pkg:nuget/BinaryLibs.Storage@0.109.0
 - pkg:nuget/BinaryLibs.Storage@0.11.0
+- pkg:nuget/BinaryLibs.Storage@0.114.0
 - pkg:nuget/BinaryLibs.Storage@0.12.0
 - pkg:nuget/BinaryLibs.Storage@0.13.0
 - pkg:nuget/BinaryLibs.Storage@0.14.0
