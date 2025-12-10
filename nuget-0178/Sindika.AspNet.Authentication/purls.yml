@@ -24,6 +24,7 @@
 - pkg:nuget/Sindika.AspNet.Authentication@1.12.6
 - pkg:nuget/Sindika.AspNet.Authentication@1.12.7
 - pkg:nuget/Sindika.AspNet.Authentication@1.12.8
+- pkg:nuget/Sindika.AspNet.Authentication@1.14.2
 - pkg:nuget/Sindika.AspNet.Authentication@1.2.0
 - pkg:nuget/Sindika.AspNet.Authentication@1.3.0
 - pkg:nuget/Sindika.AspNet.Authentication@1.3.1
