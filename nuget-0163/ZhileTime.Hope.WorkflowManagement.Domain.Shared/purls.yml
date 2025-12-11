@@ -6,3 +6,4 @@
 - pkg:nuget/ZhileTime.Hope.WorkflowManagement.Domain.Shared@5.7.1
 - pkg:nuget/ZhileTime.Hope.WorkflowManagement.Domain.Shared@5.7.2
 - pkg:nuget/ZhileTime.Hope.WorkflowManagement.Domain.Shared@5.7.5
+- pkg:nuget/ZhileTime.Hope.WorkflowManagement.Domain.Shared@6.1.10
