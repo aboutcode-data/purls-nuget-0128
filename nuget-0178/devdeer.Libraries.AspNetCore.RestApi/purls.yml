@@ -143,6 +143,7 @@
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@21.2.5
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@22.1.1
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@22.1.2
+- pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@22.4.2
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@7.0.10
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@7.0.11
 - pkg:nuget/devdeer.Libraries.AspNetCore.RestApi@7.0.12
