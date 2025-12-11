@@ -104,3 +104,4 @@
 - pkg:nuget/XDFLib@3.8.1
 - pkg:nuget/XDFLib@3.9.1
 - pkg:nuget/XDFLib@4.1.0
+- pkg:nuget/XDFLib@4.4.1
