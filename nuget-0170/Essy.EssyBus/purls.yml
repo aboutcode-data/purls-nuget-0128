@@ -1,2 +1,3 @@
 - pkg:nuget/Essy.EssyBus@1.3.0.10
 - pkg:nuget/Essy.EssyBus@2.0.0
+- pkg:nuget/Essy.EssyBus@2.3.0
