@@ -4,6 +4,7 @@
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@1.0.1-beta03
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@1.0.1-beta04
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@1.0.1-beta05
+- pkg:nuget/Messaia.Net.CsvHelper.Extensions@10.0.0-RC06
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@8.0.0
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@8.1.0
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@8.2.0
@@ -54,3 +55,4 @@
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@9.1.1-RC05
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@9.1.1-RC06
 - pkg:nuget/Messaia.Net.CsvHelper.Extensions@9.1.1-RC07
+- pkg:nuget/Messaia.Net.CsvHelper.Extensions@9.3.1

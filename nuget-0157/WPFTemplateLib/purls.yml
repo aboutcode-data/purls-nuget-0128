@@ -80,6 +80,7 @@
 - pkg:nuget/WPFTemplateLib@6.25.1.2101
 - pkg:nuget/WPFTemplateLib@6.25.1.2102
 - pkg:nuget/WPFTemplateLib@6.25.1.901
+- pkg:nuget/WPFTemplateLib@6.25.12.1101
 - pkg:nuget/WPFTemplateLib@6.25.3.1401
 - pkg:nuget/WPFTemplateLib@6.25.3.2701
 - pkg:nuget/WPFTemplateLib@6.25.4.101
