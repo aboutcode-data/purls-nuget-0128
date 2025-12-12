@@ -13,6 +13,7 @@
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.19.0
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.20.0
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.21.0
+- pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.22.4
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.4.0
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.5.0
 - pkg:nuget/Deploy.LaunchPad.Space.Satellites@10.6.1
