@@ -213,3 +213,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.3.3-handle-halfwake-null-ref-exception.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.3.3-handle-halfwake-null-ref-exception.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.3.3-panel-action-fix.1
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.5.0-roomtype-provisioning.2

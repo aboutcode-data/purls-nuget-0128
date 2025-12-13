@@ -155,6 +155,7 @@
 - pkg:nuget/AWSSDK.SecurityIR@3.7.502.9
 - pkg:nuget/AWSSDK.SecurityIR@3.7.505
 - pkg:nuget/AWSSDK.SecurityIR@3.7.505.2
+- pkg:nuget/AWSSDK.SecurityIR@3.7.505.6
 - pkg:nuget/AWSSDK.SecurityIR@4.0.0
 - pkg:nuget/AWSSDK.SecurityIR@4.0.0-preview.10
 - pkg:nuget/AWSSDK.SecurityIR@4.0.0-preview.11
