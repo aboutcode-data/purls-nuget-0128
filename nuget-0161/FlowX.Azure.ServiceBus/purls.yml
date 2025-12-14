@@ -1,1 +1,2 @@
 - pkg:nuget/FlowX.Azure.ServiceBus@6.0.7
+- pkg:nuget/FlowX.Azure.ServiceBus@7.0.3
