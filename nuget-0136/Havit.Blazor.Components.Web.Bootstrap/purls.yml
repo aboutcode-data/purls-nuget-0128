@@ -288,6 +288,7 @@
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.2.6-pre6
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.2.7
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.20.0-net10-pre3
+- pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.21.0-pre02
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.3.0
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.3.0-pre1
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap@4.3.0-pre2

@@ -267,6 +267,7 @@
 - pkg:nuget/tigerbeetle@0.16.58
 - pkg:nuget/tigerbeetle@0.16.60
 - pkg:nuget/tigerbeetle@0.16.63
+- pkg:nuget/tigerbeetle@0.16.67
 - pkg:nuget/tigerbeetle@0.16.8
 - pkg:nuget/tigerbeetle@0.16.9
 - pkg:nuget/tigerbeetle@0.9.144
