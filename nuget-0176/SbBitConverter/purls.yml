@@ -40,3 +40,4 @@
 - pkg:nuget/SbBitConverter@0.3.9
 - pkg:nuget/SbBitConverter@0.4.0
 - pkg:nuget/SbBitConverter@0.4.1
+- pkg:nuget/SbBitConverter@0.5.5
