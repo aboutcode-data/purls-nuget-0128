@@ -9,6 +9,7 @@
 - pkg:nuget/FEBTW.SharedSrc@1.2.4
 - pkg:nuget/FEBTW.SharedSrc@1.3.4
 - pkg:nuget/FEBTW.SharedSrc@10.0.0
+- pkg:nuget/FEBTW.SharedSrc@10.0.1
 - pkg:nuget/FEBTW.SharedSrc@10.1.1
 - pkg:nuget/FEBTW.SharedSrc@2.0.0
 - pkg:nuget/FEBTW.SharedSrc@2.1.0
