@@ -138,6 +138,8 @@
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.137
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.138
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.139
+- pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.156
+- pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.157
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.66
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.67
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.68
