@@ -81,6 +81,7 @@
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-540
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-571
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-58
+- pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-588
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-64
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-66
 - pkg:nuget/dTwin.Common.Extensions@1.0.0-beta-70
