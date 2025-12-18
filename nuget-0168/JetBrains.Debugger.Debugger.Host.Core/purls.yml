@@ -107,3 +107,4 @@
 - pkg:nuget/JetBrains.Debugger.Debugger.Host.Core@253.0.20250926.140429-eap03
 - pkg:nuget/JetBrains.Debugger.Debugger.Host.Core@253.0.20251008.615-eap05
 - pkg:nuget/JetBrains.Debugger.Debugger.Host.Core@253.0.20251023.164847-eap07
+- pkg:nuget/JetBrains.Debugger.Debugger.Host.Core@253.0.20251217.184914

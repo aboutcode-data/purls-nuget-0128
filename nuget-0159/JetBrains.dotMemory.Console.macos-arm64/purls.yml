@@ -191,3 +191,4 @@
 - pkg:nuget/JetBrains.dotMemory.Console.macos-arm64@2025.3.0-eap01
 - pkg:nuget/JetBrains.dotMemory.Console.macos-arm64@2025.3.0-eap02
 - pkg:nuget/JetBrains.dotMemory.Console.macos-arm64@2025.3.0-eap03
+- pkg:nuget/JetBrains.dotMemory.Console.macos-arm64@2025.3.1
