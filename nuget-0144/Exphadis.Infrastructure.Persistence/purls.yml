@@ -1,3 +1,5 @@
 - pkg:nuget/Exphadis.Infrastructure.Persistence@0.1.2
 - pkg:nuget/Exphadis.Infrastructure.Persistence@0.2.3
 - pkg:nuget/Exphadis.Infrastructure.Persistence@0.2.9
+- pkg:nuget/Exphadis.Infrastructure.Persistence@0.4.5
+- pkg:nuget/Exphadis.Infrastructure.Persistence@0.4.6
