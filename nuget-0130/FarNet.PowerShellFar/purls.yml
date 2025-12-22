@@ -1,3 +1,4 @@
+- pkg:nuget/FarNet.PowerShellFar@10.0.19
 - pkg:nuget/FarNet.PowerShellFar@5.0.56
 - pkg:nuget/FarNet.PowerShellFar@5.0.56.1
 - pkg:nuget/FarNet.PowerShellFar@5.0.57
