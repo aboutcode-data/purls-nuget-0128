@@ -29,3 +29,4 @@
 - pkg:nuget/para_client_csharp@1.33.1
 - pkg:nuget/para_client_csharp@1.33.2
 - pkg:nuget/para_client_csharp@1.33.3
+- pkg:nuget/para_client_csharp@1.34.0
