@@ -8,6 +8,7 @@
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@1.1.2
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@1.1.3
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@1.1.4
+- pkg:nuget/Bat.EntityFrameworkCore.Tools@10.0.0
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@6.0.1
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@6.0.21
 - pkg:nuget/Bat.EntityFrameworkCore.Tools@6.0.22
