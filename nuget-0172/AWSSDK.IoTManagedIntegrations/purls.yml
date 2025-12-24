@@ -106,6 +106,7 @@
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.501.7
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.501.8
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.501.9
+- pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.503.19
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.503.6
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@3.7.503.8
 - pkg:nuget/AWSSDK.IoTManagedIntegrations@4.0.0

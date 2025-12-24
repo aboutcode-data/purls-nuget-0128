@@ -155,6 +155,7 @@
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.502.9
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.503.1
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.504
+- pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.504.13
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.504.2
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.504.4
 - pkg:nuget/AWSSDK.NetworkFlowMonitor@3.7.504.9
