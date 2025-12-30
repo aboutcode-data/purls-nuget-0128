@@ -24,4 +24,5 @@
 - pkg:nuget/ExamineX.ElasticSearch.Umbraco@4.0.1
 - pkg:nuget/ExamineX.ElasticSearch.Umbraco@5.0.0
 - pkg:nuget/ExamineX.ElasticSearch.Umbraco@5.0.1
+- pkg:nuget/ExamineX.ElasticSearch.Umbraco@5.0.3
 - pkg:nuget/ExamineX.ElasticSearch.Umbraco@6.0.0
