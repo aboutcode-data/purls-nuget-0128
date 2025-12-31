@@ -1,3 +1,4 @@
+- pkg:nuget/Pilgaard.RecurringJobs@10.0.1
 - pkg:nuget/Pilgaard.RecurringJobs@7.0.0
 - pkg:nuget/Pilgaard.RecurringJobs@7.0.1
 - pkg:nuget/Pilgaard.RecurringJobs@7.0.2
