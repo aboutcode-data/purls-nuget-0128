@@ -147,6 +147,8 @@
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.1-preview.1
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.14
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.18-preview.4
+- pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.18-preview.5
+- pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.18-preview.6
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.2
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.2-preview.1
 - pkg:nuget/Workleap.Extensions.Configuration.Secrets@1.1.2-preview.2
