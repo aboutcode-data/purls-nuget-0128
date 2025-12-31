@@ -376,6 +376,8 @@
 - pkg:nuget/Pulumi.VSphere@4.16.0-alpha.1755712679
 - pkg:nuget/Pulumi.VSphere@4.16.0-alpha.1755845322
 - pkg:nuget/Pulumi.VSphere@4.16.0-alpha.1755919665
+- pkg:nuget/Pulumi.VSphere@4.16.2
+- pkg:nuget/Pulumi.VSphere@4.16.2-alpha.1767140103
 - pkg:nuget/Pulumi.VSphere@4.17.0-alpha.1756191062
 - pkg:nuget/Pulumi.VSphere@4.17.0-alpha.1756328061
 - pkg:nuget/Pulumi.VSphere@4.17.0-alpha.1756363932
