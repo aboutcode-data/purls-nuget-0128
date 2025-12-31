@@ -23,4 +23,5 @@
 - pkg:nuget/SunamoClipboard@24.7.16.1
 - pkg:nuget/SunamoClipboard@24.7.18.1
 - pkg:nuget/SunamoClipboard@24.9.20.1
+- pkg:nuget/SunamoClipboard@25.12.31.1
 - pkg:nuget/SunamoClipboard@25.3.29.1
