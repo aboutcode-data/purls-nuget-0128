@@ -284,3 +284,5 @@
 - pkg:nuget/GreatIdeaz.trellispark.Rest.Logic@8.0.0-CI-20250912-211623
 - pkg:nuget/GreatIdeaz.trellispark.Rest.Logic@8.0.0-CI-20250919-224758
 - pkg:nuget/GreatIdeaz.trellispark.Rest.Logic@8.0.0-CI-20251017-212704
+- pkg:nuget/GreatIdeaz.trellispark.Rest.Logic@8.0.0-CI-20251230-230650
+- pkg:nuget/GreatIdeaz.trellispark.Rest.Logic@8.0.0-CI-20251230-232420
