@@ -108,3 +108,4 @@
 - pkg:nuget/Soenneker.Extensions.Enumerable.Entities@3.0.99
 - pkg:nuget/Soenneker.Extensions.Enumerable.Entities@4.0.115
 - pkg:nuget/Soenneker.Extensions.Enumerable.Entities@4.0.119
+- pkg:nuget/Soenneker.Extensions.Enumerable.Entities@4.0.129
