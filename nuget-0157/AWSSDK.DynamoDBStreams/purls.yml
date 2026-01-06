@@ -35,3 +35,4 @@
 - pkg:nuget/AWSSDK.DynamoDBStreams@4.0.3
 - pkg:nuget/AWSSDK.DynamoDBStreams@4.0.3.1
 - pkg:nuget/AWSSDK.DynamoDBStreams@4.0.3.5
+- pkg:nuget/AWSSDK.DynamoDBStreams@4.0.4.10
