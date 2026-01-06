@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.AppModernization.McpServer.DotNet.Migration@1.0.1
+- pkg:nuget/Microsoft.AppModernization.McpServer.DotNet.Migration@1.0.7
