@@ -52,6 +52,7 @@
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.22.8
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.22.9
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.23.0
+- pkg:nuget/Microsoft.Bot.Builder.Testing@4.23.1
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.5.0
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.5.1
 - pkg:nuget/Microsoft.Bot.Builder.Testing@4.5.2

@@ -51,6 +51,7 @@
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.22.8-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.22.9-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.23.0-preview
+- pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.23.1-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.8.0-rc0
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.8.2-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Adaptive.Testing@4.8.3-preview

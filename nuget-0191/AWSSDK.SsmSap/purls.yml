@@ -545,6 +545,7 @@
 - pkg:nuget/AWSSDK.SsmSap@3.7.503.17
 - pkg:nuget/AWSSDK.SsmSap@3.7.503.8
 - pkg:nuget/AWSSDK.SsmSap@3.7.504.2
+- pkg:nuget/AWSSDK.SsmSap@3.7.504.5
 - pkg:nuget/AWSSDK.SsmSap@4.0.0
 - pkg:nuget/AWSSDK.SsmSap@4.0.0-preview
 - pkg:nuget/AWSSDK.SsmSap@4.0.0-preview.10
