@@ -76,3 +76,4 @@
 - pkg:nuget/MinVer@6.0.0
 - pkg:nuget/MinVer@6.0.0-rc.1
 - pkg:nuget/MinVer@6.1.0-beta.1
+- pkg:nuget/MinVer@8.0.0-alpha.1

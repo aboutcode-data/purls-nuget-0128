@@ -43,3 +43,4 @@
 - pkg:nuget/SharpGraph@1.4.6
 - pkg:nuget/SharpGraph@1.4.7
 - pkg:nuget/SharpGraph@1.6.6
+- pkg:nuget/SharpGraph@1.6.8
