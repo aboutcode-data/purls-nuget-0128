@@ -52,3 +52,4 @@
 - pkg:nuget/Metaforce.WebEditor.Api.Client@5.7.1
 - pkg:nuget/Metaforce.WebEditor.Api.Client@5.8.0
 - pkg:nuget/Metaforce.WebEditor.Api.Client@5.9.0
+- pkg:nuget/Metaforce.WebEditor.Api.Client@7.0.20260106.7

@@ -66,3 +66,6 @@
 - pkg:nuget/DH.UnitTest@4.13.2025.926-beta1103
 - pkg:nuget/DH.UnitTest@4.13.2025.926-beta1145
 - pkg:nuget/DH.UnitTest@4.13.2025.926-beta1148
+- pkg:nuget/DH.UnitTest@4.17.2026.106-beta0921
+- pkg:nuget/DH.UnitTest@4.17.2026.106-beta0923
+- pkg:nuget/DH.UnitTest@4.17.2026.106-beta0927
