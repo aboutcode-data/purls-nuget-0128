@@ -61,6 +61,7 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.224.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.225.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.225.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.225.2-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.226.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.227.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.Packaging.Client@19.228.0-preview

@@ -53,3 +53,5 @@
 - pkg:nuget/Smartway.Device.Zebra@1.5.1
 - pkg:nuget/Smartway.Device.Zebra@1.5.2
 - pkg:nuget/Smartway.Device.Zebra@1.5.3
+- pkg:nuget/Smartway.Device.Zebra@1.5.6
+- pkg:nuget/Smartway.Device.Zebra@1.5.7
