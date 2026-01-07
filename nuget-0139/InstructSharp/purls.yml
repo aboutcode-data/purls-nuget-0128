@@ -3,6 +3,7 @@
 - pkg:nuget/InstructSharp@1.0.10
 - pkg:nuget/InstructSharp@1.0.11
 - pkg:nuget/InstructSharp@1.0.15
+- pkg:nuget/InstructSharp@1.0.17
 - pkg:nuget/InstructSharp@1.0.2
 - pkg:nuget/InstructSharp@1.0.3
 - pkg:nuget/InstructSharp@1.0.4
