@@ -3,5 +3,6 @@
 - pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.0
 - pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.1
 - pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.10
+- pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.12-preview-52
 - pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.2
 - pkg:nuget/RandAMediaLabGroup.MauiPdfGenerator@1.5.7
