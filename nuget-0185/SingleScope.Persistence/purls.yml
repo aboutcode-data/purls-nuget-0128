@@ -8,3 +8,4 @@
 - pkg:nuget/SingleScope.Persistence@3.1.2
 - pkg:nuget/SingleScope.Persistence@3.2.0
 - pkg:nuget/SingleScope.Persistence@4.0.0
+- pkg:nuget/SingleScope.Persistence@7.0.1

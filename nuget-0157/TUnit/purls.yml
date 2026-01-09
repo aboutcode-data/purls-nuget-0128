@@ -838,3 +838,4 @@
 - pkg:nuget/TUnit@0.9.6
 - pkg:nuget/TUnit@0.9.8
 - pkg:nuget/TUnit@1.0.48
+- pkg:nuget/TUnit@1.9.42
