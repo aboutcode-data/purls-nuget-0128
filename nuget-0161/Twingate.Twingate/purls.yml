@@ -34,3 +34,4 @@
 - pkg:nuget/Twingate.Twingate@3.3.2-dev
 - pkg:nuget/Twingate.Twingate@3.4.0
 - pkg:nuget/Twingate.Twingate@3.4.0-dev
+- pkg:nuget/Twingate.Twingate@3.7.0-dev
