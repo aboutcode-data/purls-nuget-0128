@@ -50,3 +50,4 @@
 - pkg:nuget/PgpCore@6.5.0
 - pkg:nuget/PgpCore@6.5.1
 - pkg:nuget/PgpCore@6.5.2
+- pkg:nuget/PgpCore@6.5.4
