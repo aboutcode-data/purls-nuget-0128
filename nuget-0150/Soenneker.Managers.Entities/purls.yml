@@ -408,3 +408,6 @@
 - pkg:nuget/Soenneker.Managers.Entities@4.0.526
 - pkg:nuget/Soenneker.Managers.Entities@4.0.541
 - pkg:nuget/Soenneker.Managers.Entities@4.0.546
+- pkg:nuget/Soenneker.Managers.Entities@4.0.660
+- pkg:nuget/Soenneker.Managers.Entities@4.0.661
+- pkg:nuget/Soenneker.Managers.Entities@4.0.662
