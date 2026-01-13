@@ -133,3 +133,4 @@
 - pkg:nuget/IBase@25.8.1
 - pkg:nuget/IBase@25.9.0
 - pkg:nuget/IBase@25.9.1
+- pkg:nuget/IBase@26.1.10
