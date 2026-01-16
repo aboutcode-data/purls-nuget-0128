@@ -1,5 +1,6 @@
 - pkg:nuget/Milvasoft.Core@1.0.0
 - pkg:nuget/Milvasoft.Core@1.0.1
+- pkg:nuget/Milvasoft.Core@10.0.0
 - pkg:nuget/Milvasoft.Core@7.0.0
 - pkg:nuget/Milvasoft.Core@8.0.0
 - pkg:nuget/Milvasoft.Core@8.1.0
