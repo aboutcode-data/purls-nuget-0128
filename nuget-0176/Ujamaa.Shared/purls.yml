@@ -1,3 +1,5 @@
 - pkg:nuget/Ujamaa.Shared@1.11.0
 - pkg:nuget/Ujamaa.Shared@1.15.0
 - pkg:nuget/Ujamaa.Shared@1.27.0
+- pkg:nuget/Ujamaa.Shared@1.28.0
+- pkg:nuget/Ujamaa.Shared@1.29.0
