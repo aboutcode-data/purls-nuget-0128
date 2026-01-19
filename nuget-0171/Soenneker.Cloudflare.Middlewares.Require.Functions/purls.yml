@@ -22,6 +22,7 @@
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.101
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.103
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.106
+- pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.110
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.32
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.42
 - pkg:nuget/Soenneker.Cloudflare.Middlewares.Require.Functions@4.0.63
