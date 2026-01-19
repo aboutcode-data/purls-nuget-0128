@@ -1,6 +1,7 @@
 - pkg:nuget/Huddly.CameraProto@1.10.0
 - pkg:nuget/Huddly.CameraProto@1.11.0
 - pkg:nuget/Huddly.CameraProto@1.14.0
+- pkg:nuget/Huddly.CameraProto@1.18.0
 - pkg:nuget/Huddly.CameraProto@1.5.0-beta.25
 - pkg:nuget/Huddly.CameraProto@1.5.0-beta.26
 - pkg:nuget/Huddly.CameraProto@1.5.0-beta.27
