@@ -11,6 +11,7 @@
 - pkg:nuget/Rebus.ServiceProvider@10.3.0
 - pkg:nuget/Rebus.ServiceProvider@10.4.0
 - pkg:nuget/Rebus.ServiceProvider@10.5.0
+- pkg:nuget/Rebus.ServiceProvider@10.7.2
 - pkg:nuget/Rebus.ServiceProvider@2.0.0
 - pkg:nuget/Rebus.ServiceProvider@2.0.0-b01
 - pkg:nuget/Rebus.ServiceProvider@3.0.0
