@@ -163,3 +163,4 @@
 - pkg:nuget/TBot@1.2.9.4
 - pkg:nuget/TBot@1.3.0-alpha
 - pkg:nuget/TBot@2.0.8
+- pkg:nuget/TBot@2.0.8.2

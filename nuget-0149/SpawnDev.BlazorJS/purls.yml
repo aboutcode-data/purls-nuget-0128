@@ -223,6 +223,7 @@
 - pkg:nuget/SpawnDev.BlazorJS@2.5.7
 - pkg:nuget/SpawnDev.BlazorJS@2.5.8
 - pkg:nuget/SpawnDev.BlazorJS@2.5.9
+- pkg:nuget/SpawnDev.BlazorJS@2.59.0
 - pkg:nuget/SpawnDev.BlazorJS@2.6.0
 - pkg:nuget/SpawnDev.BlazorJS@2.7.0
 - pkg:nuget/SpawnDev.BlazorJS@2.8.0
