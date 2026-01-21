@@ -9,3 +9,5 @@
 - pkg:nuget/DenOfIzGraphics@0.1.38-alpha
 - pkg:nuget/DenOfIzGraphics@0.2.0-alpha
 - pkg:nuget/DenOfIzGraphics@0.3.2-alpha
+- pkg:nuget/DenOfIzGraphics@0.6.7-alpha
+- pkg:nuget/DenOfIzGraphics@0.6.8-alpha
