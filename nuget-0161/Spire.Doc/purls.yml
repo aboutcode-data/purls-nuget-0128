@@ -71,6 +71,7 @@
 - pkg:nuget/Spire.Doc@13.9.10
 - pkg:nuget/Spire.Doc@13.9.3
 - pkg:nuget/Spire.Doc@13.9.4
+- pkg:nuget/Spire.Doc@14.1.12
 - pkg:nuget/Spire.Doc@4.6.0
 - pkg:nuget/Spire.Doc@4.7.0
 - pkg:nuget/Spire.Doc@5.0.0
