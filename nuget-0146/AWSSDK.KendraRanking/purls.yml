@@ -512,6 +512,7 @@
 - pkg:nuget/AWSSDK.KendraRanking@3.7.501.25
 - pkg:nuget/AWSSDK.KendraRanking@3.7.501.26
 - pkg:nuget/AWSSDK.KendraRanking@3.7.501.28
+- pkg:nuget/AWSSDK.KendraRanking@3.7.501.35
 - pkg:nuget/AWSSDK.KendraRanking@4.0.0
 - pkg:nuget/AWSSDK.KendraRanking@4.0.0-preview
 - pkg:nuget/AWSSDK.KendraRanking@4.0.0-preview.10
