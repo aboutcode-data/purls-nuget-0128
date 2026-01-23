@@ -215,3 +215,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.3.3-panel-action-fix.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.5.0-roomtype-provisioning.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.5.1-default-mode.2
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.6.0-feature-use-pwa-mode-for-navigator-lockout.1
