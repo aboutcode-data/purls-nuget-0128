@@ -46,6 +46,7 @@
 - pkg:nuget/Waher.Script.Persistence@2.10.1
 - pkg:nuget/Waher.Script.Persistence@2.10.2
 - pkg:nuget/Waher.Script.Persistence@2.10.3
+- pkg:nuget/Waher.Script.Persistence@2.11.1
 - pkg:nuget/Waher.Script.Persistence@2.2.0
 - pkg:nuget/Waher.Script.Persistence@2.3.0
 - pkg:nuget/Waher.Script.Persistence@2.3.1
