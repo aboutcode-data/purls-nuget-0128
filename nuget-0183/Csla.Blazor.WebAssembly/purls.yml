@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Blazor.WebAssembly@10.0.0
 - pkg:nuget/Csla.Blazor.WebAssembly@5.2.0
 - pkg:nuget/Csla.Blazor.WebAssembly@5.2.0-R20042901
 - pkg:nuget/Csla.Blazor.WebAssembly@5.2.0-R20050802
