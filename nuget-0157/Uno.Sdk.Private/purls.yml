@@ -865,3 +865,4 @@
 - pkg:nuget/Uno.Sdk.Private@6.5.0-dev.87
 - pkg:nuget/Uno.Sdk.Private@6.5.0-dev.96
 - pkg:nuget/Uno.Sdk.Private@6.6.0-dev.102
+- pkg:nuget/Uno.Sdk.Private@6.6.0-dev.106
