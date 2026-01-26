@@ -491,6 +491,7 @@
 - pkg:nuget/Pulumi.Random@4.2.0
 - pkg:nuget/Pulumi.Random@4.2.0-alpha.1620818635%2B89d36ece
 - pkg:nuget/Pulumi.Random@4.2.0-alpha.1622117000%2B49d97706
+- pkg:nuget/Pulumi.Random@4.20.0-alpha.1769445472
 - pkg:nuget/Pulumi.Random@4.3.0
 - pkg:nuget/Pulumi.Random@4.3.0-alpha.1624375053%2Bf7fd3a71
 - pkg:nuget/Pulumi.Random@4.3.0-alpha.1625161756%2B3aefdc01
