@@ -6,6 +6,7 @@
 - pkg:nuget/KnightBus.NewRelic@11.0.0
 - pkg:nuget/KnightBus.NewRelic@11.1.0
 - pkg:nuget/KnightBus.NewRelic@12.0.0
+- pkg:nuget/KnightBus.NewRelic@13.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.NewRelic@2.0.0
 - pkg:nuget/KnightBus.NewRelic@2.1.0
 - pkg:nuget/KnightBus.NewRelic@2.2.0
