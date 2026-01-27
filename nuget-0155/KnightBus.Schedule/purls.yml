@@ -5,6 +5,7 @@
 - pkg:nuget/KnightBus.Schedule@12.0.0
 - pkg:nuget/KnightBus.Schedule@13.0.0
 - pkg:nuget/KnightBus.Schedule@14.0.0
+- pkg:nuget/KnightBus.Schedule@15.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.Schedule@2.0.0
 - pkg:nuget/KnightBus.Schedule@3.0.0
 - pkg:nuget/KnightBus.Schedule@3.0.1
