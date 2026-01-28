@@ -1,2 +1,3 @@
 - pkg:nuget/IDR.Library.Blazor@3.2.1
 - pkg:nuget/IDR.Library.Blazor@3.9.2
+- pkg:nuget/IDR.Library.Blazor@4.0.6
