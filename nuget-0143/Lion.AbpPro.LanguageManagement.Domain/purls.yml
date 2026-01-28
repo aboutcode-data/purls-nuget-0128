@@ -1,3 +1,4 @@
+- pkg:nuget/Lion.AbpPro.LanguageManagement.Domain@10.0.1.1
 - pkg:nuget/Lion.AbpPro.LanguageManagement.Domain@7.1.1.1
 - pkg:nuget/Lion.AbpPro.LanguageManagement.Domain@7.1.1.2
 - pkg:nuget/Lion.AbpPro.LanguageManagement.Domain@7.1.1.3
