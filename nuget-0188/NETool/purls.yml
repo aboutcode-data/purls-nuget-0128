@@ -215,3 +215,4 @@
 - pkg:nuget/NETool@3.3.8
 - pkg:nuget/NETool@3.5.7
 - pkg:nuget/NETool@3.8.2
+- pkg:nuget/NETool@3.9.5
