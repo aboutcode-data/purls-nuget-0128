@@ -21,6 +21,7 @@
 - pkg:nuget/Xero.NetStandard.OAuth2@12.0.1
 - pkg:nuget/Xero.NetStandard.OAuth2@12.1.0
 - pkg:nuget/Xero.NetStandard.OAuth2@12.2.0
+- pkg:nuget/Xero.NetStandard.OAuth2@12.5.0
 - pkg:nuget/Xero.NetStandard.OAuth2@2.0.0
 - pkg:nuget/Xero.NetStandard.OAuth2@2.0.1
 - pkg:nuget/Xero.NetStandard.OAuth2@2.1.0
