@@ -13,6 +13,7 @@
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.17.0-preview04
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.20.0-net10-pre3-preview04
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.21.0-pre02-preview04
+- pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.22.0-preview04
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.6.0-preview01
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.6.0-preview02
 - pkg:nuget/Havit.Blazor.Components.Web.Bootstrap.Smart@4.6.0-preview04
