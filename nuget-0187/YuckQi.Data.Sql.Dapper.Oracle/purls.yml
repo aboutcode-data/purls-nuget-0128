@@ -35,3 +35,4 @@
 - pkg:nuget/YuckQi.Data.Sql.Dapper.Oracle@6.5.1
 - pkg:nuget/YuckQi.Data.Sql.Dapper.Oracle@6.5.2
 - pkg:nuget/YuckQi.Data.Sql.Dapper.Oracle@6.5.3
+- pkg:nuget/YuckQi.Data.Sql.Dapper.Oracle@8.2.0
