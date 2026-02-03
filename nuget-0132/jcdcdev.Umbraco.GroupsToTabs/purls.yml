@@ -81,6 +81,8 @@
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.0-alpha0005
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.0-alpha0008
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.1
+- pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.10-alpha0007
+- pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.10-alpha0009
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.2
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.3
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.3-alpha0003
@@ -88,3 +90,4 @@
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.4
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@16.0.4-alpha0003
 - pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@17.0.0-alpha0001
+- pkg:nuget/jcdcdev.Umbraco.GroupsToTabs@17.0.3
