@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Database@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Database@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Database@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Database@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Database@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Database@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Database@14.1.0

@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Audit@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Audit@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Audit@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Audit@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Audit@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Audit@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Audit@14.1.0

@@ -105,6 +105,7 @@
 - pkg:nuget/Dynamicweb.Users@10.20.0-PreRelease
 - pkg:nuget/Dynamicweb.Users@10.20.4
 - pkg:nuget/Dynamicweb.Users@10.21.2-PreRelease
+- pkg:nuget/Dynamicweb.Users@10.22.8
 - pkg:nuget/Dynamicweb.Users@10.7.0
 - pkg:nuget/Dynamicweb.Users@10.7.1
 - pkg:nuget/Dynamicweb.Users@10.7.10
