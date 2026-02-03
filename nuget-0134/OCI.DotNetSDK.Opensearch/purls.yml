@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Opensearch@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Opensearch@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Opensearch@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Opensearch@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Opensearch@41.1.0
 - pkg:nuget/OCI.DotNetSDK.Opensearch@42.0.0
 - pkg:nuget/OCI.DotNetSDK.Opensearch@42.1.0

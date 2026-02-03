@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Identitydataplane@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@29.4.0
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@30.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydataplane@30.1.0

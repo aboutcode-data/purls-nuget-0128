@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Disasterrecovery@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@47.0.0
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@48.0.0
 - pkg:nuget/OCI.DotNetSDK.Disasterrecovery@49.0.0

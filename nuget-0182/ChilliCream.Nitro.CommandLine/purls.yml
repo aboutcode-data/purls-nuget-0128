@@ -1,6 +1,7 @@
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.10.29
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.10.35
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.10.38
+- pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.10.39
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.10.6
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.7.11
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.0.0-p.7.12

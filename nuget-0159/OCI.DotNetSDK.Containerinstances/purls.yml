@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Containerinstances@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@50.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@51.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerinstances@51.1.0

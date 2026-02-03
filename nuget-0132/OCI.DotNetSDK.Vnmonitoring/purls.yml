@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Vnmonitoring@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@39.2.0
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@39.3.0
 - pkg:nuget/OCI.DotNetSDK.Vnmonitoring@40.0.0
