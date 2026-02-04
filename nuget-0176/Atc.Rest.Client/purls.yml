@@ -12,3 +12,4 @@
 - pkg:nuget/Atc.Rest.Client@1.0.79
 - pkg:nuget/Atc.Rest.Client@1.0.84
 - pkg:nuget/Atc.Rest.Client@2.0.1
+- pkg:nuget/Atc.Rest.Client@2.0.15
