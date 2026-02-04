@@ -156,3 +156,4 @@
 - pkg:nuget/PollinationSDK@1.1.0.7
 - pkg:nuget/PollinationSDK@1.1.0.8
 - pkg:nuget/PollinationSDK@1.1.0.9
+- pkg:nuget/PollinationSDK@1.10.0
