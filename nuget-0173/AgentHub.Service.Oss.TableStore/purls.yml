@@ -61,6 +61,7 @@
 - pkg:nuget/AgentHub.Service.Oss.TableStore@1.0.70
 - pkg:nuget/AgentHub.Service.Oss.TableStore@1.0.71
 - pkg:nuget/AgentHub.Service.Oss.TableStore@1.0.72
+- pkg:nuget/AgentHub.Service.Oss.TableStore@1.0.77
 - pkg:nuget/AgentHub.Service.Oss.TableStore@1.0.9
 - pkg:nuget/AgentHub.Service.Oss.TableStore@6.0.0
 - pkg:nuget/AgentHub.Service.Oss.TableStore@6.0.1
