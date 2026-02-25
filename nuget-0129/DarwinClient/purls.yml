@@ -13,3 +13,5 @@
 - pkg:nuget/DarwinClient@0.1.30
 - pkg:nuget/DarwinClient@0.1.31
 - pkg:nuget/DarwinClient@0.1.32
+- pkg:nuget/DarwinClient@0.1.36
+- pkg:nuget/DarwinClient@0.1.37

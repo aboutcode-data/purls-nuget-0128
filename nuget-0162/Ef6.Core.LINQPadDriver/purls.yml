@@ -6,3 +6,4 @@
 - pkg:nuget/Ef6.Core.LINQPadDriver@0.1.5
 - pkg:nuget/Ef6.Core.LINQPadDriver@1.0.0
 - pkg:nuget/Ef6.Core.LINQPadDriver@1.1.0
+- pkg:nuget/Ef6.Core.LINQPadDriver@2.0.1

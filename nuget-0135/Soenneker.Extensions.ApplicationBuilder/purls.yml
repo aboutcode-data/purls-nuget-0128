@@ -98,3 +98,5 @@
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder@4.0.111
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder@4.0.118
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder@4.0.132
+- pkg:nuget/Soenneker.Extensions.ApplicationBuilder@4.0.139
+- pkg:nuget/Soenneker.Extensions.ApplicationBuilder@4.0.142
