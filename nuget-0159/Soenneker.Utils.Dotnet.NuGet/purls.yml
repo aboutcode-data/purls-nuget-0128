@@ -1863,3 +1863,5 @@
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@3.0.1879
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@4.0.1898
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@4.0.1913
+- pkg:nuget/Soenneker.Utils.Dotnet.NuGet@4.0.1923
+- pkg:nuget/Soenneker.Utils.Dotnet.NuGet@4.0.1924

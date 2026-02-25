@@ -2,6 +2,7 @@
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@10.0.0-preview.2
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@10.0.0-preview.3
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@10.0.0-rc.1
+- pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@10.2.0
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@8.1.0
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@8.1.0-preview.52
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Xml@8.1.0-rc1

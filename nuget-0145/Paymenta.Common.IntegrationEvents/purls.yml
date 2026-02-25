@@ -193,6 +193,7 @@
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.46
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.47
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.48
+- pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.49
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.5
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.6
 - pkg:nuget/Paymenta.Common.IntegrationEvents@3.0.7

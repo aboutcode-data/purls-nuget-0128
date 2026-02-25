@@ -41,3 +41,5 @@
 - pkg:nuget/ChmlFrp.SDK@1.5.2
 - pkg:nuget/ChmlFrp.SDK@1.5.3
 - pkg:nuget/ChmlFrp.SDK@2.0.1
+- pkg:nuget/ChmlFrp.SDK@2.3.0
+- pkg:nuget/ChmlFrp.SDK@2.3.1

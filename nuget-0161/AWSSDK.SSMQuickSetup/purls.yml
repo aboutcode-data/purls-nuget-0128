@@ -214,6 +214,8 @@
 - pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.21
 - pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.30
 - pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.35
+- pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.39
+- pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.40
 - pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.5
 - pkg:nuget/AWSSDK.SSMQuickSetup@3.7.502.7
 - pkg:nuget/AWSSDK.SSMQuickSetup@4.0.0
