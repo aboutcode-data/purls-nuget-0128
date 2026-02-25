@@ -19,3 +19,4 @@
 - pkg:nuget/essentialMix.Messaging@16.0.0
 - pkg:nuget/essentialMix.Messaging@16.0.1
 - pkg:nuget/essentialMix.Messaging@16.1.0
+- pkg:nuget/essentialMix.Messaging@17.0.2
