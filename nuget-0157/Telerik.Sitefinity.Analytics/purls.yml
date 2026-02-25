@@ -303,6 +303,8 @@
 - pkg:nuget/Telerik.Sitefinity.Analytics@14.4.8147
 - pkg:nuget/Telerik.Sitefinity.Analytics@14.4.8148
 - pkg:nuget/Telerik.Sitefinity.Analytics@14.4.8149
+- pkg:nuget/Telerik.Sitefinity.Analytics@14.4.8150
+- pkg:nuget/Telerik.Sitefinity.Analytics@14.4.8151
 - pkg:nuget/Telerik.Sitefinity.Analytics@15.0.8150-beta
 - pkg:nuget/Telerik.Sitefinity.Analytics@15.0.8200
 - pkg:nuget/Telerik.Sitefinity.Analytics@15.0.8221

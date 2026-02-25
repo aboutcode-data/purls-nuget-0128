@@ -69,3 +69,5 @@
 - pkg:nuget/CommonNetFuncs.Web.Interface@3.7.16
 - pkg:nuget/CommonNetFuncs.Web.Interface@3.7.17
 - pkg:nuget/CommonNetFuncs.Web.Interface@3.8.13
+- pkg:nuget/CommonNetFuncs.Web.Interface@3.8.38
+- pkg:nuget/CommonNetFuncs.Web.Interface@4.0.17

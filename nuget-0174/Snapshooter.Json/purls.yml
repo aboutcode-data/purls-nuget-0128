@@ -44,3 +44,5 @@
 - pkg:nuget/Snapshooter.Json@0.9.0
 - pkg:nuget/Snapshooter.Json@1.0.0
 - pkg:nuget/Snapshooter.Json@1.0.1
+- pkg:nuget/Snapshooter.Json@1.2.0
+- pkg:nuget/Snapshooter.Json@1.2.0-preview.1
