@@ -4,3 +4,4 @@
 - pkg:nuget/Sisted.Abp.AspNetCore.Components.WebAssembly.FluentTheme.Bundling@0.5.15-beta
 - pkg:nuget/Sisted.Abp.AspNetCore.Components.WebAssembly.FluentTheme.Bundling@0.5.17-beta
 - pkg:nuget/Sisted.Abp.AspNetCore.Components.WebAssembly.FluentTheme.Bundling@0.5.19-beta
+- pkg:nuget/Sisted.Abp.AspNetCore.Components.WebAssembly.FluentTheme.Bundling@0.6.1-beta
