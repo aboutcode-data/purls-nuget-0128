@@ -1,5 +1,6 @@
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-dev.959
+- pkg:nuget/WalletFramework.IsoProximity@2.0.0-dev.976
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-pr.226.3
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-pr.227.1
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-pr.228.6
@@ -204,3 +205,4 @@
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-rc.307
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-rc.308
 - pkg:nuget/WalletFramework.IsoProximity@2.0.0-rc.312
+- pkg:nuget/WalletFramework.IsoProximity@3.0.0-rc.1
