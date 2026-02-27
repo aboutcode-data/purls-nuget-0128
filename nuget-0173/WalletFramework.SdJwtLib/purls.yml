@@ -1,4 +1,5 @@
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-dev.959
+- pkg:nuget/WalletFramework.SdJwtLib@2.0.0-dev.976
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-pr.374.10
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-pr.374.11
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-pr.374.8
@@ -11,3 +12,4 @@
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-pr.406.1
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-pr.407.2
 - pkg:nuget/WalletFramework.SdJwtLib@2.0.0-rc.307
+- pkg:nuget/WalletFramework.SdJwtLib@3.0.0-rc.1
