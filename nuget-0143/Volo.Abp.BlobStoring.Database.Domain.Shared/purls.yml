@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.Abp.BlobStoring.Database.Domain.Shared@10.0.0
+- pkg:nuget/Volo.Abp.BlobStoring.Database.Domain.Shared@10.1.1
 - pkg:nuget/Volo.Abp.BlobStoring.Database.Domain.Shared@2.9.0
 - pkg:nuget/Volo.Abp.BlobStoring.Database.Domain.Shared@3.0.0
 - pkg:nuget/Volo.Abp.BlobStoring.Database.Domain.Shared@3.0.1
