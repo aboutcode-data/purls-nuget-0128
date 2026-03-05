@@ -10,3 +10,4 @@
 - pkg:nuget/Horse.Server@6.5.0
 - pkg:nuget/Horse.Server@6.6.0
 - pkg:nuget/Horse.Server@7.2.0
+- pkg:nuget/Horse.Server@8.0.16
