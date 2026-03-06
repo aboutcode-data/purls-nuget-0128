@@ -9,3 +9,10 @@
 - pkg:nuget/tuan_net_test@1.1.39-build.2
 - pkg:nuget/tuan_net_test@1.1.8-build.22
 - pkg:nuget/tuan_net_test@1.1.9
+- pkg:nuget/tuan_net_test@1.3.0-build.17
+- pkg:nuget/tuan_net_test@1.3.0-build.18
+- pkg:nuget/tuan_net_test@1.3.0-build.19
+- pkg:nuget/tuan_net_test@1.3.0-build.20
+- pkg:nuget/tuan_net_test@1.3.0-build.21
+- pkg:nuget/tuan_net_test@1.3.0-build.22
+- pkg:nuget/tuan_net_test@1.3.0-build.23
