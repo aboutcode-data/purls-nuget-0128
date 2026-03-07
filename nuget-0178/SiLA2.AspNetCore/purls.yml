@@ -1,4 +1,5 @@
 - pkg:nuget/SiLA2.AspNetCore@10.2.0
+- pkg:nuget/SiLA2.AspNetCore@10.2.3
 - pkg:nuget/SiLA2.AspNetCore@7.1.1
 - pkg:nuget/SiLA2.AspNetCore@7.1.2
 - pkg:nuget/SiLA2.AspNetCore@7.1.3
