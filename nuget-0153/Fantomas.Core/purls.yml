@@ -126,3 +126,4 @@
 - pkg:nuget/Fantomas.Core@7.0.1
 - pkg:nuget/Fantomas.Core@7.0.2
 - pkg:nuget/Fantomas.Core@7.0.3
+- pkg:nuget/Fantomas.Core@8.0.0-alpha-004
