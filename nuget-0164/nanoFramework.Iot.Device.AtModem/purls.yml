@@ -77,3 +77,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.AtModem@1.0.86
 - pkg:nuget/nanoFramework.Iot.Device.AtModem@1.0.95
 - pkg:nuget/nanoFramework.Iot.Device.AtModem@1.0.97
+- pkg:nuget/nanoFramework.Iot.Device.AtModem@2.0.0-preview.15
