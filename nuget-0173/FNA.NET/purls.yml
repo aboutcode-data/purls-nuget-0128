@@ -44,4 +44,5 @@
 - pkg:nuget/FNA.NET@2.1.0.2506
 - pkg:nuget/FNA.NET@2.1.1.2506
 - pkg:nuget/FNA.NET@2.1.2.2506
+- pkg:nuget/FNA.NET@2.2.10.2602
 - pkg:nuget/FNA.NET@2.2.8.2602
