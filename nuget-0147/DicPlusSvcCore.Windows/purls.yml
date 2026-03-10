@@ -1,3 +1,5 @@
+- pkg:nuget/DicPlusSvcCore.Windows@2.1.16.1008
+- pkg:nuget/DicPlusSvcCore.Windows@2.1.16.1009
 - pkg:nuget/DicPlusSvcCore.Windows@2.1.16.500
 - pkg:nuget/DicPlusSvcCore.Windows@2.1.16.501
 - pkg:nuget/DicPlusSvcCore.Windows@2.1.16.502
