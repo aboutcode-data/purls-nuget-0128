@@ -93,3 +93,4 @@
 - pkg:nuget/DotNext.IO@5.4.0
 - pkg:nuget/DotNext.IO@5.7.0
 - pkg:nuget/DotNext.IO@5.7.1
+- pkg:nuget/DotNext.IO@6.0.0
