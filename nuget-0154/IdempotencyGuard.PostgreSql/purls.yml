@@ -1,0 +1,2 @@
+- pkg:nuget/IdempotencyGuard.PostgreSql@1.2.1
+- pkg:nuget/IdempotencyGuard.PostgreSql@1.2.2
