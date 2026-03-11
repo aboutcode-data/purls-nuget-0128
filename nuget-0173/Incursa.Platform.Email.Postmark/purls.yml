@@ -8,3 +8,5 @@
 - pkg:nuget/Incursa.Platform.Email.Postmark@2026.2.20.82
 - pkg:nuget/Incursa.Platform.Email.Postmark@2026.2.20.908
 - pkg:nuget/Incursa.Platform.Email.Postmark@2026.3.9.853
+- pkg:nuget/Incursa.Platform.Email.Postmark@6.0.1
+- pkg:nuget/Incursa.Platform.Email.Postmark@6.0.3
