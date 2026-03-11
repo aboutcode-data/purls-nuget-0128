@@ -36,3 +36,4 @@
 - pkg:nuget/Kentico.Aira.Client@3.6.0-preview.8
 - pkg:nuget/Kentico.Aira.Client@3.6.0-preview.9
 - pkg:nuget/Kentico.Aira.Client@3.6.1
+- pkg:nuget/Kentico.Aira.Client@5.5.0
