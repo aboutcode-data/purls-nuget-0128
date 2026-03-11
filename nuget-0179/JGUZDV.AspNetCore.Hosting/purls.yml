@@ -33,6 +33,7 @@
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.23
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.24
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.25
+- pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.27
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.3
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.4
 - pkg:nuget/JGUZDV.AspNetCore.Hosting@1.5.5
