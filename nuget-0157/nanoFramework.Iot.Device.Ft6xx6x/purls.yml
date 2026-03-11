@@ -55,3 +55,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ft6xx6x@1.2.855
 - pkg:nuget/nanoFramework.Iot.Device.Ft6xx6x@1.2.863
 - pkg:nuget/nanoFramework.Iot.Device.Ft6xx6x@2.0.0-preview.15
+- pkg:nuget/nanoFramework.Iot.Device.Ft6xx6x@2.0.0-preview.19
