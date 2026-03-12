@@ -1,1 +1,2 @@
+- pkg:nuget/Testcontainers.Mosquitto@4.11.0
 - pkg:nuget/Testcontainers.Mosquitto@4.9.0
