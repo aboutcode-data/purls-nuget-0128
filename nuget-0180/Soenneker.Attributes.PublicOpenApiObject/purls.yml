@@ -28,3 +28,5 @@
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiObject@3.0.8
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiObject@3.0.9
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiObject@4.0.38
+- pkg:nuget/Soenneker.Attributes.PublicOpenApiObject@4.0.40
+- pkg:nuget/Soenneker.Attributes.PublicOpenApiObject@4.0.42
