@@ -4,6 +4,7 @@
 - pkg:nuget/JY.Abp.Domain.Shared@1.0.20.913
 - pkg:nuget/JY.Abp.Domain.Shared@1.0.20.920
 - pkg:nuget/JY.Abp.Domain.Shared@1.0.21.923
+- pkg:nuget/JY.Abp.Domain.Shared@1.1.0.936
 - pkg:nuget/JY.Abp.Domain.Shared@820.0.11
 - pkg:nuget/JY.Abp.Domain.Shared@822.0.11
 - pkg:nuget/JY.Abp.Domain.Shared@833.0.11
