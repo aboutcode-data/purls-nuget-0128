@@ -10,3 +10,5 @@
 - pkg:nuget/Soenneker.Middlewares.FailedRequestLogging@4.0.34
 - pkg:nuget/Soenneker.Middlewares.FailedRequestLogging@4.0.39
 - pkg:nuget/Soenneker.Middlewares.FailedRequestLogging@4.0.51
+- pkg:nuget/Soenneker.Middlewares.FailedRequestLogging@4.0.54
+- pkg:nuget/Soenneker.Middlewares.FailedRequestLogging@4.0.55
