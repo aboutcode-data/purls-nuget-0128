@@ -1,5 +1,6 @@
 - pkg:nuget/HelpersCore.SkiaSharp@1.11.1
 - pkg:nuget/HelpersCore.SkiaSharp@1.12.2
+- pkg:nuget/HelpersCore.SkiaSharp@1.13.2
 - pkg:nuget/HelpersCore.SkiaSharp@1.6.0
 - pkg:nuget/HelpersCore.SkiaSharp@1.6.1
 - pkg:nuget/HelpersCore.SkiaSharp@1.6.2
