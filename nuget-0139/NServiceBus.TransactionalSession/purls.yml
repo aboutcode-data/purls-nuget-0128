@@ -13,3 +13,4 @@
 - pkg:nuget/NServiceBus.TransactionalSession@3.2.1
 - pkg:nuget/NServiceBus.TransactionalSession@3.3.0
 - pkg:nuget/NServiceBus.TransactionalSession@3.4.0
+- pkg:nuget/NServiceBus.TransactionalSession@4.0.1

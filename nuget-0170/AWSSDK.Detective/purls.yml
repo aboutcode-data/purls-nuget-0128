@@ -983,6 +983,7 @@
 - pkg:nuget/AWSSDK.Detective@3.7.502.37
 - pkg:nuget/AWSSDK.Detective@3.7.502.42
 - pkg:nuget/AWSSDK.Detective@3.7.502.48
+- pkg:nuget/AWSSDK.Detective@3.7.502.49
 - pkg:nuget/AWSSDK.Detective@3.7.502.7
 - pkg:nuget/AWSSDK.Detective@3.7.502.9
 - pkg:nuget/AWSSDK.Detective@4.0.0
