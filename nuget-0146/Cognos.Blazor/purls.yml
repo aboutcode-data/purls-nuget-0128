@@ -83,3 +83,4 @@
 - pkg:nuget/Cognos.Blazor@6.0.7
 - pkg:nuget/Cognos.Blazor@6.0.8
 - pkg:nuget/Cognos.Blazor@6.2.3
+- pkg:nuget/Cognos.Blazor@6.3.5
