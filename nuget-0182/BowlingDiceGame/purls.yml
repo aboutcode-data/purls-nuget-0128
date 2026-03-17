@@ -1,4 +1,5 @@
 - pkg:nuget/BowlingDiceGame@1.0.1
+- pkg:nuget/BowlingDiceGame@10.0.5
 - pkg:nuget/BowlingDiceGame@2.0.1
 - pkg:nuget/BowlingDiceGame@2.0.2
 - pkg:nuget/BowlingDiceGame@7.0.1

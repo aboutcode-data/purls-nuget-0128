@@ -1,4 +1,5 @@
 - pkg:nuget/RollEm@1.0.1
+- pkg:nuget/RollEm@10.0.5
 - pkg:nuget/RollEm@2.0.1
 - pkg:nuget/RollEm@2.0.2
 - pkg:nuget/RollEm@7.0.1

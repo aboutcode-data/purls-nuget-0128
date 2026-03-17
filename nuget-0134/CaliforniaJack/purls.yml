@@ -1,4 +1,5 @@
 - pkg:nuget/CaliforniaJack@1.0.1
+- pkg:nuget/CaliforniaJack@10.0.5
 - pkg:nuget/CaliforniaJack@2.0.1
 - pkg:nuget/CaliforniaJack@2.0.2
 - pkg:nuget/CaliforniaJack@7.0.1

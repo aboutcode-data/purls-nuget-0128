@@ -1,4 +1,5 @@
 - pkg:nuget/Risk@1.0.1
+- pkg:nuget/Risk@10.0.5
 - pkg:nuget/Risk@2.0.1
 - pkg:nuget/Risk@2.0.2
 - pkg:nuget/Risk@7.0.1
