@@ -1,4 +1,5 @@
 - pkg:nuget/WindowsKeyboardCapture@1.0.1
+- pkg:nuget/WindowsKeyboardCapture@10.0.12
 - pkg:nuget/WindowsKeyboardCapture@2.0.1
 - pkg:nuget/WindowsKeyboardCapture@3.0.1
 - pkg:nuget/WindowsKeyboardCapture@7.0.1
