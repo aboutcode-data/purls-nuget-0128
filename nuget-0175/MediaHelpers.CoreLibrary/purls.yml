@@ -1,4 +1,5 @@
 - pkg:nuget/MediaHelpers.CoreLibrary@1.0.1
+- pkg:nuget/MediaHelpers.CoreLibrary@10.0.13
 - pkg:nuget/MediaHelpers.CoreLibrary@2.0.1
 - pkg:nuget/MediaHelpers.CoreLibrary@2.0.2
 - pkg:nuget/MediaHelpers.CoreLibrary@3.0.1

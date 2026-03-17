@@ -1,3 +1,4 @@
+- pkg:nuget/Musictopia.AOEOQuestEngine.CoreLibrary@10.0.29
 - pkg:nuget/Musictopia.AOEOQuestEngine.CoreLibrary@9.0.27
 - pkg:nuget/Musictopia.AOEOQuestEngine.CoreLibrary@9.0.66
 - pkg:nuget/Musictopia.AOEOQuestEngine.CoreLibrary@9.0.87
