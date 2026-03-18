@@ -86,3 +86,4 @@
 - pkg:nuget/Nethereum.StandardTokenEIP20@4.8.0
 - pkg:nuget/Nethereum.StandardTokenEIP20@4.9.0
 - pkg:nuget/Nethereum.StandardTokenEIP20@5.0.0
+- pkg:nuget/Nethereum.StandardTokenEIP20@6.0.4

@@ -41,3 +41,4 @@
 - pkg:nuget/Nethereum.Web3Lite@4.8.0
 - pkg:nuget/Nethereum.Web3Lite@4.9.0
 - pkg:nuget/Nethereum.Web3Lite@5.0.0
+- pkg:nuget/Nethereum.Web3Lite@6.0.4
