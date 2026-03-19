@@ -181,6 +181,7 @@
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.269
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.27
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.28
+- pkg:nuget/Ixm.Nexus.Infrastructure@1.0.285
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.29
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.3
 - pkg:nuget/Ixm.Nexus.Infrastructure@1.0.30
