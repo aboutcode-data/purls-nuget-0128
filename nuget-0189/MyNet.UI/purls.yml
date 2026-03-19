@@ -12,6 +12,7 @@
 - pkg:nuget/MyNet.UI@13.0.0
 - pkg:nuget/MyNet.UI@13.1.0
 - pkg:nuget/MyNet.UI@14.1.0
+- pkg:nuget/MyNet.UI@17.0.1
 - pkg:nuget/MyNet.UI@2.0.0
 - pkg:nuget/MyNet.UI@2.1.0
 - pkg:nuget/MyNet.UI@3.0.0
