@@ -1211,3 +1211,5 @@
 - pkg:nuget/Soenneker.SendGrid.Validation@4.0.1463
 - pkg:nuget/Soenneker.SendGrid.Validation@4.0.1470
 - pkg:nuget/Soenneker.SendGrid.Validation@4.0.1480
+- pkg:nuget/Soenneker.SendGrid.Validation@4.0.1488
+- pkg:nuget/Soenneker.SendGrid.Validation@4.0.1489
