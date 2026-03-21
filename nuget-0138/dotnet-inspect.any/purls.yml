@@ -1,3 +1,4 @@
 - pkg:nuget/dotnet-inspect.any@0.6.3
 - pkg:nuget/dotnet-inspect.any@0.6.5
 - pkg:nuget/dotnet-inspect.any@0.6.9
+- pkg:nuget/dotnet-inspect.any@0.7.2
