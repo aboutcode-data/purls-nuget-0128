@@ -1,4 +1,5 @@
 - pkg:nuget/CDCD.Paylink.Utility@0.12.13
+- pkg:nuget/CDCD.Paylink.Utility@0.12.30
 - pkg:nuget/CDCD.Paylink.Utility@2.0.0
 - pkg:nuget/CDCD.Paylink.Utility@2.0.1
 - pkg:nuget/CDCD.Paylink.Utility@8.0.0
