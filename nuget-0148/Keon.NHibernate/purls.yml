@@ -53,4 +53,5 @@
 - pkg:nuget/Keon.NHibernate@5.6.1
 - pkg:nuget/Keon.NHibernate@5.6.2
 - pkg:nuget/Keon.NHibernate@5.6.3
+- pkg:nuget/Keon.NHibernate@5.6.9
 - pkg:nuget/Keon.NHibernate@6.0.0
