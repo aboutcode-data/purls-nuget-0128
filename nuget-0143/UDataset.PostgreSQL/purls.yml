@@ -1,3 +1,5 @@
+- pkg:nuget/UDataset.PostgreSQL@0.10.1
+- pkg:nuget/UDataset.PostgreSQL@0.10.3
 - pkg:nuget/UDataset.PostgreSQL@0.3.0
 - pkg:nuget/UDataset.PostgreSQL@0.3.1
 - pkg:nuget/UDataset.PostgreSQL@0.4.0
