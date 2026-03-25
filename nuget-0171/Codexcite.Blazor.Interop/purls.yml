@@ -51,3 +51,4 @@
 - pkg:nuget/Codexcite.Blazor.Interop@3.2.8
 - pkg:nuget/Codexcite.Blazor.Interop@3.2.9
 - pkg:nuget/Codexcite.Blazor.Interop@6.0.11
+- pkg:nuget/Codexcite.Blazor.Interop@6.0.14
