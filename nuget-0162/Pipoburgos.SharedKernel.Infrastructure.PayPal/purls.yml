@@ -1,3 +1,4 @@
+- pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.PayPal@10.0.5.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.PayPal@8.0.10.3
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.PayPal@9.0.0.1
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.PayPal@9.0.0.2
