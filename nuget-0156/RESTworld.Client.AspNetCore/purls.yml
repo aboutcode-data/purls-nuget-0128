@@ -41,6 +41,7 @@
 - pkg:nuget/RESTworld.Client.AspNetCore@23.0.0
 - pkg:nuget/RESTworld.Client.AspNetCore@24.0.1
 - pkg:nuget/RESTworld.Client.AspNetCore@27.0.0
+- pkg:nuget/RESTworld.Client.AspNetCore@27.2.0
 - pkg:nuget/RESTworld.Client.AspNetCore@3.0.0
 - pkg:nuget/RESTworld.Client.AspNetCore@4.0.0
 - pkg:nuget/RESTworld.Client.AspNetCore@4.1.0
