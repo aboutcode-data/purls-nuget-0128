@@ -48,3 +48,4 @@
 - pkg:nuget/GroupDocs.Parser@25.7.0
 - pkg:nuget/GroupDocs.Parser@25.8.0
 - pkg:nuget/GroupDocs.Parser@25.8.0-alpha-20250827095752
+- pkg:nuget/GroupDocs.Parser@26.3.0

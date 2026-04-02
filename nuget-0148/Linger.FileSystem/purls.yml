@@ -26,3 +26,4 @@
 - pkg:nuget/Linger.FileSystem@0.9.1-preview
 - pkg:nuget/Linger.FileSystem@0.9.5
 - pkg:nuget/Linger.FileSystem@0.9.8
+- pkg:nuget/Linger.FileSystem@1.2.0-preview

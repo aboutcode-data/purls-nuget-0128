@@ -4,3 +4,4 @@
 - pkg:nuget/AltaSoft.Storm.Generator.MsSql@2.2.3
 - pkg:nuget/AltaSoft.Storm.Generator.MsSql@2.2.4
 - pkg:nuget/AltaSoft.Storm.Generator.MsSql@2.2.5
+- pkg:nuget/AltaSoft.Storm.Generator.MsSql@3.2.2

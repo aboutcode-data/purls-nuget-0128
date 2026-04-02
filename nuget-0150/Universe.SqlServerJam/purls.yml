@@ -35,6 +35,7 @@
 - pkg:nuget/Universe.SqlServerJam@2.0.806
 - pkg:nuget/Universe.SqlServerJam@2.0.809
 - pkg:nuget/Universe.SqlServerJam@2.0.810
+- pkg:nuget/Universe.SqlServerJam@2.1.1183
 - pkg:nuget/Universe.SqlServerJam@2.1.830
 - pkg:nuget/Universe.SqlServerJam@2.1.836
 - pkg:nuget/Universe.SqlServerJam@2.1.837

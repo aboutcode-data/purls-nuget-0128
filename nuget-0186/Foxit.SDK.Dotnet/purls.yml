@@ -3,6 +3,7 @@
 - pkg:nuget/Foxit.SDK.Dotnet@10.0.2
 - pkg:nuget/Foxit.SDK.Dotnet@10.1.0
 - pkg:nuget/Foxit.SDK.Dotnet@11.0.0
+- pkg:nuget/Foxit.SDK.Dotnet@11.1.0
 - pkg:nuget/Foxit.SDK.Dotnet@8.0.0
 - pkg:nuget/Foxit.SDK.Dotnet@8.1.0
 - pkg:nuget/Foxit.SDK.Dotnet@8.2.0

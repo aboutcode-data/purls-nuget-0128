@@ -11,3 +11,4 @@
 - pkg:nuget/WorkflowEngine.NETCore-BpmnPlugin@18.0.0
 - pkg:nuget/WorkflowEngine.NETCore-BpmnPlugin@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-BpmnPlugin@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-BpmnPlugin@20.0.8
