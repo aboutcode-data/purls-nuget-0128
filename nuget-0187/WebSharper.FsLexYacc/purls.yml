@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.FsLexYacc@10.0.0.604-beta1
+- pkg:nuget/WebSharper.FsLexYacc@10.1.0.667
 - pkg:nuget/WebSharper.FsLexYacc@7.0.0.454-beta5
 - pkg:nuget/WebSharper.FsLexYacc@8.0.0.512-beta2
 - pkg:nuget/WebSharper.FsLexYacc@8.0.0.521-rc

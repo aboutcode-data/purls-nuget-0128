@@ -2,4 +2,11 @@
 - pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2025.1.24-beta
 - pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2025.1.25-beta
 - pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2025.1.26-beta
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2025.1.27-beta
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2025.1.45
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.1.5
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.2.2
 - pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.3.5
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.4.2
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.5.3
+- pkg:nuget/Gapotchenko.FX.Diagnostics.CommandShell@2026.6.2
