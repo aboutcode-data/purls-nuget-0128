@@ -12,3 +12,4 @@
 - pkg:nuget/Umbraco.Cloud.Cms.StaticAssets@16.0.0-rc2
 - pkg:nuget/Umbraco.Cloud.Cms.StaticAssets@16.0.0-rc3
 - pkg:nuget/Umbraco.Cloud.Cms.StaticAssets@16.0.0-rc4
+- pkg:nuget/Umbraco.Cloud.Cms.StaticAssets@17.1.0

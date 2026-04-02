@@ -1,4 +1,5 @@
 - pkg:nuget/CTQAPIClient@1.0.12
 - pkg:nuget/CTQAPIClient@1.0.15
+- pkg:nuget/CTQAPIClient@1.0.17
 - pkg:nuget/CTQAPIClient@1.0.5
 - pkg:nuget/CTQAPIClient@1.0.6

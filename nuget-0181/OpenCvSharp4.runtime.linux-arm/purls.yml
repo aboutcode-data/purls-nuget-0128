@@ -2,6 +2,7 @@
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.10.0.20240616
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.10.0.20241107
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.11.0.20250506
+- pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.13.0.20260329
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.5.2.20210507
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.5.3.20210725
 - pkg:nuget/OpenCvSharp4.runtime.linux-arm@4.5.3.20210817
