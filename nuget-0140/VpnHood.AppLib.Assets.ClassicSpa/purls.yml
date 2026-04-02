@@ -64,3 +64,6 @@
 - pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@6.0.743
 - pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@6.0.749
 - pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@7.5.783
+- pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@7.5.807-prerelease
+- pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@7.5.808
+- pkg:nuget/VpnHood.AppLib.Assets.ClassicSpa@7.5.809

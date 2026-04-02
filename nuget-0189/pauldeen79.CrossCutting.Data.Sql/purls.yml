@@ -129,3 +129,5 @@
 - pkg:nuget/pauldeen79.CrossCutting.Data.Sql@6.0.8
 - pkg:nuget/pauldeen79.CrossCutting.Data.Sql@6.0.9
 - pkg:nuget/pauldeen79.CrossCutting.Data.Sql@8.0.1
+- pkg:nuget/pauldeen79.CrossCutting.Data.Sql@8.0.6
+- pkg:nuget/pauldeen79.CrossCutting.Data.Sql@8.0.7

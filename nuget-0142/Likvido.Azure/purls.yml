@@ -85,3 +85,4 @@
 - pkg:nuget/Likvido.Azure@3.2.8
 - pkg:nuget/Likvido.Azure@3.3.0
 - pkg:nuget/Likvido.Azure@3.3.10
+- pkg:nuget/Likvido.Azure@3.3.19

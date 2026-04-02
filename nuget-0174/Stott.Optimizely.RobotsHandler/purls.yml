@@ -37,3 +37,6 @@
 - pkg:nuget/Stott.Optimizely.RobotsHandler@5.0.0.25244-alpha
 - pkg:nuget/Stott.Optimizely.RobotsHandler@5.0.0.25245-beta
 - pkg:nuget/Stott.Optimizely.RobotsHandler@5.0.0.25246-beta
+- pkg:nuget/Stott.Optimizely.RobotsHandler@7.0.0
+- pkg:nuget/Stott.Optimizely.RobotsHandler@7.0.0-alpha
+- pkg:nuget/Stott.Optimizely.RobotsHandler@7.0.0-alpha2

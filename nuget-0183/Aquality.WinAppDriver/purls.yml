@@ -27,3 +27,4 @@
 - pkg:nuget/Aquality.WinAppDriver@2.0.0
 - pkg:nuget/Aquality.WinAppDriver@3.0.3
 - pkg:nuget/Aquality.WinAppDriver@3.1.0
+- pkg:nuget/Aquality.WinAppDriver@5.0.0

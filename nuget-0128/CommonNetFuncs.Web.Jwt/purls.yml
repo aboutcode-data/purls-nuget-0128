@@ -75,4 +75,6 @@
 - pkg:nuget/CommonNetFuncs.Web.Jwt@3.7.17
 - pkg:nuget/CommonNetFuncs.Web.Jwt@3.8.13
 - pkg:nuget/CommonNetFuncs.Web.Jwt@3.8.38
+- pkg:nuget/CommonNetFuncs.Web.Jwt@3.8.45
 - pkg:nuget/CommonNetFuncs.Web.Jwt@4.0.17
+- pkg:nuget/CommonNetFuncs.Web.Jwt@4.0.23

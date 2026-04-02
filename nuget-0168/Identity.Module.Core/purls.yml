@@ -22,6 +22,8 @@
 - pkg:nuget/Identity.Module.Core@2.5.18
 - pkg:nuget/Identity.Module.Core@2.5.204
 - pkg:nuget/Identity.Module.Core@2.5.205
+- pkg:nuget/Identity.Module.Core@2.5.220
+- pkg:nuget/Identity.Module.Core@2.5.221
 - pkg:nuget/Identity.Module.Core@2.5.28
 - pkg:nuget/Identity.Module.Core@2.5.29
 - pkg:nuget/Identity.Module.Core@2.5.30

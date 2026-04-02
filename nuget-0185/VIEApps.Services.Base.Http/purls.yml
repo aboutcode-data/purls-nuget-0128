@@ -1,5 +1,7 @@
 - pkg:nuget/VIEApps.Services.Base.Http@10.10.2512.1
 - pkg:nuget/VIEApps.Services.Base.Http@10.10.2603.1
+- pkg:nuget/VIEApps.Services.Base.Http@10.10.2604.1
+- pkg:nuget/VIEApps.Services.Base.Http@10.10.2604.2
 - pkg:nuget/VIEApps.Services.Base.Http@10.2.1905.2
 - pkg:nuget/VIEApps.Services.Base.Http@10.2.1906.1
 - pkg:nuget/VIEApps.Services.Base.Http@10.2.1906.2

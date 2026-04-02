@@ -31,6 +31,7 @@
 - pkg:nuget/AtkSharp@3.22.25.74
 - pkg:nuget/AtkSharp@3.22.25.98
 - pkg:nuget/AtkSharp@3.24.24.117-develop
+- pkg:nuget/AtkSharp@3.24.24.133-develop
 - pkg:nuget/AtkSharp@3.24.24.32
 - pkg:nuget/AtkSharp@3.24.24.34
 - pkg:nuget/AtkSharp@3.24.24.38

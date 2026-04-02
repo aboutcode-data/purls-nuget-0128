@@ -121,5 +121,7 @@
 - pkg:nuget/Valkyrie@4.0.99
 - pkg:nuget/Valkyrie@5.0.0
 - pkg:nuget/Valkyrie@5.0.1
+- pkg:nuget/Valkyrie@5.0.16
+- pkg:nuget/Valkyrie@5.0.17
 - pkg:nuget/Valkyrie@5.0.2
 - pkg:nuget/Valkyrie@5.0.3

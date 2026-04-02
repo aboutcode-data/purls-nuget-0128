@@ -52,3 +52,4 @@
 - pkg:nuget/CreativeCoders.CodeCompilation.Roslyn@4.6.0
 - pkg:nuget/CreativeCoders.CodeCompilation.Roslyn@5.1.0
 - pkg:nuget/CreativeCoders.CodeCompilation.Roslyn@5.4.0
+- pkg:nuget/CreativeCoders.CodeCompilation.Roslyn@6.7.1
