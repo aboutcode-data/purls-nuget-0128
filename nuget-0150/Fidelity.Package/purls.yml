@@ -45,4 +45,6 @@
 - pkg:nuget/Fidelity.Package@6.1.88
 - pkg:nuget/Fidelity.Package@6.1.89
 - pkg:nuget/Fidelity.Package@6.1.97
+- pkg:nuget/Fidelity.Package@6.2.27
+- pkg:nuget/Fidelity.Package@6.2.28
 - pkg:nuget/Fidelity.Package@6.2.8

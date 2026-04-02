@@ -31,3 +31,4 @@
 - pkg:nuget/Carbon.Datastore@0.0.7
 - pkg:nuget/Carbon.Datastore@0.0.8
 - pkg:nuget/Carbon.Datastore@0.0.9
+- pkg:nuget/Carbon.Datastore@0.3.0

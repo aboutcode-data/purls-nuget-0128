@@ -1,1 +1,3 @@
 - pkg:nuget/Mythosia.AI.Rag.Abstractions@2.0.0
+- pkg:nuget/Mythosia.AI.Rag.Abstractions@5.1.0
+- pkg:nuget/Mythosia.AI.Rag.Abstractions@6.0.0

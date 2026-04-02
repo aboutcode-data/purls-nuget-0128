@@ -1,3 +1,4 @@
+- pkg:nuget/Orbital7.Extensions.Server@10.0.8
 - pkg:nuget/Orbital7.Extensions.Server@9.0.19
 - pkg:nuget/Orbital7.Extensions.Server@9.0.20
 - pkg:nuget/Orbital7.Extensions.Server@9.0.21

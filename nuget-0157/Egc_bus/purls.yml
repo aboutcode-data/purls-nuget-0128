@@ -1,5 +1,10 @@
 - pkg:nuget/Egc_bus@8.0.1
 - pkg:nuget/Egc_bus@8.0.2
+- pkg:nuget/Egc_bus@8.0.24
+- pkg:nuget/Egc_bus@8.0.25
+- pkg:nuget/Egc_bus@8.0.26
+- pkg:nuget/Egc_bus@8.0.27
+- pkg:nuget/Egc_bus@8.0.28
 - pkg:nuget/Egc_bus@8.0.5
 - pkg:nuget/Egc_bus@8.0.6
 - pkg:nuget/Egc_bus@8.0.7
