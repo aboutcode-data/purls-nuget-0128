@@ -2,3 +2,5 @@
 - pkg:nuget/Stagehand.Api@0.2.3
 - pkg:nuget/Stagehand.Api@0.2.4
 - pkg:nuget/Stagehand.Api@0.3.0
+- pkg:nuget/Stagehand.Api@0.3.6
+- pkg:nuget/Stagehand.Api@0.3.7

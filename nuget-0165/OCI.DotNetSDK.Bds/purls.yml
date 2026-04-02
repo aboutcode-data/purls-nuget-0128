@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Bds@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Bds@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Bds@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Bds@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Bds@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Bds@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Bds@14.2.0

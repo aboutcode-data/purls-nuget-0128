@@ -18,7 +18,15 @@
 - pkg:nuget/Cohere@1.0.1-dev.14
 - pkg:nuget/Cohere@1.0.1-dev.141
 - pkg:nuget/Cohere@1.0.1-dev.15
+- pkg:nuget/Cohere@1.0.1-dev.156
+- pkg:nuget/Cohere@1.0.1-dev.157
+- pkg:nuget/Cohere@1.0.1-dev.158
+- pkg:nuget/Cohere@1.0.1-dev.159
 - pkg:nuget/Cohere@1.0.1-dev.16
+- pkg:nuget/Cohere@1.0.1-dev.160
+- pkg:nuget/Cohere@1.0.1-dev.161
+- pkg:nuget/Cohere@1.0.1-dev.164
+- pkg:nuget/Cohere@1.0.1-dev.165
 - pkg:nuget/Cohere@1.0.1-dev.17
 - pkg:nuget/Cohere@1.0.1-dev.18
 - pkg:nuget/Cohere@1.0.1-dev.19

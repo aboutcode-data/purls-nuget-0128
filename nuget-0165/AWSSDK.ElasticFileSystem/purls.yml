@@ -1215,6 +1215,7 @@
 - pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.49
 - pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.52
 - pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.53
+- pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.54
 - pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.7
 - pkg:nuget/AWSSDK.ElasticFileSystem@3.7.502.9
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.0
@@ -1259,3 +1260,7 @@
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.2.9
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.16
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.17
+- pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.18
+- pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.19
+- pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.20
+- pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.21

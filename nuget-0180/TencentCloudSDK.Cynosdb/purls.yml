@@ -260,6 +260,7 @@
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.1305
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.1306
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.1312
+- pkg:nuget/TencentCloudSDK.Cynosdb@3.0.1394
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.168
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.169
 - pkg:nuget/TencentCloudSDK.Cynosdb@3.0.170

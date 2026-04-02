@@ -1,1 +1,4 @@
 - pkg:nuget/CSharpDB.Client@2.4.0
+- pkg:nuget/CSharpDB.Client@2.5.0
+- pkg:nuget/CSharpDB.Client@2.6.0
+- pkg:nuget/CSharpDB.Client@2.7.0

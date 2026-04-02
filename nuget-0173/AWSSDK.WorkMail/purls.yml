@@ -1117,6 +1117,7 @@
 - pkg:nuget/AWSSDK.WorkMail@3.7.503.53
 - pkg:nuget/AWSSDK.WorkMail@3.7.503.56
 - pkg:nuget/AWSSDK.WorkMail@3.7.503.57
+- pkg:nuget/AWSSDK.WorkMail@3.7.503.58
 - pkg:nuget/AWSSDK.WorkMail@3.7.6
 - pkg:nuget/AWSSDK.WorkMail@3.7.6.1
 - pkg:nuget/AWSSDK.WorkMail@3.7.6.10
@@ -1207,3 +1208,7 @@
 - pkg:nuget/AWSSDK.WorkMail@4.0.2.1
 - pkg:nuget/AWSSDK.WorkMail@4.0.2.3
 - pkg:nuget/AWSSDK.WorkMail@4.0.2.7
+- pkg:nuget/AWSSDK.WorkMail@4.0.3.20
+- pkg:nuget/AWSSDK.WorkMail@4.0.3.21
+- pkg:nuget/AWSSDK.WorkMail@4.0.3.22
+- pkg:nuget/AWSSDK.WorkMail@4.0.3.23

@@ -307,6 +307,7 @@
 - pkg:nuget/AWSSDK.SupplyChain@3.7.502.39
 - pkg:nuget/AWSSDK.SupplyChain@3.7.502.51
 - pkg:nuget/AWSSDK.SupplyChain@3.7.502.54
+- pkg:nuget/AWSSDK.SupplyChain@3.7.502.56
 - pkg:nuget/AWSSDK.SupplyChain@3.7.502.9
 - pkg:nuget/AWSSDK.SupplyChain@4.0.0
 - pkg:nuget/AWSSDK.SupplyChain@4.0.0-preview
@@ -350,3 +351,7 @@
 - pkg:nuget/AWSSDK.SupplyChain@4.0.2.5
 - pkg:nuget/AWSSDK.SupplyChain@4.0.2.8
 - pkg:nuget/AWSSDK.SupplyChain@4.0.3.17
+- pkg:nuget/AWSSDK.SupplyChain@4.0.3.19
+- pkg:nuget/AWSSDK.SupplyChain@4.0.3.20
+- pkg:nuget/AWSSDK.SupplyChain@4.0.3.21
+- pkg:nuget/AWSSDK.SupplyChain@4.0.3.22

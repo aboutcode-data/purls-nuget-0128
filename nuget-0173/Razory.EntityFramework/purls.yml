@@ -1,0 +1,4 @@
+- pkg:nuget/Razory.EntityFramework@2.0.0
+- pkg:nuget/Razory.EntityFramework@2.0.1
+- pkg:nuget/Razory.EntityFramework@2.1.0
+- pkg:nuget/Razory.EntityFramework@2.1.1

@@ -1,1 +1,2 @@
 - pkg:nuget/Dapr.Testcontainers@1.17.0-rc14
+- pkg:nuget/Dapr.Testcontainers@1.17.7

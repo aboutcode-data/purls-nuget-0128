@@ -3,3 +3,5 @@
 - pkg:nuget/GJJ.Keystone.Abstractions@1.0.6
 - pkg:nuget/GJJ.Keystone.Abstractions@1.0.7
 - pkg:nuget/GJJ.Keystone.Abstractions@1.1.7
+- pkg:nuget/GJJ.Keystone.Abstractions@1.2.0
+- pkg:nuget/GJJ.Keystone.Abstractions@1.2.1

@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Workrequests@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Workrequests@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Workrequests@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Workrequests@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Workrequests@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Workrequests@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Workrequests@14.2.0

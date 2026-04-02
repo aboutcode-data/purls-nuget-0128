@@ -9,6 +9,7 @@
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.16
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.17
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.2
+- pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.26
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.3
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.5
 - pkg:nuget/Meziantou.Extensions.Logging.Xunit@1.0.6

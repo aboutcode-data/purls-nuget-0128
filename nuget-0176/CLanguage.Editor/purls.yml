@@ -21,6 +21,7 @@
 - pkg:nuget/CLanguage.Editor@0.20.74
 - pkg:nuget/CLanguage.Editor@0.21.98
 - pkg:nuget/CLanguage.Editor@0.21.99
+- pkg:nuget/CLanguage.Editor@0.22.225
 - pkg:nuget/CLanguage.Editor@0.9.139
 - pkg:nuget/CLanguage.Editor@0.9.142
 - pkg:nuget/CLanguage.Editor@0.9.145

@@ -111,6 +111,7 @@
 - pkg:nuget/ReactiveUI.WinForms@20.3.1
 - pkg:nuget/ReactiveUI.WinForms@20.4.1
 - pkg:nuget/ReactiveUI.WinForms@21.0.1
+- pkg:nuget/ReactiveUI.WinForms@23.2.1
 - pkg:nuget/ReactiveUI.WinForms@8.0.0
 - pkg:nuget/ReactiveUI.WinForms@8.0.0-alpha0110
 - pkg:nuget/ReactiveUI.WinForms@8.0.0-alpha0113

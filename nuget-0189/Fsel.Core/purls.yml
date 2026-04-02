@@ -400,6 +400,7 @@
 - pkg:nuget/Fsel.Core@1.2.48.1
 - pkg:nuget/Fsel.Core@1.2.48.1-rc.1.tenant.1
 - pkg:nuget/Fsel.Core@1.2.48.4-rc.1.tenant.9
+- pkg:nuget/Fsel.Core@1.2.48.4-rc.2.tenant.1
 - pkg:nuget/Fsel.Core@1.2.5
 - pkg:nuget/Fsel.Core@1.2.6
 - pkg:nuget/Fsel.Core@1.2.7

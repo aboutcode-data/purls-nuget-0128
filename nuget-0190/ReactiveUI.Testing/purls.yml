@@ -112,6 +112,7 @@
 - pkg:nuget/ReactiveUI.Testing@20.3.1
 - pkg:nuget/ReactiveUI.Testing@20.4.1
 - pkg:nuget/ReactiveUI.Testing@21.0.1
+- pkg:nuget/ReactiveUI.Testing@23.2.1
 - pkg:nuget/ReactiveUI.Testing@8.0.0
 - pkg:nuget/ReactiveUI.Testing@8.0.0-alpha0110
 - pkg:nuget/ReactiveUI.Testing@8.0.0-alpha0113

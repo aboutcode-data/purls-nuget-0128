@@ -279,6 +279,7 @@
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.15.1
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.15.2
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.2.0
+- pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.22.2
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.3.0
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.4.0
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@9.5.0

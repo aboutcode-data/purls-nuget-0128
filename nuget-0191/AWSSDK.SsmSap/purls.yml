@@ -550,6 +550,7 @@
 - pkg:nuget/AWSSDK.SsmSap@3.7.504.23
 - pkg:nuget/AWSSDK.SsmSap@3.7.504.34
 - pkg:nuget/AWSSDK.SsmSap@3.7.504.35
+- pkg:nuget/AWSSDK.SsmSap@3.7.504.36
 - pkg:nuget/AWSSDK.SsmSap@3.7.504.5
 - pkg:nuget/AWSSDK.SsmSap@4.0.0
 - pkg:nuget/AWSSDK.SsmSap@4.0.0-preview
@@ -591,3 +592,7 @@
 - pkg:nuget/AWSSDK.SsmSap@4.0.2.2
 - pkg:nuget/AWSSDK.SsmSap@4.0.2.4
 - pkg:nuget/AWSSDK.SsmSap@4.0.2.8
+- pkg:nuget/AWSSDK.SsmSap@4.0.4.10
+- pkg:nuget/AWSSDK.SsmSap@4.0.4.11
+- pkg:nuget/AWSSDK.SsmSap@4.0.4.12
+- pkg:nuget/AWSSDK.SsmSap@4.0.4.13

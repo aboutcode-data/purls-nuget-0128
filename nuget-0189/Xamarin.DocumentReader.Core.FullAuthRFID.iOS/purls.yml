@@ -299,3 +299,14 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2018-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2072-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2090-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2106
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2128
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2145-nightly
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2146-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2165-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2166-nightly
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2169-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2185-nightly
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.3.2186-nightly
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.4.2212-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.iOS@9.4.2226-rc

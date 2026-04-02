@@ -649,3 +649,6 @@
 - pkg:nuget/ImmediaC.SimpleCms@8.7.1
 - pkg:nuget/ImmediaC.SimpleCms@8.7.3
 - pkg:nuget/ImmediaC.SimpleCms@8.8.0
+- pkg:nuget/ImmediaC.SimpleCms@8.8.10
+- pkg:nuget/ImmediaC.SimpleCms@8.8.11
+- pkg:nuget/ImmediaC.SimpleCms@8.8.9

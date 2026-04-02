@@ -184,3 +184,6 @@
 - pkg:nuget/Soenneker.KeyVault.Util@4.0.300
 - pkg:nuget/Soenneker.KeyVault.Util@4.0.306
 - pkg:nuget/Soenneker.KeyVault.Util@4.0.321
+- pkg:nuget/Soenneker.KeyVault.Util@4.0.322
+- pkg:nuget/Soenneker.KeyVault.Util@4.0.323
+- pkg:nuget/Soenneker.KeyVault.Util@4.0.324
