@@ -1,1 +1,2 @@
 - pkg:nuget/MicroCom.CodeGenerator.Roslyn@0.11.0
+- pkg:nuget/MicroCom.CodeGenerator.Roslyn@0.11.5
