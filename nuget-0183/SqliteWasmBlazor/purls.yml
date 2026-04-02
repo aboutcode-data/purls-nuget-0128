@@ -1,1 +1,5 @@
 - pkg:nuget/SqliteWasmBlazor@0.6.5-pre
+- pkg:nuget/SqliteWasmBlazor@0.8.1-pre
+- pkg:nuget/SqliteWasmBlazor@0.8.3-pre
+- pkg:nuget/SqliteWasmBlazor@0.8.4-pre
+- pkg:nuget/SqliteWasmBlazor@0.8.5-pre
