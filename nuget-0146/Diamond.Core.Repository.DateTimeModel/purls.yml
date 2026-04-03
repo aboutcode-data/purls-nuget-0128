@@ -1,3 +1,4 @@
+- pkg:nuget/Diamond.Core.Repository.DateTimeModel@10.1.1
 - pkg:nuget/Diamond.Core.Repository.DateTimeModel@8.0.2
 - pkg:nuget/Diamond.Core.Repository.DateTimeModel@8.0.3
 - pkg:nuget/Diamond.Core.Repository.DateTimeModel@8.0.4
