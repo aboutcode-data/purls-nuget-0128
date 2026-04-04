@@ -1264,3 +1264,4 @@
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.19
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.20
 - pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.21
+- pkg:nuget/AWSSDK.ElasticFileSystem@4.0.3.22

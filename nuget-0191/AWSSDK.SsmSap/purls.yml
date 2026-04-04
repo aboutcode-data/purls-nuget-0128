@@ -596,3 +596,4 @@
 - pkg:nuget/AWSSDK.SsmSap@4.0.4.11
 - pkg:nuget/AWSSDK.SsmSap@4.0.4.12
 - pkg:nuget/AWSSDK.SsmSap@4.0.4.13
+- pkg:nuget/AWSSDK.SsmSap@4.0.4.14
