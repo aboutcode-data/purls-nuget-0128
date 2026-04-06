@@ -52,6 +52,7 @@
 - pkg:nuget/Univedo.Data.Core@2.7.1.9
 - pkg:nuget/Univedo.Data.Core@2.7.10.1
 - pkg:nuget/Univedo.Data.Core@2.7.10.5
+- pkg:nuget/Univedo.Data.Core@2.7.11.26
 - pkg:nuget/Univedo.Data.Core@2.7.11.4
 - pkg:nuget/Univedo.Data.Core@2.7.11.5
 - pkg:nuget/Univedo.Data.Core@2.7.2.11
