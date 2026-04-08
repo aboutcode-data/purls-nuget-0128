@@ -3,3 +3,4 @@
 - pkg:nuget/StackExchangeRedisCache.Contrib@2.2008.10016
 - pkg:nuget/StackExchangeRedisCache.Contrib@2.2008.16
 - pkg:nuget/StackExchangeRedisCache.Contrib@2.8.12
+- pkg:nuget/StackExchangeRedisCache.Contrib@3.0.1
