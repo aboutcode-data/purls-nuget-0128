@@ -47,6 +47,7 @@
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.138
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.139
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.140
+- pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.147
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.15
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.16
 - pkg:nuget/Codefoco.MonoGame.Framework.WindowsDX@3.8.17
