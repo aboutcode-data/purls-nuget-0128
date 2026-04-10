@@ -2,4 +2,5 @@
 - pkg:nuget/NPipeline.Connectors.Csv@0.33.0
 - pkg:nuget/NPipeline.Connectors.Csv@0.34.0
 - pkg:nuget/NPipeline.Connectors.Csv@0.35.0
+- pkg:nuget/NPipeline.Connectors.Csv@0.38.2
 - pkg:nuget/NPipeline.Connectors.Csv@0.7.1
