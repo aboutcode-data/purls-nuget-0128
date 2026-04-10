@@ -885,3 +885,5 @@
 - pkg:nuget/ThinkGeo.UI.iOS@14.5.0-beta137
 - pkg:nuget/ThinkGeo.UI.iOS@14.5.0-beta138
 - pkg:nuget/ThinkGeo.UI.iOS@15.0.0-beta001
+- pkg:nuget/ThinkGeo.UI.iOS@15.0.0-beta007
+- pkg:nuget/ThinkGeo.UI.iOS@15.0.0-beta008
