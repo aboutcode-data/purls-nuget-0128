@@ -84,6 +84,7 @@
 - pkg:nuget/Ambermoon.Data.Legacy@10.10.2
 - pkg:nuget/Ambermoon.Data.Legacy@10.10.3
 - pkg:nuget/Ambermoon.Data.Legacy@10.10.4
+- pkg:nuget/Ambermoon.Data.Legacy@10.12.12
 - pkg:nuget/Ambermoon.Data.Legacy@10.2.0
 - pkg:nuget/Ambermoon.Data.Legacy@10.2.1
 - pkg:nuget/Ambermoon.Data.Legacy@10.2.2
