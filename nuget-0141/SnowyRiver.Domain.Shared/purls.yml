@@ -4,3 +4,5 @@
 - pkg:nuget/SnowyRiver.Domain.Shared@10.0.10
 - pkg:nuget/SnowyRiver.Domain.Shared@10.0.11
 - pkg:nuget/SnowyRiver.Domain.Shared@10.0.17
+- pkg:nuget/SnowyRiver.Domain.Shared@10.0.19
+- pkg:nuget/SnowyRiver.Domain.Shared@10.0.20
