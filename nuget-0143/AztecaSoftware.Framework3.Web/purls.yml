@@ -82,6 +82,7 @@
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.25
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.26
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.3
+- pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.35
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.4
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.5
 - pkg:nuget/AztecaSoftware.Framework3.Web@3.4.73.6
