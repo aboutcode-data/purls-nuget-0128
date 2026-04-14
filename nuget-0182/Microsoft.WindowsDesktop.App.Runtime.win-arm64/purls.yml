@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@10.0.1
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@10.0.2
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@10.0.3
+- pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@5.0.0
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@5.0.0-preview.5.20278.3
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-arm64@5.0.0-preview.6.20308.1
