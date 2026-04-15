@@ -1,4 +1,5 @@
 - pkg:nuget/Aiursoft.AiurProtocol.Server@10.0.17
+- pkg:nuget/Aiursoft.AiurProtocol.Server@10.0.19
 - pkg:nuget/Aiursoft.AiurProtocol.Server@10.0.5
 - pkg:nuget/Aiursoft.AiurProtocol.Server@6.0.10
 - pkg:nuget/Aiursoft.AiurProtocol.Server@6.0.11
