@@ -225,3 +225,4 @@
 - pkg:nuget/NETool@4.6.2
 - pkg:nuget/NETool@4.6.3
 - pkg:nuget/NETool@4.6.4
+- pkg:nuget/NETool@4.7.1
