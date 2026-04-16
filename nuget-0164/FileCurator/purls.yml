@@ -228,3 +228,4 @@
 - pkg:nuget/FileCurator@5.1.9
 - pkg:nuget/FileCurator@5.2.1
 - pkg:nuget/FileCurator@5.2.4
+- pkg:nuget/FileCurator@5.2.7
