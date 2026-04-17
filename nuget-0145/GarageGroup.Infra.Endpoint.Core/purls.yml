@@ -1,0 +1,4 @@
+- pkg:nuget/GarageGroup.Infra.Endpoint.Core@0.10.1
+- pkg:nuget/GarageGroup.Infra.Endpoint.Core@0.11.0
+- pkg:nuget/GarageGroup.Infra.Endpoint.Core@0.16.1
+- pkg:nuget/GarageGroup.Infra.Endpoint.Core@0.16.2
