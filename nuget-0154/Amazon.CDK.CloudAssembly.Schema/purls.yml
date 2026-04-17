@@ -632,5 +632,6 @@
 - pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.10.0
 - pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.11.0
 - pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.12.0
+- pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.16.0
 - pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.8.0
 - pkg:nuget/Amazon.CDK.CloudAssembly.Schema@53.9.0
