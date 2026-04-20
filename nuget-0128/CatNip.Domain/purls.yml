@@ -10,3 +10,4 @@
 - pkg:nuget/CatNip.Domain@2.0.0
 - pkg:nuget/CatNip.Domain@2.0.1
 - pkg:nuget/CatNip.Domain@3.0.0
+- pkg:nuget/CatNip.Domain@4.0.0
