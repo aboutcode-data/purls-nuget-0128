@@ -40,6 +40,7 @@
 - pkg:nuget/CK.Core@22.1.0
 - pkg:nuget/CK.Core@23.0.0
 - pkg:nuget/CK.Core@24.0.0
+- pkg:nuget/CK.Core@25.0.0
 - pkg:nuget/CK.Core@4.0.0
 - pkg:nuget/CK.Core@4.0.0-develop
 - pkg:nuget/CK.Core@4.0.1
