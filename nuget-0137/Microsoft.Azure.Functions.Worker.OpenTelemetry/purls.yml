@@ -4,3 +4,4 @@
 - pkg:nuget/Microsoft.Azure.Functions.Worker.OpenTelemetry@1.1.0-preview4
 - pkg:nuget/Microsoft.Azure.Functions.Worker.OpenTelemetry@1.1.0-preview5
 - pkg:nuget/Microsoft.Azure.Functions.Worker.OpenTelemetry@1.1.0-preview6
+- pkg:nuget/Microsoft.Azure.Functions.Worker.OpenTelemetry@1.2.0
