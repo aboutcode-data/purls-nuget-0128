@@ -1614,6 +1614,7 @@
 - pkg:nuget/HotChocolate.Types@16.1.0-p.1.5
 - pkg:nuget/HotChocolate.Types@16.1.0-p.1.6
 - pkg:nuget/HotChocolate.Types@16.1.0-p.1.7
+- pkg:nuget/HotChocolate.Types@16.1.0-p.1.9
 - pkg:nuget/HotChocolate.Types@9.0.0
 - pkg:nuget/HotChocolate.Types@9.0.0-preview.1
 - pkg:nuget/HotChocolate.Types@9.0.0-preview.10
