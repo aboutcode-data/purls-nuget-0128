@@ -1,4 +1,5 @@
 - pkg:nuget/CloudTek.Build.Tool@10.0.1
+- pkg:nuget/CloudTek.Build.Tool@10.1.0
 - pkg:nuget/CloudTek.Build.Tool@2.1.0
 - pkg:nuget/CloudTek.Build.Tool@2.1.0-beta
 - pkg:nuget/CloudTek.Build.Tool@2.1.0-beta281
