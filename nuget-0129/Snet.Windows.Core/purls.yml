@@ -37,5 +37,6 @@
 - pkg:nuget/Snet.Windows.Core@25.272.2
 - pkg:nuget/Snet.Windows.Core@25.272.3
 - pkg:nuget/Snet.Windows.Core@25.322.1
+- pkg:nuget/Snet.Windows.Core@26.114.1
 - pkg:nuget/Snet.Windows.Core@26.77.1
 - pkg:nuget/Snet.Windows.Core@26.78.2
