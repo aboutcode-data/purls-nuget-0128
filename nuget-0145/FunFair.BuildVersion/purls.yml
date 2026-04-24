@@ -1947,6 +1947,9 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.19.1867-main
 - pkg:nuget/FunFair.BuildVersion@6.2.19.1869-main
 - pkg:nuget/FunFair.BuildVersion@6.2.19.1879-main
+- pkg:nuget/FunFair.BuildVersion@6.2.19.1902-main
+- pkg:nuget/FunFair.BuildVersion@6.2.19.1903-main
+- pkg:nuget/FunFair.BuildVersion@6.2.19.1904-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.34-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.36-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.37-main
