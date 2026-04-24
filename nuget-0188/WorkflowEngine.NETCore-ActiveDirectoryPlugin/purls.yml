@@ -8,3 +8,4 @@
 - pkg:nuget/WorkflowEngine.NETCore-ActiveDirectoryPlugin@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-ActiveDirectoryPlugin@20.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ActiveDirectoryPlugin@20.0.8
+- pkg:nuget/WorkflowEngine.NETCore-ActiveDirectoryPlugin@21.0.0

@@ -229,3 +229,4 @@
 - pkg:nuget/SpawnDev.BlazorJS@2.8.0
 - pkg:nuget/SpawnDev.BlazorJS@2.9.0
 - pkg:nuget/SpawnDev.BlazorJS@3.1.1
+- pkg:nuget/SpawnDev.BlazorJS@3.5.6
