@@ -6,3 +6,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventBridge@2.24.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventBridge@2.24.1
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventBridge@2.25.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.EventBridge@2.27.13
