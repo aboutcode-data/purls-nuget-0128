@@ -5,3 +5,4 @@
 - pkg:nuget/ProjectUsNormalizer@0.1.0-build-20240628-184139-sha-984cd7a
 - pkg:nuget/ProjectUsNormalizer@0.1.0-build-20240628-184720-sha-984cd7a
 - pkg:nuget/ProjectUsNormalizer@0.1.0-build-20240701-180720-sha-0000000
+- pkg:nuget/ProjectUsNormalizer@0.2.0
