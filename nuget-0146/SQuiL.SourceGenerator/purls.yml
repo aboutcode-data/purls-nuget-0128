@@ -1,5 +1,6 @@
 - pkg:nuget/SQuiL.SourceGenerator@10.0.201.85-beta
 - pkg:nuget/SQuiL.SourceGenerator@10.0.201.86-beta
+- pkg:nuget/SQuiL.SourceGenerator@10.0.203.105-beta
 - pkg:nuget/SQuiL.SourceGenerator@8.0.201.18-beta
 - pkg:nuget/SQuiL.SourceGenerator@8.0.201.19-beta
 - pkg:nuget/SQuiL.SourceGenerator@8.0.201.20-beta
