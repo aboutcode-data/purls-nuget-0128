@@ -168,6 +168,7 @@
 - pkg:nuget/EasyDesk.Commons@0.162.2
 - pkg:nuget/EasyDesk.Commons@0.162.4
 - pkg:nuget/EasyDesk.Commons@0.164.16
+- pkg:nuget/EasyDesk.Commons@0.165.0
 - pkg:nuget/EasyDesk.Commons@0.68.0
 - pkg:nuget/EasyDesk.Commons@0.69.0
 - pkg:nuget/EasyDesk.Commons@0.70.0
