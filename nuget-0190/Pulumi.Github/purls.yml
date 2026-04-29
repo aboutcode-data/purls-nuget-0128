@@ -321,6 +321,8 @@
 - pkg:nuget/Pulumi.Github@6.13.0-alpha.1774890126
 - pkg:nuget/Pulumi.Github@6.13.0-alpha.1776406718
 - pkg:nuget/Pulumi.Github@6.13.0-alpha.1776752151
+- pkg:nuget/Pulumi.Github@6.13.1
+- pkg:nuget/Pulumi.Github@6.13.1-alpha.1777436485
 - pkg:nuget/Pulumi.Github@6.14.0-alpha.1777271640
 - pkg:nuget/Pulumi.Github@6.2.0
 - pkg:nuget/Pulumi.Github@6.2.0-alpha.1710916854%2Bd4c24b7f

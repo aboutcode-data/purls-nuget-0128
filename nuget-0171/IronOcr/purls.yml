@@ -53,6 +53,7 @@
 - pkg:nuget/IronOcr@2025.9.7
 - pkg:nuget/IronOcr@2026.3.2
 - pkg:nuget/IronOcr@2026.4.1
+- pkg:nuget/IronOcr@2026.5.1
 - pkg:nuget/IronOcr@4.0.10
 - pkg:nuget/IronOcr@4.0.9
 - pkg:nuget/IronOcr@4.1.0
