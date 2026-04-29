@@ -25,3 +25,4 @@
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@3.2.2-resub-checking.1
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@3.2.2-resub-checking.5
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@3.3.0
+- pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@4.0.0-feature-add-essentials-v3-compatibility.1
