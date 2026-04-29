@@ -35,3 +35,4 @@
 - pkg:nuget/CurrencyCloud@6.7.0
 - pkg:nuget/CurrencyCloud@7.0.0
 - pkg:nuget/CurrencyCloud@7.1.0
+- pkg:nuget/CurrencyCloud@9.5.0
