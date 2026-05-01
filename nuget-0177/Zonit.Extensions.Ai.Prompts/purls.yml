@@ -29,3 +29,4 @@
 - pkg:nuget/Zonit.Extensions.Ai.Prompts@1.9.15
 - pkg:nuget/Zonit.Extensions.Ai.Prompts@1.9.19
 - pkg:nuget/Zonit.Extensions.Ai.Prompts@2.0.11
+- pkg:nuget/Zonit.Extensions.Ai.Prompts@2.0.13
