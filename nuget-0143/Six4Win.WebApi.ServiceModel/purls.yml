@@ -5,6 +5,7 @@
 - pkg:nuget/Six4Win.WebApi.ServiceModel@1.0.5
 - pkg:nuget/Six4Win.WebApi.ServiceModel@1.0.6
 - pkg:nuget/Six4Win.WebApi.ServiceModel@1.0.7
+- pkg:nuget/Six4Win.WebApi.ServiceModel@10.0.0
 - pkg:nuget/Six4Win.WebApi.ServiceModel@2.0.0
 - pkg:nuget/Six4Win.WebApi.ServiceModel@3.0.1
 - pkg:nuget/Six4Win.WebApi.ServiceModel@3.1.0
