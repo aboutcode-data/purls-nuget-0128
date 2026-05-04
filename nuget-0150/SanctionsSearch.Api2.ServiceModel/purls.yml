@@ -16,3 +16,4 @@
 - pkg:nuget/SanctionsSearch.Api2.ServiceModel@1.5.1
 - pkg:nuget/SanctionsSearch.Api2.ServiceModel@1.5.2
 - pkg:nuget/SanctionsSearch.Api2.ServiceModel@1.6.0
+- pkg:nuget/SanctionsSearch.Api2.ServiceModel@1.8.0
