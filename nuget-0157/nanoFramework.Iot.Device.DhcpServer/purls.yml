@@ -35,3 +35,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.DhcpServer@1.2.85
 - pkg:nuget/nanoFramework.Iot.Device.DhcpServer@1.2.851
 - pkg:nuget/nanoFramework.Iot.Device.DhcpServer@1.2.89
+- pkg:nuget/nanoFramework.Iot.Device.DhcpServer@2.0.0-preview.49

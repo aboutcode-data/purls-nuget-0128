@@ -597,3 +597,4 @@
 - pkg:nuget/Pulumi.Okta@6.5.0-alpha.1776322188
 - pkg:nuget/Pulumi.Okta@6.6.0
 - pkg:nuget/Pulumi.Okta@6.6.0-alpha.1777436846
+- pkg:nuget/Pulumi.Okta@6.7.0-alpha.1777878066
