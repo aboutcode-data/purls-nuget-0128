@@ -2,6 +2,7 @@
 - pkg:nuget/SQLib.SqlServer@0.11.0
 - pkg:nuget/SQLib.SqlServer@0.12.0
 - pkg:nuget/SQLib.SqlServer@0.13.0
+- pkg:nuget/SQLib.SqlServer@0.16.0
 - pkg:nuget/SQLib.SqlServer@0.8.0
 - pkg:nuget/SQLib.SqlServer@0.8.5
 - pkg:nuget/SQLib.SqlServer@0.8.6
