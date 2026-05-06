@@ -1,0 +1,2 @@
+- pkg:nuget/Flowly.DeadLetters.SqlServer@1.0.0
+- pkg:nuget/Flowly.DeadLetters.SqlServer@1.0.1
