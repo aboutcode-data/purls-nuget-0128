@@ -1,1 +1,2 @@
+- pkg:nuget/ULinkRPC.Transport.WebSocket@0.11.4
 - pkg:nuget/ULinkRPC.Transport.WebSocket@0.7.0
