@@ -2,6 +2,7 @@
 - pkg:nuget/Reo.Core.Elastic@1.0.1114
 - pkg:nuget/Reo.Core.Elastic@1.0.1251
 - pkg:nuget/Reo.Core.Elastic@10.0.127
+- pkg:nuget/Reo.Core.Elastic@10.0.129
 - pkg:nuget/Reo.Core.Elastic@10.0.28
 - pkg:nuget/Reo.Core.Elastic@10.0.33
 - pkg:nuget/Reo.Core.Elastic@10.0.51
