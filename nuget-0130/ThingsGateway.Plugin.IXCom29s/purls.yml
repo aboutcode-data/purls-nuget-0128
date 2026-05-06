@@ -6,6 +6,7 @@
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.4.42
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.4.45
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.4.8
+- pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.5.15
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.5.6
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.5.7
 - pkg:nuget/ThingsGateway.Plugin.IXCom29s@12.5.8
