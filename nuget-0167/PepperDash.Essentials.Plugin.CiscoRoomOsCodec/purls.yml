@@ -221,3 +221,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-feature-add-camera-manager.7
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-feature-add-camera-manager.8
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-feature-add-cameracontrol-mode.1
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-fix-cisco-poll-delimiter-and-camera-nre.3
