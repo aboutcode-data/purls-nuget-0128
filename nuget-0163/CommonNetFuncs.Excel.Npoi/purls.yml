@@ -76,3 +76,4 @@
 - pkg:nuget/CommonNetFuncs.Excel.Npoi@3.7.23
 - pkg:nuget/CommonNetFuncs.Excel.Npoi@3.8.38
 - pkg:nuget/CommonNetFuncs.Excel.Npoi@4.0.17
+- pkg:nuget/CommonNetFuncs.Excel.Npoi@4.0.36

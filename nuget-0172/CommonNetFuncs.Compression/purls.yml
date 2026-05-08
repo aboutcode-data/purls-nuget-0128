@@ -71,3 +71,4 @@
 - pkg:nuget/CommonNetFuncs.Compression@3.7.8
 - pkg:nuget/CommonNetFuncs.Compression@3.8.38
 - pkg:nuget/CommonNetFuncs.Compression@4.0.17
+- pkg:nuget/CommonNetFuncs.Compression@4.0.36
