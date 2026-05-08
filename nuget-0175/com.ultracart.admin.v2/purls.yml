@@ -369,4 +369,6 @@
 - pkg:nuget/com.ultracart.admin.v2@4.1.6
 - pkg:nuget/com.ultracart.admin.v2@4.1.7
 - pkg:nuget/com.ultracart.admin.v2@4.1.8
+- pkg:nuget/com.ultracart.admin.v2@4.1.87
+- pkg:nuget/com.ultracart.admin.v2@4.1.88
 - pkg:nuget/com.ultracart.admin.v2@4.1.9
