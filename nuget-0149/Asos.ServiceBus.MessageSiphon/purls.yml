@@ -36,6 +36,7 @@
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.1.8
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.1.9
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.112
+- pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.119
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.12
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.14
 - pkg:nuget/Asos.ServiceBus.MessageSiphon@1.2.15
