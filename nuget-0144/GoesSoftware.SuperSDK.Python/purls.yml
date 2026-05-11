@@ -13,3 +13,4 @@
 - pkg:nuget/GoesSoftware.SuperSDK.Python@7.0.0
 - pkg:nuget/GoesSoftware.SuperSDK.Python@7.16.0
 - pkg:nuget/GoesSoftware.SuperSDK.Python@7.18.0
+- pkg:nuget/GoesSoftware.SuperSDK.Python@7.19.1
