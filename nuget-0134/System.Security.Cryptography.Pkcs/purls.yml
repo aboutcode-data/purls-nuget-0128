@@ -10,6 +10,7 @@
 - pkg:nuget/System.Security.Cryptography.Pkcs@10.0.1
 - pkg:nuget/System.Security.Cryptography.Pkcs@10.0.7
 - pkg:nuget/System.Security.Cryptography.Pkcs@11.0.0-preview.2.26159.112
+- pkg:nuget/System.Security.Cryptography.Pkcs@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Security.Cryptography.Pkcs@4.0.0
 - pkg:nuget/System.Security.Cryptography.Pkcs@4.3.0
 - pkg:nuget/System.Security.Cryptography.Pkcs@4.3.0-preview1-24530-04
