@@ -1,1 +1,2 @@
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository.Abstractions@1.0.0-alpha
+- pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository.Abstractions@1.0.3

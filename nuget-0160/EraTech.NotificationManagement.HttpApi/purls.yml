@@ -1,2 +1,3 @@
 - pkg:nuget/EraTech.NotificationManagement.HttpApi@2.1.47
 - pkg:nuget/EraTech.NotificationManagement.HttpApi@2.1.81
+- pkg:nuget/EraTech.NotificationManagement.HttpApi@2.2.3
