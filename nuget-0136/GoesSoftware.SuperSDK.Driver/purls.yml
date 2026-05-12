@@ -21,3 +21,5 @@
 - pkg:nuget/GoesSoftware.SuperSDK.Driver@7.16.0
 - pkg:nuget/GoesSoftware.SuperSDK.Driver@7.18.0
 - pkg:nuget/GoesSoftware.SuperSDK.Driver@7.19.1
+- pkg:nuget/GoesSoftware.SuperSDK.Driver@7.20.0
+- pkg:nuget/GoesSoftware.SuperSDK.Driver@7.21.0
