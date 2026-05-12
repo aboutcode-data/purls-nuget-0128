@@ -225,3 +225,4 @@
 - pkg:nuget/Foundatio.Parsers.ElasticQueries@7.9.0-beta3
 - pkg:nuget/Foundatio.Parsers.ElasticQueries@7.9.0-beta4
 - pkg:nuget/Foundatio.Parsers.ElasticQueries@7.9.0-beta5
+- pkg:nuget/Foundatio.Parsers.ElasticQueries@8.0.0
