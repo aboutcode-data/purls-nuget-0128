@@ -4,6 +4,8 @@
 - pkg:nuget/DotnetPackaging.Msix@0.0.0-g77fc1c7828
 - pkg:nuget/DotnetPackaging.Msix@0.0.0-ga384a3e14b
 - pkg:nuget/DotnetPackaging.Msix@0.0.0-gb566e32469
+- pkg:nuget/DotnetPackaging.Msix@10.1.30
+- pkg:nuget/DotnetPackaging.Msix@10.1.31
 - pkg:nuget/DotnetPackaging.Msix@2.0.16
 - pkg:nuget/DotnetPackaging.Msix@3.0.2
 - pkg:nuget/DotnetPackaging.Msix@3.0.3

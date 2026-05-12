@@ -154,6 +154,7 @@
 - pkg:nuget/Z.EntityFramework.Plus.EF5@1.9.3
 - pkg:nuget/Z.EntityFramework.Plus.EF5@1.9.5
 - pkg:nuget/Z.EntityFramework.Plus.EF5@1.9.7
+- pkg:nuget/Z.EntityFramework.Plus.EF5@10.105.5
 - pkg:nuget/Z.EntityFramework.Plus.EF5@5.1.0
 - pkg:nuget/Z.EntityFramework.Plus.EF5@5.1.10
 - pkg:nuget/Z.EntityFramework.Plus.EF5@5.1.11
