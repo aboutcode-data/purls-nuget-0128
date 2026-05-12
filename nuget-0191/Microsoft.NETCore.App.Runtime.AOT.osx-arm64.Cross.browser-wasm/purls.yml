@@ -9,8 +9,10 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.7
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.8
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@11.0.0-preview.3.26207.106
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@8.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@8.0.0-preview.1.23110.8
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@8.0.0-preview.2.23128.3
@@ -51,6 +53,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.16
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@9.0.4
