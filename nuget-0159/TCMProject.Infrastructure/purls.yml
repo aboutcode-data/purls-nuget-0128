@@ -1,6 +1,7 @@
 - pkg:nuget/TCMProject.Infrastructure@26.4.28.1
 - pkg:nuget/TCMProject.Infrastructure@26.4.28.2
 - pkg:nuget/TCMProject.Infrastructure@26.4.28.3
+- pkg:nuget/TCMProject.Infrastructure@26.5.12.1
 - pkg:nuget/TCMProject.Infrastructure@4.10.1.2
 - pkg:nuget/TCMProject.Infrastructure@4.10.10.1
 - pkg:nuget/TCMProject.Infrastructure@4.10.16.1
