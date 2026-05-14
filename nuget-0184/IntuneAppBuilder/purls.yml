@@ -86,5 +86,6 @@
 - pkg:nuget/IntuneAppBuilder@3.3.1-update-azure-identity.3
 - pkg:nuget/IntuneAppBuilder@4.0.0
 - pkg:nuget/IntuneAppBuilder@4.0.0-dotnet-8.2
+- pkg:nuget/IntuneAppBuilder@4.0.0-fix-update-package-msgragh.3
 - pkg:nuget/IntuneAppBuilder@4.0.0-upgrade-azure-identity.1%2B153
 - pkg:nuget/IntuneAppBuilder@4.0.0-upgrade-packages.3
