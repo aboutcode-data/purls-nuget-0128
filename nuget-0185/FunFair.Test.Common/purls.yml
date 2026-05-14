@@ -2372,6 +2372,7 @@
 - pkg:nuget/FunFair.Test.Common@6.2.21.2161-main
 - pkg:nuget/FunFair.Test.Common@6.2.25.2238-main
 - pkg:nuget/FunFair.Test.Common@6.2.25.2239-main
+- pkg:nuget/FunFair.Test.Common@6.2.26.2244-main
 - pkg:nuget/FunFair.Test.Common@6.2.4.1804-main
 - pkg:nuget/FunFair.Test.Common@6.2.5.1844-main
 - pkg:nuget/FunFair.Test.Common@6.2.5.1845-main

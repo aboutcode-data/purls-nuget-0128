@@ -23,6 +23,7 @@
 - pkg:nuget/SoundFingerprinting@12.3.0
 - pkg:nuget/SoundFingerprinting@12.4.0
 - pkg:nuget/SoundFingerprinting@12.5.0
+- pkg:nuget/SoundFingerprinting@15.0.1
 - pkg:nuget/SoundFingerprinting@2.0.0
 - pkg:nuget/SoundFingerprinting@2.0.0-alpha
 - pkg:nuget/SoundFingerprinting@2.1.0
