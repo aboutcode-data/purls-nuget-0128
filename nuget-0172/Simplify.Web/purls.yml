@@ -50,3 +50,4 @@
 - pkg:nuget/Simplify.Web@5.0.0-pre01
 - pkg:nuget/Simplify.Web@5.0.0-pre02
 - pkg:nuget/Simplify.Web@5.1.0
+- pkg:nuget/Simplify.Web@5.2.0
