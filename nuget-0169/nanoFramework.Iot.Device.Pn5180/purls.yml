@@ -95,3 +95,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Pn5180@1.2.89
 - pkg:nuget/nanoFramework.Iot.Device.Pn5180@1.2.95
 - pkg:nuget/nanoFramework.Iot.Device.Pn5180@2.0.0-preview.49
+- pkg:nuget/nanoFramework.Iot.Device.Pn5180@2.0.0-preview.73
