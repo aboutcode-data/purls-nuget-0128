@@ -256,3 +256,5 @@
 - pkg:nuget/GreatIdeaz.trellispark.UX.WASM.Components@8.0.0-CI-20260417-214123
 - pkg:nuget/GreatIdeaz.trellispark.UX.WASM.Components@8.0.0-CI-20260508-221845
 - pkg:nuget/GreatIdeaz.trellispark.UX.WASM.Components@8.0.0-CI-20260515-211951
+- pkg:nuget/GreatIdeaz.trellispark.UX.WASM.Components@8.0.0-CI-20260525-221142
+- pkg:nuget/GreatIdeaz.trellispark.UX.WASM.Components@8.0.0-CI-20260525-221330
