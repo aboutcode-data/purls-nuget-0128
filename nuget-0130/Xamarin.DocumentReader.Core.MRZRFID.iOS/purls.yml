@@ -72,3 +72,6 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.4.2370-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.4.2384-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.5.2494-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.5.2633-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.5.2663-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.MRZRFID.iOS@9.5.2679-rc

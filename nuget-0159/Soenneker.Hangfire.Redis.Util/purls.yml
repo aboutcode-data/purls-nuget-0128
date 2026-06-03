@@ -37,6 +37,7 @@
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.155
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.163
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.171
+- pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.177
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.37
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.44
 - pkg:nuget/Soenneker.Hangfire.Redis.Util@4.0.47
