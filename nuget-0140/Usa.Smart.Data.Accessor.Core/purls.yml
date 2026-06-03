@@ -38,6 +38,7 @@
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.1.2
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.1.3
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.1.4
+- pkg:nuget/Usa.Smart.Data.Accessor.Core@2.13.0
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.2.0
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.3.0
 - pkg:nuget/Usa.Smart.Data.Accessor.Core@2.4.0
