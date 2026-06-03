@@ -14,3 +14,4 @@
 - pkg:nuget/Kentico.Xperience.Algolia@6.0.2
 - pkg:nuget/Kentico.Xperience.Algolia@6.1.0
 - pkg:nuget/Kentico.Xperience.Algolia@6.2.0
+- pkg:nuget/Kentico.Xperience.Algolia@7.0.1
