@@ -119,6 +119,8 @@
 - pkg:nuget/Mews.Fiscalizations.All@37.2.7
 - pkg:nuget/Mews.Fiscalizations.All@37.2.8
 - pkg:nuget/Mews.Fiscalizations.All@37.2.9
+- pkg:nuget/Mews.Fiscalizations.All@37.4.0
+- pkg:nuget/Mews.Fiscalizations.All@37.4.2
 - pkg:nuget/Mews.Fiscalizations.All@4.0.0
 - pkg:nuget/Mews.Fiscalizations.All@5.0.0
 - pkg:nuget/Mews.Fiscalizations.All@6.0.0
