@@ -33,3 +33,4 @@
 - pkg:nuget/DWNet.Data@5.0.0-beta5
 - pkg:nuget/DWNet.Data@5.0.0-beta6
 - pkg:nuget/DWNet.Data@5.0.1
+- pkg:nuget/DWNet.Data@5.1.0
