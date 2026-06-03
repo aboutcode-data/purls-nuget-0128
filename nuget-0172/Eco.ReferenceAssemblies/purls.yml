@@ -35,6 +35,7 @@
 - pkg:nuget/Eco.ReferenceAssemblies@0.11.1.8-beta-release-831
 - pkg:nuget/Eco.ReferenceAssemblies@0.11.1.9-beta-release-842
 - pkg:nuget/Eco.ReferenceAssemblies@0.12.0.3-beta-release-924
+- pkg:nuget/Eco.ReferenceAssemblies@0.13.0.4-beta-release-1024
 - pkg:nuget/Eco.ReferenceAssemblies@0.9.4-beta-testgame-modkit-nuget-0ed386fd
 - pkg:nuget/Eco.ReferenceAssemblies@0.9.5.1-beta-release-310
 - pkg:nuget/Eco.ReferenceAssemblies@0.9.5.2-beta-release-315
