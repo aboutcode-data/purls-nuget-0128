@@ -26,3 +26,6 @@
 - pkg:nuget/SCBScript@15.64.2
 - pkg:nuget/SCBScript@15.64.3
 - pkg:nuget/SCBScript@15.64.4
+- pkg:nuget/SCBScript@15.68.1
+- pkg:nuget/SCBScript@15.68.2
+- pkg:nuget/SCBScript@15.68.3
