@@ -273,6 +273,7 @@
 - pkg:nuget/Maanfee.Web.Core@8.4.0
 - pkg:nuget/Maanfee.Web.Core@8.5.0
 - pkg:nuget/Maanfee.Web.Core@8.565.0
+- pkg:nuget/Maanfee.Web.Core@8.570.1
 - pkg:nuget/Maanfee.Web.Core@8.6.0
 - pkg:nuget/Maanfee.Web.Core@8.7.0
 - pkg:nuget/Maanfee.Web.Core@8.8.0
