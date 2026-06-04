@@ -150,4 +150,5 @@
 - pkg:nuget/QuantConnect.IBAutomater@2.0.84
 - pkg:nuget/QuantConnect.IBAutomater@2.0.85
 - pkg:nuget/QuantConnect.IBAutomater@2.0.86
+- pkg:nuget/QuantConnect.IBAutomater@2.0.89
 - pkg:nuget/QuantConnect.IBAutomater@2.0.9
