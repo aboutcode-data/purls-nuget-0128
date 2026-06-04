@@ -79,6 +79,7 @@
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.71.1.29025%2B3da560931e0e98998c864ae57acbd466c3ebf66e
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.72.1.29563%2Ba9da77a90ef00854dc1284eb906be84c15bcd101
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.76.4.31421%2Bae29ed0029175d31277bb95d00acd672e2ec8135
+- pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.79.1.33051%2B1d378c55256b40a9eed6afb93d6cf625b7bbeefa
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.8.1.9412
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.8.4.9443
 - pkg:nuget/Aurigma.DesignAtomsApi.ApiClient@2.9.1.9633
