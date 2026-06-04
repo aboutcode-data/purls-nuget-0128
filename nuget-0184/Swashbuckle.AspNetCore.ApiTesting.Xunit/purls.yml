@@ -1,5 +1,6 @@
 - pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@1.0.0
 - pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@10.1.7
+- pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@10.2.1
 - pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@5.0.0
 - pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@5.0.0-rc2
 - pkg:nuget/Swashbuckle.AspNetCore.ApiTesting.Xunit@5.0.0-rc3
