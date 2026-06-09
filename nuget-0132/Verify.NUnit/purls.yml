@@ -606,6 +606,7 @@
 - pkg:nuget/Verify.NUnit@31.12.1
 - pkg:nuget/Verify.NUnit@31.14.0
 - pkg:nuget/Verify.NUnit@31.19.0
+- pkg:nuget/Verify.NUnit@31.19.1
 - pkg:nuget/Verify.NUnit@4.0.0
 - pkg:nuget/Verify.NUnit@4.0.1
 - pkg:nuget/Verify.NUnit@4.0.2
