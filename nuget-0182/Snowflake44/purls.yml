@@ -12,3 +12,4 @@
 - pkg:nuget/Snowflake44@3.4.0
 - pkg:nuget/Snowflake44@3.6.0
 - pkg:nuget/Snowflake44@3.8.0
+- pkg:nuget/Snowflake44@3.8.1
