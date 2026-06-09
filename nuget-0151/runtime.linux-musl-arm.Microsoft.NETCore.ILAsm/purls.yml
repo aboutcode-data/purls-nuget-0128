@@ -12,6 +12,7 @@
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@10.0.8
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@11.0.0-preview.3.26207.106
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@11.0.0-preview.4.26230.115
+- pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@11.0.0-preview.5.26302.115
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@5.0.0
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@6.0.0
 - pkg:nuget/runtime.linux-musl-arm.Microsoft.NETCore.ILAsm@6.0.0-preview.1.21102.12
