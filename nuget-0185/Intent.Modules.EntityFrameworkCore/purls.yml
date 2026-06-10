@@ -79,6 +79,7 @@
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.3
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.30
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.4
+- pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.45
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.5
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.7
 - pkg:nuget/Intent.Modules.EntityFrameworkCore@5.0.8
