@@ -103,6 +103,7 @@
 - pkg:nuget/WATG.Common@2.12.1
 - pkg:nuget/WATG.Common@2.12.2
 - pkg:nuget/WATG.Common@2.13.0
+- pkg:nuget/WATG.Common@2.17.5
 - pkg:nuget/WATG.Common@2.2.0
 - pkg:nuget/WATG.Common@2.2.1
 - pkg:nuget/WATG.Common@2.2.10
