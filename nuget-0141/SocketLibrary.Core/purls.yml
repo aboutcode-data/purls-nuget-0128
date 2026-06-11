@@ -42,6 +42,7 @@
 - pkg:nuget/SocketLibrary.Core@1.0.19
 - pkg:nuget/SocketLibrary.Core@1.0.2
 - pkg:nuget/SocketLibrary.Core@1.0.20
+- pkg:nuget/SocketLibrary.Core@1.0.25
 - pkg:nuget/SocketLibrary.Core@1.0.3
 - pkg:nuget/SocketLibrary.Core@1.0.4
 - pkg:nuget/SocketLibrary.Core@1.0.5
