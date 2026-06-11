@@ -56,3 +56,6 @@
 - pkg:nuget/PayTech.Switch.Issuing.Core@1.0.7.9
 - pkg:nuget/PayTech.Switch.Issuing.Core@1.0.8.6
 - pkg:nuget/PayTech.Switch.Issuing.Core@1.0.8.8
+- pkg:nuget/PayTech.Switch.Issuing.Core@1.0.9.1
+- pkg:nuget/PayTech.Switch.Issuing.Core@1.0.9.2
+- pkg:nuget/PayTech.Switch.Issuing.Core@1.0.9.4
