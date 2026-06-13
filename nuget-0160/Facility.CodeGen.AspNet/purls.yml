@@ -23,6 +23,7 @@
 - pkg:nuget/Facility.CodeGen.AspNet@3.11.1
 - pkg:nuget/Facility.CodeGen.AspNet@3.11.2
 - pkg:nuget/Facility.CodeGen.AspNet@3.13.2
+- pkg:nuget/Facility.CodeGen.AspNet@3.13.5
 - pkg:nuget/Facility.CodeGen.AspNet@3.2.0
 - pkg:nuget/Facility.CodeGen.AspNet@3.3.0
 - pkg:nuget/Facility.CodeGen.AspNet@3.3.1
