@@ -353,3 +353,4 @@
 - pkg:nuget/Masuit.Tools.Core@2025.5.2
 - pkg:nuget/Masuit.Tools.Core@2025.6.0
 - pkg:nuget/Masuit.Tools.Core@2025.6.4
+- pkg:nuget/Masuit.Tools.Core@2026.2.0-alpha1
