@@ -83,6 +83,7 @@
 - pkg:nuget/SoilData@3.0.10
 - pkg:nuget/SoilData@3.0.11
 - pkg:nuget/SoilData@3.0.12
+- pkg:nuget/SoilData@3.0.15
 - pkg:nuget/SoilData@3.0.2
 - pkg:nuget/SoilData@3.0.3
 - pkg:nuget/SoilData@3.0.4
