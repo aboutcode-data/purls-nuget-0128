@@ -1,1 +1,2 @@
 - pkg:nuget/AppOS.D4.PostgreSQL@7.3.5
+- pkg:nuget/AppOS.D4.PostgreSQL@8.0.1
