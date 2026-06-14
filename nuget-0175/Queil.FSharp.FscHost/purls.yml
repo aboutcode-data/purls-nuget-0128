@@ -65,6 +65,7 @@
 - pkg:nuget/Queil.FSharp.FscHost@0.44.0-rc.3
 - pkg:nuget/Queil.FSharp.FscHost@0.44.0-rc.5
 - pkg:nuget/Queil.FSharp.FscHost@0.5.0
+- pkg:nuget/Queil.FSharp.FscHost@0.54.0-alpha.1
 - pkg:nuget/Queil.FSharp.FscHost@0.6.0-alpha.1
 - pkg:nuget/Queil.FSharp.FscHost@0.7.0
 - pkg:nuget/Queil.FSharp.FscHost@0.7.0-alpha.1
