@@ -77,3 +77,4 @@
 - pkg:nuget/FBroSharp.x64@4.8.20
 - pkg:nuget/FBroSharp.x64@4.9.21
 - pkg:nuget/FBroSharp.x64@5.16.13
+- pkg:nuget/FBroSharp.x64@5.38.48
