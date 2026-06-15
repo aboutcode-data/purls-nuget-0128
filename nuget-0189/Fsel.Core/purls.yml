@@ -335,6 +335,7 @@
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.25.4.tenant.5
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.25.4.tenant.6
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.25.5.subject.redis.4
+- pkg:nuget/Fsel.Core@1.2.32-rc.54.25.5.subject.redis.7
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.25.5.tenant.1
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.25.5.tenant.2
 - pkg:nuget/Fsel.Core@1.2.32-rc.54.3
