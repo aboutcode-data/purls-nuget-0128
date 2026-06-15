@@ -3,6 +3,7 @@
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.12.1
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.12.2
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.12.3
+- pkg:nuget/Chickensoft.AutoInject.Analyzers@2.13.14
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.13.3
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.7.0
 - pkg:nuget/Chickensoft.AutoInject.Analyzers@2.7.1
