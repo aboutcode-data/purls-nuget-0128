@@ -33,6 +33,7 @@
 - pkg:nuget/SweetMock@0.9.41
 - pkg:nuget/SweetMock@0.9.42-RC2
 - pkg:nuget/SweetMock@0.9.42-RC6
+- pkg:nuget/SweetMock@0.9.42-RC7
 - pkg:nuget/SweetMock@0.9.5
 - pkg:nuget/SweetMock@0.9.6
 - pkg:nuget/SweetMock@0.9.7
