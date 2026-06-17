@@ -652,3 +652,7 @@
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201014-main
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201426
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201427-feat-date-range-slider
+- pkg:nuget/MudBlazor.Extensions@9.5.1-prev-2606171141
+- pkg:nuget/MudBlazor.Extensions@9.5.1-prev-2606171141-main
+- pkg:nuget/MudBlazor.Extensions@9.5.1-prev-2606171150
+- pkg:nuget/MudBlazor.Extensions@9.5.1-prev-2606171151-main
