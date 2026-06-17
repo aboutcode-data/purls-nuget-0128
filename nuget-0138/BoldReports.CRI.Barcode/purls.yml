@@ -16,6 +16,7 @@
 - pkg:nuget/BoldReports.CRI.Barcode@12.2.9
 - pkg:nuget/BoldReports.CRI.Barcode@13.1.26
 - pkg:nuget/BoldReports.CRI.Barcode@13.1.36
+- pkg:nuget/BoldReports.CRI.Barcode@13.1.37
 - pkg:nuget/BoldReports.CRI.Barcode@3.3.23
 - pkg:nuget/BoldReports.CRI.Barcode@3.3.24
 - pkg:nuget/BoldReports.CRI.Barcode@3.3.25
