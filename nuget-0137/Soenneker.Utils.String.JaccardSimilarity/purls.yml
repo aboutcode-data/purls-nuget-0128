@@ -976,5 +976,6 @@
 - pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@3.0.983
 - pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@3.0.984
 - pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@3.0.985
+- pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@4.0.1000
 - pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@4.0.986
 - pkg:nuget/Soenneker.Utils.String.JaccardSimilarity@4.0.987
