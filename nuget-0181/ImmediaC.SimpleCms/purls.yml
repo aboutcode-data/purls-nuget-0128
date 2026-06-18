@@ -1,3 +1,4 @@
+- pkg:nuget/ImmediaC.SimpleCms@10.0.0-preview10
 - pkg:nuget/ImmediaC.SimpleCms@10.0.0-preview3
 - pkg:nuget/ImmediaC.SimpleCms@10.0.0-preview4
 - pkg:nuget/ImmediaC.SimpleCms@10.0.0-preview5
