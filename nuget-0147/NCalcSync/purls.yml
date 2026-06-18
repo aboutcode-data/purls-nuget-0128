@@ -25,6 +25,10 @@
 - pkg:nuget/NCalcSync@4.4.0-alpha
 - pkg:nuget/NCalcSync@5.0.0
 - pkg:nuget/NCalcSync@5.1.0
+- pkg:nuget/NCalcSync@5.10.0
+- pkg:nuget/NCalcSync@5.11.0
+- pkg:nuget/NCalcSync@5.12.0
+- pkg:nuget/NCalcSync@5.13.0
 - pkg:nuget/NCalcSync@5.2.0
 - pkg:nuget/NCalcSync@5.2.1
 - pkg:nuget/NCalcSync@5.2.10
@@ -45,3 +49,8 @@
 - pkg:nuget/NCalcSync@5.5.0
 - pkg:nuget/NCalcSync@5.5.0-alpha
 - pkg:nuget/NCalcSync@5.6.0
+- pkg:nuget/NCalcSync@5.7.0
+- pkg:nuget/NCalcSync@5.8.0
+- pkg:nuget/NCalcSync@5.9.0
+- pkg:nuget/NCalcSync@6.0.0
+- pkg:nuget/NCalcSync@6.1.0
