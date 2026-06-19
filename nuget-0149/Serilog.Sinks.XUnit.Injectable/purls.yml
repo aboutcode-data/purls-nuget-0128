@@ -146,6 +146,7 @@
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.215
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.221
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.224
+- pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.233
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.66
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.67
 - pkg:nuget/Serilog.Sinks.XUnit.Injectable@4.0.68
