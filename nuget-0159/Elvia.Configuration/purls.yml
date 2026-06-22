@@ -72,5 +72,9 @@
 - pkg:nuget/Elvia.Configuration@5.0.5-preview.1-1
 - pkg:nuget/Elvia.Configuration@5.0.6-beta1
 - pkg:nuget/Elvia.Configuration@5.0.6-beta3
+- pkg:nuget/Elvia.Configuration@7.0.1-preview.1-10
+- pkg:nuget/Elvia.Configuration@7.0.1-preview.1-13
+- pkg:nuget/Elvia.Configuration@7.0.1-preview.1-15
 - pkg:nuget/Elvia.Configuration@7.0.1-preview.1-4
 - pkg:nuget/Elvia.Configuration@7.0.1-preview.1-6
+- pkg:nuget/Elvia.Configuration@7.0.1-preview.1-8
