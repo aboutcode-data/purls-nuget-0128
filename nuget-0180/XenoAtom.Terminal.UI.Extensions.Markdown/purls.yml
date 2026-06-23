@@ -12,3 +12,5 @@
 - pkg:nuget/XenoAtom.Terminal.UI.Extensions.Markdown@2.0.1
 - pkg:nuget/XenoAtom.Terminal.UI.Extensions.Markdown@2.0.2
 - pkg:nuget/XenoAtom.Terminal.UI.Extensions.Markdown@2.1.0
+- pkg:nuget/XenoAtom.Terminal.UI.Extensions.Markdown@3.5.5
+- pkg:nuget/XenoAtom.Terminal.UI.Extensions.Markdown@3.7.5
