@@ -1,4 +1,5 @@
 - pkg:nuget/Refit.Newtonsoft.Json@11.1.0
+- pkg:nuget/Refit.Newtonsoft.Json@12.0.0
 - pkg:nuget/Refit.Newtonsoft.Json@6.0.0-preview.121
 - pkg:nuget/Refit.Newtonsoft.Json@6.0.0-preview.124
 - pkg:nuget/Refit.Newtonsoft.Json@6.0.0-preview.128
