@@ -23,4 +23,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Modbus@1.0.517
 - pkg:nuget/nanoFramework.Iot.Device.Modbus@1.0.533
 - pkg:nuget/nanoFramework.Iot.Device.Modbus@1.0.89
+- pkg:nuget/nanoFramework.Iot.Device.Modbus@1.1.71
 - pkg:nuget/nanoFramework.Iot.Device.Modbus@2.0.0-preview-049
