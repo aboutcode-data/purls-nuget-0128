@@ -322,6 +322,7 @@
 - pkg:nuget/IFCCommonResources@1.7.227
 - pkg:nuget/IFCCommonResources@1.7.23
 - pkg:nuget/IFCCommonResources@1.7.236
+- pkg:nuget/IFCCommonResources@1.7.238
 - pkg:nuget/IFCCommonResources@1.7.24
 - pkg:nuget/IFCCommonResources@1.7.25
 - pkg:nuget/IFCCommonResources@1.7.26
