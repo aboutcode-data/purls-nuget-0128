@@ -5,5 +5,7 @@
 - pkg:nuget/RailReader.Renderer.Skia@0.17.0
 - pkg:nuget/RailReader.Renderer.Skia@0.17.1
 - pkg:nuget/RailReader.Renderer.Skia@0.23.0
+- pkg:nuget/RailReader.Renderer.Skia@0.42.0
+- pkg:nuget/RailReader.Renderer.Skia@0.43.0
 - pkg:nuget/RailReader.Renderer.Skia@0.5.1
 - pkg:nuget/RailReader.Renderer.Skia@0.9.0
