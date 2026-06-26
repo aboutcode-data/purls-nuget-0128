@@ -250,4 +250,5 @@
 - pkg:nuget/HoneybeeSchema@1.5901.3
 - pkg:nuget/HoneybeeSchema@1.5901.4
 - pkg:nuget/HoneybeeSchema@2.101.0
+- pkg:nuget/HoneybeeSchema@2.102.0
 - pkg:nuget/HoneybeeSchema@2.6.0
