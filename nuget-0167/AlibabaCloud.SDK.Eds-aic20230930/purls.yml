@@ -49,6 +49,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.2.2
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.21.0
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.23.0
+- pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.25.1
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.3.0
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.3.1
 - pkg:nuget/AlibabaCloud.SDK.Eds-aic20230930@4.3.2
