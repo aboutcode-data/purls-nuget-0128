@@ -136,4 +136,5 @@
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.2.0-p.6
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.2.1
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.2.3
+- pkg:nuget/ChilliCream.Nitro.CommandLine@16.3.0
 - pkg:nuget/ChilliCream.Nitro.CommandLine@16.3.0-p.2
