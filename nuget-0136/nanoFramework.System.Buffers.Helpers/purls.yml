@@ -7,3 +7,4 @@
 - pkg:nuget/nanoFramework.System.Buffers.Helpers@1.0.66
 - pkg:nuget/nanoFramework.System.Buffers.Helpers@1.0.69
 - pkg:nuget/nanoFramework.System.Buffers.Helpers@2.0.0-preview.16
+- pkg:nuget/nanoFramework.System.Buffers.Helpers@2.0.0-preview.73
