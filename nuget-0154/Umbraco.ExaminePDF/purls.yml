@@ -4,5 +4,6 @@
 - pkg:nuget/Umbraco.ExaminePDF@14.0.0
 - pkg:nuget/Umbraco.ExaminePDF@14.0.1
 - pkg:nuget/Umbraco.ExaminePDF@18.0.0
+- pkg:nuget/Umbraco.ExaminePDF@18.0.1
 - pkg:nuget/Umbraco.ExaminePDF@9.0.0
 - pkg:nuget/Umbraco.ExaminePDF@9.0.0-beta001
