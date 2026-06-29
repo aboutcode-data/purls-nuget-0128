@@ -141,3 +141,4 @@
 - pkg:nuget/Bybit.Net@5.7.0
 - pkg:nuget/Bybit.Net@5.8.0
 - pkg:nuget/Bybit.Net@6.13.0
+- pkg:nuget/Bybit.Net@7.0.0
