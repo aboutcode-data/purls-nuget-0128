@@ -144,3 +144,4 @@
 - pkg:nuget/dotnet-fsharplint@0.26.9--date20251222-1245.git-ee95fc3
 - pkg:nuget/dotnet-fsharplint@0.26.9--date20251224-0951.git-d0f34e0
 - pkg:nuget/dotnet-fsharplint@0.27.1--date20260605-0951.git-5f55c5b
+- pkg:nuget/dotnet-fsharplint@0.27.1--date20260628-0821.git-91fd00b
