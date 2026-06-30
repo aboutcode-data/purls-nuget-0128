@@ -245,3 +245,4 @@
 - pkg:nuget/Masuit.Tools.Abstractions@2025.6.0
 - pkg:nuget/Masuit.Tools.Abstractions@2025.6.4
 - pkg:nuget/Masuit.Tools.Abstractions@2026.2.0-alpha1
+- pkg:nuget/Masuit.Tools.Abstractions@2026.2.0-beta
