@@ -58,6 +58,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@122.5.0
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@123.0.0
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@123.0.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@123.2.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@70.1600.0-preview1
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@70.1600.0-preview2
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Base@71.1502.0-preview1
