@@ -46,3 +46,5 @@
 - pkg:nuget/OohelpSoft.OutOfHome.DataProviders.Boards.Grids.Downloader@1.8.0
 - pkg:nuget/OohelpSoft.OutOfHome.DataProviders.Boards.Grids.Downloader@1.9.0
 - pkg:nuget/OohelpSoft.OutOfHome.DataProviders.Boards.Grids.Downloader@2.3.0
+- pkg:nuget/OohelpSoft.OutOfHome.DataProviders.Boards.Grids.Downloader@2.5.0
+- pkg:nuget/OohelpSoft.OutOfHome.DataProviders.Boards.Grids.Downloader@2.5.1
