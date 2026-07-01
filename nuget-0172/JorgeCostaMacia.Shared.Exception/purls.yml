@@ -2,6 +2,7 @@
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@10.0.0
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@11.0.0
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@12.0.0
+- pkg:nuget/JorgeCostaMacia.Shared.Exception@14.0.5
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@2.0.0
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@2.0.1
 - pkg:nuget/JorgeCostaMacia.Shared.Exception@2.0.2
