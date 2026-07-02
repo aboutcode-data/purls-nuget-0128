@@ -152,3 +152,4 @@
 - pkg:nuget/JetBrains.dotMemory.Console.windows-arm64@2026.1.0
 - pkg:nuget/JetBrains.dotMemory.Console.windows-arm64@2026.1.0-eap03
 - pkg:nuget/JetBrains.dotMemory.Console.windows-arm64@2026.1.2
+- pkg:nuget/JetBrains.dotMemory.Console.windows-arm64@2026.1.4
