@@ -10,3 +10,4 @@
 - pkg:nuget/Common.Cache.MemoryCache@1.3.0-beta5
 - pkg:nuget/Common.Cache.MemoryCache@1.3.0-beta7
 - pkg:nuget/Common.Cache.MemoryCache@2.0.0
+- pkg:nuget/Common.Cache.MemoryCache@3.0.0
