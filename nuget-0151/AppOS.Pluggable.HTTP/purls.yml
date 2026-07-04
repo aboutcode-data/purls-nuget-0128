@@ -2,3 +2,4 @@
 - pkg:nuget/AppOS.Pluggable.HTTP@1.0.4
 - pkg:nuget/AppOS.Pluggable.HTTP@8.0.0
 - pkg:nuget/AppOS.Pluggable.HTTP@8.0.1
+- pkg:nuget/AppOS.Pluggable.HTTP@9.1.0
