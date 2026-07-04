@@ -1,2 +1,5 @@
 - pkg:nuget/Postnomic.Client.Blazor@0.0.0-alpha.0.15
 - pkg:nuget/Postnomic.Client.Blazor@1.0.0
+- pkg:nuget/Postnomic.Client.Blazor@1.4.1
+- pkg:nuget/Postnomic.Client.Blazor@1.4.2
+- pkg:nuget/Postnomic.Client.Blazor@1.4.3
