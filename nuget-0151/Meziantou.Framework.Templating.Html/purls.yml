@@ -18,3 +18,4 @@
 - pkg:nuget/Meziantou.Framework.Templating.Html@2.0.7
 - pkg:nuget/Meziantou.Framework.Templating.Html@2.0.8
 - pkg:nuget/Meziantou.Framework.Templating.Html@2.0.9
+- pkg:nuget/Meziantou.Framework.Templating.Html@4.0.0
