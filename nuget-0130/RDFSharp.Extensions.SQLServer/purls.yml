@@ -13,3 +13,4 @@
 - pkg:nuget/RDFSharp.Extensions.SQLServer@3.4.4
 - pkg:nuget/RDFSharp.Extensions.SQLServer@3.5.0
 - pkg:nuget/RDFSharp.Extensions.SQLServer@3.8.0
+- pkg:nuget/RDFSharp.Extensions.SQLServer@4.0.0
