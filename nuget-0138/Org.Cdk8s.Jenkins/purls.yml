@@ -493,6 +493,7 @@
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.591
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.592
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.594
+- pkg:nuget/Org.Cdk8s.Jenkins@0.0.595
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.6
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.60
 - pkg:nuget/Org.Cdk8s.Jenkins@0.0.61
