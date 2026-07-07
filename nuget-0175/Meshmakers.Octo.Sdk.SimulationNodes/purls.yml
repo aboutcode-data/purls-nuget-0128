@@ -244,3 +244,4 @@
 - pkg:nuget/Meshmakers.Octo.Sdk.SimulationNodes@3.4.10
 - pkg:nuget/Meshmakers.Octo.Sdk.SimulationNodes@3.4.18
 - pkg:nuget/Meshmakers.Octo.Sdk.SimulationNodes@3.4.21
+- pkg:nuget/Meshmakers.Octo.Sdk.SimulationNodes@3.4.35
