@@ -81,3 +81,4 @@
 - pkg:nuget/DateTimeExtensions@5.8.0
 - pkg:nuget/DateTimeExtensions@5.8.1
 - pkg:nuget/DateTimeExtensions@5.9.0
+- pkg:nuget/DateTimeExtensions@6.0.3
