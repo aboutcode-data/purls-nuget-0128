@@ -1,4 +1,5 @@
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.17-alpha-g3f1402683c
+- pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g22c2635520
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g2a66b751aa
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g4a7b038828
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g602f031fe6
@@ -6,6 +7,7 @@
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g72fa4a5445
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g7384383862
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g7aa09037d2
+- pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g8195b91a97
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g9316f9393e
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-g9ea88828e2
 - pkg:nuget/MvvmCross.Plugin.ResxLocalization@10.1.2-ga7b3c9439b
