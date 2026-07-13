@@ -34,3 +34,5 @@
 - pkg:nuget/nanoFramework.CoreInk@1.1.291
 - pkg:nuget/nanoFramework.CoreInk@1.1.294
 - pkg:nuget/nanoFramework.CoreInk@1.1.297
+- pkg:nuget/nanoFramework.CoreInk@1.1.301
+- pkg:nuget/nanoFramework.CoreInk@2.0.0-preview.14
