@@ -142,6 +142,7 @@
 - pkg:nuget/JourneyTeam.Xrm@3.0.44
 - pkg:nuget/JourneyTeam.Xrm@3.0.45
 - pkg:nuget/JourneyTeam.Xrm@3.0.46
+- pkg:nuget/JourneyTeam.Xrm@3.0.48
 - pkg:nuget/JourneyTeam.Xrm@3.0.5
 - pkg:nuget/JourneyTeam.Xrm@3.0.6
 - pkg:nuget/JourneyTeam.Xrm@3.0.7
