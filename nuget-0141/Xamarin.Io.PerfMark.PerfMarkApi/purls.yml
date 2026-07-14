@@ -19,6 +19,7 @@
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.26.0.5
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0.1
+- pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0.12
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0.2
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0.3
 - pkg:nuget/Xamarin.Io.PerfMark.PerfMarkApi@0.27.0.4
