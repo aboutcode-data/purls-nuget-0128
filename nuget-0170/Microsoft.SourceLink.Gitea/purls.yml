@@ -3,5 +3,6 @@
 - pkg:nuget/Microsoft.SourceLink.Gitea@1.1.1
 - pkg:nuget/Microsoft.SourceLink.Gitea@10.0.107
 - pkg:nuget/Microsoft.SourceLink.Gitea@10.0.203
+- pkg:nuget/Microsoft.SourceLink.Gitea@10.0.301
 - pkg:nuget/Microsoft.SourceLink.Gitea@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.SourceLink.Gitea@8.0.0
