@@ -2,4 +2,5 @@
 - pkg:nuget/Messaia.Net.OpenApi@10.0.0-RC06
 - pkg:nuget/Messaia.Net.OpenApi@10.0.0-RC08
 - pkg:nuget/Messaia.Net.OpenApi@10.0.0-RC10
+- pkg:nuget/Messaia.Net.OpenApi@10.1.0-rc03
 - pkg:nuget/Messaia.Net.OpenApi@9.3.1
