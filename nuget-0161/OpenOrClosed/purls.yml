@@ -19,6 +19,7 @@
 - pkg:nuget/OpenOrClosed@1.1.0
 - pkg:nuget/OpenOrClosed@16.0.0-beta1
 - pkg:nuget/OpenOrClosed@16.0.0-beta2
+- pkg:nuget/OpenOrClosed@17.1.1
 - pkg:nuget/OpenOrClosed@2.0.0
 - pkg:nuget/OpenOrClosed@2.0.0-rc1
 - pkg:nuget/OpenOrClosed@2.0.1

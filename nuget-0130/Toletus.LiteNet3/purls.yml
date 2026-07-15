@@ -10,7 +10,11 @@
 - pkg:nuget/Toletus.LiteNet3@9.23.1
 - pkg:nuget/Toletus.LiteNet3@9.27.3
 - pkg:nuget/Toletus.LiteNet3@9.3.1
+- pkg:nuget/Toletus.LiteNet3@9.36.1
+- pkg:nuget/Toletus.LiteNet3@9.39.1
 - pkg:nuget/Toletus.LiteNet3@9.4.1
+- pkg:nuget/Toletus.LiteNet3@9.44.1
+- pkg:nuget/Toletus.LiteNet3@9.46.1
 - pkg:nuget/Toletus.LiteNet3@9.5.1
 - pkg:nuget/Toletus.LiteNet3@9.6.1
 - pkg:nuget/Toletus.LiteNet3@9.8.1
