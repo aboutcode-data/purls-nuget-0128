@@ -1,1 +1,2 @@
 - pkg:nuget/ZCrew.Extensions.DependencyInjection.Registration@1.1.0
+- pkg:nuget/ZCrew.Extensions.DependencyInjection.Registration@3.0.0-preview.1
