@@ -20,3 +20,4 @@
 - pkg:nuget/MindFusion.Diagramming.Blazor@2.0.0-beta2
 - pkg:nuget/MindFusion.Diagramming.Blazor@2.1.2-beta2
 - pkg:nuget/MindFusion.Diagramming.Blazor@2.1.2-beta3
+- pkg:nuget/MindFusion.Diagramming.Blazor@2.1.4
