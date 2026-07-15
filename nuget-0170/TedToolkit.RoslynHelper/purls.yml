@@ -8,3 +8,7 @@
 - pkg:nuget/TedToolkit.RoslynHelper@2026.3.30.2
 - pkg:nuget/TedToolkit.RoslynHelper@2026.3.31
 - pkg:nuget/TedToolkit.RoslynHelper@2026.4.17.1
+- pkg:nuget/TedToolkit.RoslynHelper@2026.6.19
+- pkg:nuget/TedToolkit.RoslynHelper@2026.6.5.3
+- pkg:nuget/TedToolkit.RoslynHelper@2026.6.9
+- pkg:nuget/TedToolkit.RoslynHelper@2026.7.15
