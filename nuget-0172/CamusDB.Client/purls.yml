@@ -8,3 +8,5 @@
 - pkg:nuget/CamusDB.Client@0.0.8-alpha
 - pkg:nuget/CamusDB.Client@0.0.9-alpha
 - pkg:nuget/CamusDB.Client@0.1.1-alpha
+- pkg:nuget/CamusDB.Client@0.2.2-alpha
+- pkg:nuget/CamusDB.Client@0.5.0
