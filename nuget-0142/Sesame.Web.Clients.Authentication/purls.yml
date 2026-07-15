@@ -9,3 +9,4 @@
 - pkg:nuget/Sesame.Web.Clients.Authentication@1.0.7
 - pkg:nuget/Sesame.Web.Clients.Authentication@1.0.8
 - pkg:nuget/Sesame.Web.Clients.Authentication@1.0.9
+- pkg:nuget/Sesame.Web.Clients.Authentication@1.1.5
