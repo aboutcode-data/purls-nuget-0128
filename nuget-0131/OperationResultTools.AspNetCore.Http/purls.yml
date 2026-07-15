@@ -12,5 +12,6 @@
 - pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.27
 - pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.28
 - pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.3
+- pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.34
 - pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.5
 - pkg:nuget/OperationResultTools.AspNetCore.Http@1.0.8
