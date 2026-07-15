@@ -19,3 +19,4 @@
 - pkg:nuget/Akka.Persistence.Redis@1.5.37
 - pkg:nuget/Akka.Persistence.Redis@1.5.42
 - pkg:nuget/Akka.Persistence.Redis@1.5.55.1
+- pkg:nuget/Akka.Persistence.Redis@1.5.68
