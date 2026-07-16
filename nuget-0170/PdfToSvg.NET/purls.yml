@@ -30,3 +30,4 @@
 - pkg:nuget/PdfToSvg.NET@1.5.0
 - pkg:nuget/PdfToSvg.NET@1.6.0
 - pkg:nuget/PdfToSvg.NET@1.6.1
+- pkg:nuget/PdfToSvg.NET@1.9.0
