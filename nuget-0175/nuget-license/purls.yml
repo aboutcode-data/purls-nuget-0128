@@ -31,4 +31,5 @@
 - pkg:nuget/nuget-license@4.0.0
 - pkg:nuget/nuget-license@4.0.0-beta.1
 - pkg:nuget/nuget-license@4.0.13
+- pkg:nuget/nuget-license@4.0.15
 - pkg:nuget/nuget-license@4.0.7-beta.1
