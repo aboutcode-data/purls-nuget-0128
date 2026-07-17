@@ -44,6 +44,7 @@
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@37.109.4
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@37.44.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@38.0.1
+- pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@40.1.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@5.13.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@5.13.2
 - pkg:nuget/SDI.Integracion.ServiceBus.Adaptador@5.13.3
