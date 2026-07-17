@@ -1243,3 +1243,5 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1766
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1779
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1780
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1792
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1793
