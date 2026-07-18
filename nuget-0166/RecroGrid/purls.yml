@@ -29,6 +29,8 @@
 - pkg:nuget/RecroGrid@1.7.1
 - pkg:nuget/RecroGrid@1.7.2
 - pkg:nuget/RecroGrid@1.7.3
+- pkg:nuget/RecroGrid@10.2.0
+- pkg:nuget/RecroGrid@10.2.1
 - pkg:nuget/RecroGrid@2.0.0
 - pkg:nuget/RecroGrid@2.1.0
 - pkg:nuget/RecroGrid@2.1.1
