@@ -187,6 +187,7 @@
 - pkg:nuget/AWSSDK.DSQL@4.0.10.2
 - pkg:nuget/AWSSDK.DSQL@4.0.100.1
 - pkg:nuget/AWSSDK.DSQL@4.0.101.1
+- pkg:nuget/AWSSDK.DSQL@4.0.101.2
 - pkg:nuget/AWSSDK.DSQL@4.0.11.5
 - pkg:nuget/AWSSDK.DSQL@4.0.2
 - pkg:nuget/AWSSDK.DSQL@4.0.3
