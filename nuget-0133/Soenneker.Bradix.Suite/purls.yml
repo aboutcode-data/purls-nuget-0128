@@ -1,4 +1,11 @@
 - pkg:nuget/Soenneker.Bradix.Suite@4.0.129
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.133
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.140
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.157
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.171
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.172
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.188
+- pkg:nuget/Soenneker.Bradix.Suite@4.0.196
 - pkg:nuget/Soenneker.Bradix.Suite@4.0.46
 - pkg:nuget/Soenneker.Bradix.Suite@4.0.8
 - pkg:nuget/Soenneker.Bradix.Suite@4.0.85
