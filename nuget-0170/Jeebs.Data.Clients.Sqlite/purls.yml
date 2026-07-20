@@ -49,3 +49,4 @@
 - pkg:nuget/Jeebs.Data.Clients.Sqlite@8.5.4
 - pkg:nuget/Jeebs.Data.Clients.Sqlite@8.5.5
 - pkg:nuget/Jeebs.Data.Clients.Sqlite@8.5.6
+- pkg:nuget/Jeebs.Data.Clients.Sqlite@9.3.4
