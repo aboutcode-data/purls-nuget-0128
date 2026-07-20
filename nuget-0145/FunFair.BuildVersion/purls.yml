@@ -1979,6 +1979,7 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.19.2131-pre-commit-fixe
 - pkg:nuget/FunFair.BuildVersion@6.2.19.2132-main
 - pkg:nuget/FunFair.BuildVersion@6.2.19.2144-main
+- pkg:nuget/FunFair.BuildVersion@6.2.19.2145-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.34-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.36-main
 - pkg:nuget/FunFair.BuildVersion@6.2.2.37-main
