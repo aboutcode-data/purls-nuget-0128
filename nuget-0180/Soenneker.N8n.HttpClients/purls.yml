@@ -1,5 +1,13 @@
 - pkg:nuget/Soenneker.N8n.HttpClients@4.0.18
 - pkg:nuget/Soenneker.N8n.HttpClients@4.0.2
 - pkg:nuget/Soenneker.N8n.HttpClients@4.0.20
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.21
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.22
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.27
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.28
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.29
 - pkg:nuget/Soenneker.N8n.HttpClients@4.0.3
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.31
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.42
+- pkg:nuget/Soenneker.N8n.HttpClients@4.0.59
 - pkg:nuget/Soenneker.N8n.HttpClients@4.0.6
