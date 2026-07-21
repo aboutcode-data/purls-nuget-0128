@@ -138,6 +138,7 @@
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@1.8.3
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@1.8.4
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@1.9.0
+- pkg:nuget/Cdklabs.CdkMonitoringConstructs@10.2.0
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@2.0.0
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@2.1.0
 - pkg:nuget/Cdklabs.CdkMonitoringConstructs@2.1.1
