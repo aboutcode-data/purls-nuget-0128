@@ -590,6 +590,7 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.256.0
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.277.0
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.278.0
+- pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.287.0
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.38.0
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.39.0
 - pkg:nuget/KubernetesCRDModelGen.Models.cnrm.cloud.google.com@1.49.0
