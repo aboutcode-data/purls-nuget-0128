@@ -11,6 +11,7 @@
 - pkg:nuget/AiDotNet.Native.OneDNN@0.104.5
 - pkg:nuget/AiDotNet.Native.OneDNN@0.105.2
 - pkg:nuget/AiDotNet.Native.OneDNN@0.114.1
+- pkg:nuget/AiDotNet.Native.OneDNN@0.119.0
 - pkg:nuget/AiDotNet.Native.OneDNN@0.12.0
 - pkg:nuget/AiDotNet.Native.OneDNN@0.15.0
 - pkg:nuget/AiDotNet.Native.OneDNN@0.15.3
