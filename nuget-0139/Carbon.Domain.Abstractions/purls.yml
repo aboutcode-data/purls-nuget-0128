@@ -5,3 +5,4 @@
 - pkg:nuget/Carbon.Domain.Abstractions@1.5.0
 - pkg:nuget/Carbon.Domain.Abstractions@1.5.1
 - pkg:nuget/Carbon.Domain.Abstractions@1.6.0
+- pkg:nuget/Carbon.Domain.Abstractions@1.7.0
