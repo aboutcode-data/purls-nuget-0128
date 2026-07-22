@@ -165,4 +165,5 @@
 - pkg:nuget/SolidRpc.OpenApi.DotNetTool@1.0.1-rc083
 - pkg:nuget/SolidRpc.OpenApi.DotNetTool@1.0.1-rc084
 - pkg:nuget/SolidRpc.OpenApi.DotNetTool@1.0.1-rc085
+- pkg:nuget/SolidRpc.OpenApi.DotNetTool@1.0.1-rc094
 - pkg:nuget/SolidRpc.OpenApi.DotNetTool@1.1.0-rc001
