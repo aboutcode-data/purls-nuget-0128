@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.DataAccess.EfCore.Bulk@10.0.0
+- pkg:nuget/Milvasoft.DataAccess.EfCore.Bulk@10.1.3
 - pkg:nuget/Milvasoft.DataAccess.EfCore.Bulk@9.0.0
 - pkg:nuget/Milvasoft.DataAccess.EfCore.Bulk@9.0.1
 - pkg:nuget/Milvasoft.DataAccess.EfCore.Bulk@9.0.10
