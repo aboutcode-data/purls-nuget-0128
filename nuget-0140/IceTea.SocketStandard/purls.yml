@@ -20,3 +20,4 @@
 - pkg:nuget/IceTea.SocketStandard@2.0.5
 - pkg:nuget/IceTea.SocketStandard@2.0.6
 - pkg:nuget/IceTea.SocketStandard@2.0.7
+- pkg:nuget/IceTea.SocketStandard@2.1.0
