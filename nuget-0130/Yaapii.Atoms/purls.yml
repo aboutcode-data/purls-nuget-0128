@@ -1,3 +1,4 @@
+- pkg:nuget/Yaapii.Atoms@0.0.0
 - pkg:nuget/Yaapii.Atoms@0.10.0
 - pkg:nuget/Yaapii.Atoms@0.11.0
 - pkg:nuget/Yaapii.Atoms@0.12.0
