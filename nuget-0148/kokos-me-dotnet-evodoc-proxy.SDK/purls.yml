@@ -1,0 +1,6 @@
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.0-dev-0
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.0-feature.Test-integrazione-ERP.0
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.1-dev-3
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.2-feature.191-problemi-su-integrazione-erp.192
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.4-feature.implementazione-evoproxy-2.10
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.0.4-feature.implementazione-evoproxy-2.4
