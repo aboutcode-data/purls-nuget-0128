@@ -1,2 +1,5 @@
 - pkg:nuget/Org.Cdk8s.Plus34@2.0.0
 - pkg:nuget/Org.Cdk8s.Plus34@2.0.16
+- pkg:nuget/Org.Cdk8s.Plus34@2.0.17
+- pkg:nuget/Org.Cdk8s.Plus34@2.0.19
+- pkg:nuget/Org.Cdk8s.Plus34@2.0.28
