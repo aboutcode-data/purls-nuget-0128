@@ -1,4 +1,5 @@
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Paidatasetacc@1.10.0
+- pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Paidatasetacc@1.14.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Paidatasetacc@1.5.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Paidatasetacc@1.6.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Paidatasetacc@1.8.0
