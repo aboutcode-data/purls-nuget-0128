@@ -11,8 +11,10 @@
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1.0-alpha.37
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1.0-alpha.hash0577143
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1000.1
+- pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1000.2
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1002.0
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1003.0
+- pkg:nuget/VirtoCommerce.ShippingModule.Core@3.1005.1
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.2.0
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.2.0-alpha.38
 - pkg:nuget/VirtoCommerce.ShippingModule.Core@3.200.0
