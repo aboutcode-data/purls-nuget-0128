@@ -35,6 +35,7 @@
 - pkg:nuget/slnutil@2.3.0
 - pkg:nuget/slnutil@2.38.0
 - pkg:nuget/slnutil@2.4.0
+- pkg:nuget/slnutil@2.41.0
 - pkg:nuget/slnutil@2.5.0
 - pkg:nuget/slnutil@2.6.0
 - pkg:nuget/slnutil@2.7.0
