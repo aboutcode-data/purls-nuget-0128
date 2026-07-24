@@ -1,1 +1,3 @@
 - pkg:nuget/OutWit.Controller.Render.Dcc@1.0.3
+- pkg:nuget/OutWit.Controller.Render.Dcc@1.0.6
+- pkg:nuget/OutWit.Controller.Render.Dcc@1.6.16
