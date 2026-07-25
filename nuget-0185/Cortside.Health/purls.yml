@@ -57,6 +57,7 @@
 - pkg:nuget/Cortside.Health@1.2.76-develop
 - pkg:nuget/Cortside.Health@1.2.77-net6
 - pkg:nuget/Cortside.Health@1.2.78-develop
+- pkg:nuget/Cortside.Health@10.0.124-EBSVC-4140
 - pkg:nuget/Cortside.Health@6.0.80-net6
 - pkg:nuget/Cortside.Health@6.0.81-develop
 - pkg:nuget/Cortside.Health@6.0.82-develop
