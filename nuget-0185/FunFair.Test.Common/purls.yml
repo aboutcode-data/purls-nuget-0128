@@ -2422,3 +2422,5 @@
 - pkg:nuget/FunFair.Test.Common@6.3.8.2503-main
 - pkg:nuget/FunFair.Test.Common@6.3.8.2504-main
 - pkg:nuget/FunFair.Test.Common@6.3.8.2505-drop-net9-targe
+- pkg:nuget/FunFair.Test.Common@6.3.8.2510-main
+- pkg:nuget/FunFair.Test.Common@6.3.8.2511-main
