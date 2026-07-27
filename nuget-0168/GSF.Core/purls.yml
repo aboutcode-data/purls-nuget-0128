@@ -1308,6 +1308,7 @@
 - pkg:nuget/GSF.Core@2.4.3-beta
 - pkg:nuget/GSF.Core@2.4.30-beta
 - pkg:nuget/GSF.Core@2.4.31-beta
+- pkg:nuget/GSF.Core@2.4.314-beta%2B7aeab919317c45a134bbdd0e3f4422c862d78582
 - pkg:nuget/GSF.Core@2.4.32-beta
 - pkg:nuget/GSF.Core@2.4.33-beta
 - pkg:nuget/GSF.Core@2.4.34-beta
