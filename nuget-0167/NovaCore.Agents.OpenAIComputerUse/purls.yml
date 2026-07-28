@@ -4,3 +4,4 @@
 - pkg:nuget/NovaCore.Agents.OpenAIComputerUse@2.5.1
 - pkg:nuget/NovaCore.Agents.OpenAIComputerUse@2.5.3
 - pkg:nuget/NovaCore.Agents.OpenAIComputerUse@3.1.4
+- pkg:nuget/NovaCore.Agents.OpenAIComputerUse@3.1.9
