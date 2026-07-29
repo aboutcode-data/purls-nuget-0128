@@ -19,3 +19,4 @@
 - pkg:nuget/NetCorePal.Extensions.MicrosoftServiceDiscovery@3.0.0-rc.2
 - pkg:nuget/NetCorePal.Extensions.MicrosoftServiceDiscovery@3.0.1
 - pkg:nuget/NetCorePal.Extensions.MicrosoftServiceDiscovery@3.3.0
+- pkg:nuget/NetCorePal.Extensions.MicrosoftServiceDiscovery@3.4.0
