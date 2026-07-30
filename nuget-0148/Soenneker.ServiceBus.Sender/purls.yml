@@ -2387,3 +2387,4 @@
 - pkg:nuget/Soenneker.ServiceBus.Sender@4.0.2424
 - pkg:nuget/Soenneker.ServiceBus.Sender@4.0.2437
 - pkg:nuget/Soenneker.ServiceBus.Sender@4.0.2441
+- pkg:nuget/Soenneker.ServiceBus.Sender@4.0.2443
