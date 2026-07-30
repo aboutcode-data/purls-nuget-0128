@@ -63,5 +63,6 @@
 - pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@1.0.77
 - pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@1.0.78
 - pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@1.0.79
+- pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@1.0.80
 - pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@1.0.9
 - pkg:nuget/AgentHub.Service.Payment.EntityFrameworkCore@6.0.1
