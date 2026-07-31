@@ -91,3 +91,5 @@
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-PullRequest483.2
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-alpha.51
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-alpha.53
+- pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-alpha.58
+- pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-alpha.59
