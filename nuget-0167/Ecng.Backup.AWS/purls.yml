@@ -26,6 +26,7 @@
 - pkg:nuget/Ecng.Backup.AWS@1.0.170
 - pkg:nuget/Ecng.Backup.AWS@1.0.173
 - pkg:nuget/Ecng.Backup.AWS@1.0.174
+- pkg:nuget/Ecng.Backup.AWS@1.0.176
 - pkg:nuget/Ecng.Backup.AWS@1.0.18
 - pkg:nuget/Ecng.Backup.AWS@1.0.19
 - pkg:nuget/Ecng.Backup.AWS@1.0.2
