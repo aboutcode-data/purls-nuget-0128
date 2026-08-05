@@ -93,6 +93,7 @@
 - pkg:nuget/tktk-cli@0.1.41-preview
 - pkg:nuget/tktk-cli@0.1.42-preview
 - pkg:nuget/tktk-cli@0.1.43-preview
+- pkg:nuget/tktk-cli@0.1.438
 - pkg:nuget/tktk-cli@0.1.44-preview
 - pkg:nuget/tktk-cli@0.1.45-preview
 - pkg:nuget/tktk-cli@0.1.46-preview
