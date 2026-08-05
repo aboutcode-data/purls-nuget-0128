@@ -107,6 +107,7 @@
 - pkg:nuget/pythonx86@3.14.0-b4
 - pkg:nuget/pythonx86@3.14.0-rc1
 - pkg:nuget/pythonx86@3.14.0-rc2
+- pkg:nuget/pythonx86@3.14.7
 - pkg:nuget/pythonx86@3.5.2
 - pkg:nuget/pythonx86@3.5.2.1
 - pkg:nuget/pythonx86@3.5.2.2
