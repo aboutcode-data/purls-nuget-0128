@@ -34,3 +34,4 @@
 - pkg:nuget/Esri.ArcGISRuntime.Hydrography@200.6.0
 - pkg:nuget/Esri.ArcGISRuntime.Hydrography@200.7.0
 - pkg:nuget/Esri.ArcGISRuntime.Hydrography@200.8.0
+- pkg:nuget/Esri.ArcGISRuntime.Hydrography@300.1.0
