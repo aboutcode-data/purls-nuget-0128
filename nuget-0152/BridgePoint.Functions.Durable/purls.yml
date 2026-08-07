@@ -27,3 +27,4 @@
 - pkg:nuget/BridgePoint.Functions.Durable@5.7.0
 - pkg:nuget/BridgePoint.Functions.Durable@5.8.0
 - pkg:nuget/BridgePoint.Functions.Durable@6.3.0
+- pkg:nuget/BridgePoint.Functions.Durable@6.6.0
