@@ -152,3 +152,4 @@
 - pkg:nuget/Google.Apis.CloudSearch.v1@1.68.0.3436
 - pkg:nuget/Google.Apis.CloudSearch.v1@1.68.0.3576
 - pkg:nuget/Google.Apis.CloudSearch.v1@1.68.0.3604
+- pkg:nuget/Google.Apis.CloudSearch.v1@1.75.0.4227
