@@ -1,4 +1,5 @@
 - pkg:nuget/Girvs.Refit@10.0.0-preview
+- pkg:nuget/Girvs.Refit@10.0.0-rc.4.0.1
 - pkg:nuget/Girvs.Refit@5.0.0-preview.1.5.0
 - pkg:nuget/Girvs.Refit@5.0.0-preview.1.6.0
 - pkg:nuget/Girvs.Refit@5.0.0-preview.1.6.8
