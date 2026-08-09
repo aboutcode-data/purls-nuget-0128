@@ -12,3 +12,4 @@
 - pkg:nuget/SrcSet@4.0.0
 - pkg:nuget/SrcSet@4.1.0
 - pkg:nuget/SrcSet@5.0.0
+- pkg:nuget/SrcSet@6.0.0
