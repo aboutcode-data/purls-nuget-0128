@@ -14,3 +14,4 @@
 - pkg:nuget/SourceGeneration.ChangeTracking.SourceGenerator@1.0.0-beta4.250107.1
 - pkg:nuget/SourceGeneration.ChangeTracking.SourceGenerator@1.0.0-beta4.250303.1
 - pkg:nuget/SourceGeneration.ChangeTracking.SourceGenerator@1.0.0-beta4.250310.1
+- pkg:nuget/SourceGeneration.ChangeTracking.SourceGenerator@2.0.0-beta-202607145
