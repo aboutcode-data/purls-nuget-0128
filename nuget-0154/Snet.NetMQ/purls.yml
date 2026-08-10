@@ -78,5 +78,6 @@
 - pkg:nuget/Snet.NetMQ@26.196.1
 - pkg:nuget/Snet.NetMQ@26.215.1
 - pkg:nuget/Snet.NetMQ@26.219.1
+- pkg:nuget/Snet.NetMQ@26.222.1
 - pkg:nuget/Snet.NetMQ@26.77.1
 - pkg:nuget/Snet.NetMQ@26.78.1
