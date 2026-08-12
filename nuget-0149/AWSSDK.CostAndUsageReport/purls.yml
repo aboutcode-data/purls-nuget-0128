@@ -1226,4 +1226,5 @@
 - pkg:nuget/AWSSDK.CostAndUsageReport@4.0.100.1
 - pkg:nuget/AWSSDK.CostAndUsageReport@4.0.100.4
 - pkg:nuget/AWSSDK.CostAndUsageReport@4.0.100.5
+- pkg:nuget/AWSSDK.CostAndUsageReport@4.0.100.8
 - pkg:nuget/AWSSDK.CostAndUsageReport@4.0.2.4
