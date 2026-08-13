@@ -1,4 +1,12 @@
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.118
 - pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.12
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.129
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.132
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.133
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.134
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.147
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.149
+- pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.152
 - pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.28
 - pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.30
 - pkg:nuget/Soenneker.Playwrights.TestHosts@4.0.39
