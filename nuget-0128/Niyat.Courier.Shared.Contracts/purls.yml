@@ -1,3 +1,4 @@
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.100
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.14
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.28
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.3
@@ -7,3 +8,12 @@
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.57
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.58
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.59
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.66
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.68
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.71
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.74
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.75
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.76
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.79
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.87
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.90
