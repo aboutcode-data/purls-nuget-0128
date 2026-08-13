@@ -1,5 +1,6 @@
 - pkg:nuget/EmailSwitch@1.0.0
 - pkg:nuget/EmailSwitch@1.1.0
+- pkg:nuget/EmailSwitch@10.2.0
 - pkg:nuget/EmailSwitch@2.0.0
 - pkg:nuget/EmailSwitch@2.0.1
 - pkg:nuget/EmailSwitch@2.0.2
