@@ -1,3 +1,7 @@
 - pkg:nuget/OwnAudioSharp.Mobile@2.3.0
 - pkg:nuget/OwnAudioSharp.Mobile@2.5.0
 - pkg:nuget/OwnAudioSharp.Mobile@2.6.0
+- pkg:nuget/OwnAudioSharp.Mobile@3.0.11
+- pkg:nuget/OwnAudioSharp.Mobile@3.0.13
+- pkg:nuget/OwnAudioSharp.Mobile@3.0.7
+- pkg:nuget/OwnAudioSharp.Mobile@4.0.0-preview.28
