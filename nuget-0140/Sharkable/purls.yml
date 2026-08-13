@@ -22,3 +22,5 @@
 - pkg:nuget/Sharkable@0.0.7
 - pkg:nuget/Sharkable@0.0.8
 - pkg:nuget/Sharkable@0.0.9
+- pkg:nuget/Sharkable@0.5.3
+- pkg:nuget/Sharkable@0.6.0
