@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.108
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.11
+- pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.110
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.3
 - pkg:nuget/Soenneker.Shippo.OpenApiClientUtil@4.0.38
