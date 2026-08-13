@@ -1,1 +1,3 @@
 - pkg:nuget/Sett1x.Consul@5.0.0
+- pkg:nuget/Sett1x.Consul@6.1.4
+- pkg:nuget/Sett1x.Consul@6.1.8
