@@ -20,3 +20,4 @@
 - pkg:nuget/Imagekit@4.0.1
 - pkg:nuget/Imagekit@4.0.2
 - pkg:nuget/Imagekit@5.0.0
+- pkg:nuget/Imagekit@6.4.0
