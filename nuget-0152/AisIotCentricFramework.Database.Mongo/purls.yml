@@ -23,3 +23,4 @@
 - pkg:nuget/AisIotCentricFramework.Database.Mongo@1.4.0
 - pkg:nuget/AisIotCentricFramework.Database.Mongo@1.5.0
 - pkg:nuget/AisIotCentricFramework.Database.Mongo@1.5.2
+- pkg:nuget/AisIotCentricFramework.Database.Mongo@1.5.5
