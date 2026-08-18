@@ -2,6 +2,7 @@
 - pkg:nuget/Proteus.Vsm@1.2.7
 - pkg:nuget/Proteus.Vsm@1.2.8
 - pkg:nuget/Proteus.Vsm@12.0.14
+- pkg:nuget/Proteus.Vsm@13.0.5
 - pkg:nuget/Proteus.Vsm@2.0.0
 - pkg:nuget/Proteus.Vsm@2.0.1
 - pkg:nuget/Proteus.Vsm@2.0.10
