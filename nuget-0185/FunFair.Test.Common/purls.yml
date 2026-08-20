@@ -2438,3 +2438,4 @@
 - pkg:nuget/FunFair.Test.Common@6.3.8.2576-update-nsubstit
 - pkg:nuget/FunFair.Test.Common@6.3.8.2579-main
 - pkg:nuget/FunFair.Test.Common@6.3.8.2583-main
+- pkg:nuget/FunFair.Test.Common@6.4.1.2619-main
