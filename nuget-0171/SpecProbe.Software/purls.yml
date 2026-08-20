@@ -21,3 +21,4 @@
 - pkg:nuget/SpecProbe.Software@3.5.0
 - pkg:nuget/SpecProbe.Software@3.5.1
 - pkg:nuget/SpecProbe.Software@3.6.0
+- pkg:nuget/SpecProbe.Software@3.9.1
