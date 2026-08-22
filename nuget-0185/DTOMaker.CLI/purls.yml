@@ -131,4 +131,5 @@
 - pkg:nuget/DTOMaker.CLI@2.0.45-dev
 - pkg:nuget/DTOMaker.CLI@2.0.46-dev
 - pkg:nuget/DTOMaker.CLI@2.1.10
+- pkg:nuget/DTOMaker.CLI@2.1.23
 - pkg:nuget/DTOMaker.CLI@2.1.9
