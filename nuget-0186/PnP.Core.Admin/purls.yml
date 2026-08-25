@@ -905,6 +905,7 @@
 - pkg:nuget/PnP.Core.Admin@1.17.34-nightly
 - pkg:nuget/PnP.Core.Admin@1.17.35-nightly
 - pkg:nuget/PnP.Core.Admin@1.17.37-nightly
+- pkg:nuget/PnP.Core.Admin@1.17.38-nightly
 - pkg:nuget/PnP.Core.Admin@1.17.7-nightly
 - pkg:nuget/PnP.Core.Admin@1.3.75-nightly
 - pkg:nuget/PnP.Core.Admin@1.3.76-nightly
