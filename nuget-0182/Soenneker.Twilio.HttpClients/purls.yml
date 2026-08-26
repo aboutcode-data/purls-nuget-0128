@@ -14,3 +14,4 @@
 - pkg:nuget/Soenneker.Twilio.HttpClients@4.0.68
 - pkg:nuget/Soenneker.Twilio.HttpClients@4.0.7
 - pkg:nuget/Soenneker.Twilio.HttpClients@4.0.73
+- pkg:nuget/Soenneker.Twilio.HttpClients@4.0.91
