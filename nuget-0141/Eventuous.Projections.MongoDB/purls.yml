@@ -86,6 +86,7 @@
 - pkg:nuget/Eventuous.Projections.MongoDB@0.16.5-alpha.0.14
 - pkg:nuget/Eventuous.Projections.MongoDB@0.16.5-alpha.0.15
 - pkg:nuget/Eventuous.Projections.MongoDB@0.16.5-alpha.0.2
+- pkg:nuget/Eventuous.Projections.MongoDB@0.16.5-alpha.0.28
 - pkg:nuget/Eventuous.Projections.MongoDB@0.2.0
 - pkg:nuget/Eventuous.Projections.MongoDB@0.3.0
 - pkg:nuget/Eventuous.Projections.MongoDB@0.3.1
