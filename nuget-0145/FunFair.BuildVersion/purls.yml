@@ -2006,6 +2006,11 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2288-main
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2289-restrict-nuget
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2290-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2293-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2294-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2295-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2296-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2297-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.40-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.42-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.43-main
