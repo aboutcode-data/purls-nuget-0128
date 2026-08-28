@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Orleans.Persistence.Cosmos@10.3.0
 - pkg:nuget/Microsoft.Orleans.Persistence.Cosmos@3.8.0-preview3
 - pkg:nuget/Microsoft.Orleans.Persistence.Cosmos@3.8.0-preview4
 - pkg:nuget/Microsoft.Orleans.Persistence.Cosmos@3.8.0-preview5
