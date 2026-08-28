@@ -225,3 +225,5 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-feature-add-cameracontrol-mode.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-feature-room-combination-in-progress-webview.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.9.0-fix-cisco-poll-delimiter-and-camera-nre.3
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feature-net8-v3-migration.2
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feature-net8-v3-migration.3
