@@ -1682,3 +1682,5 @@
 - pkg:nuget/E2E.SignedPackage@2026.2.24-v2300542288061
 - pkg:nuget/E2E.SignedPackage@2026.5.12-v1934153458506
 - pkg:nuget/E2E.SignedPackage@2026.5.13-v0306424983933
+- pkg:nuget/E2E.SignedPackage@2026.8.28-v1740467318712
+- pkg:nuget/E2E.SignedPackage@2026.8.28-v1927308680329
