@@ -23,3 +23,5 @@
 - pkg:nuget/Cross.Identity@1.9.0
 - pkg:nuget/Cross.Identity@1.9.0-dev.5
 - pkg:nuget/Cross.Identity@1.9.0-preview.1
+- pkg:nuget/Cross.Identity@2.1.1-preview.2
+- pkg:nuget/Cross.Identity@2.1.1-preview.3
