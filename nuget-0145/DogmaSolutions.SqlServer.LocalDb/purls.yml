@@ -57,3 +57,4 @@
 - pkg:nuget/DogmaSolutions.SqlServer.LocalDb@5.1.327
 - pkg:nuget/DogmaSolutions.SqlServer.LocalDb@6.0.336
 - pkg:nuget/DogmaSolutions.SqlServer.LocalDb@6.0.340
+- pkg:nuget/DogmaSolutions.SqlServer.LocalDb@6.1.892
