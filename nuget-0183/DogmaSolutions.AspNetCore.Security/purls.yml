@@ -16,3 +16,4 @@
 - pkg:nuget/DogmaSolutions.AspNetCore.Security@5.1.327
 - pkg:nuget/DogmaSolutions.AspNetCore.Security@6.0.336
 - pkg:nuget/DogmaSolutions.AspNetCore.Security@6.0.340
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@6.1.892

@@ -28,3 +28,4 @@
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Secured@5.1.325
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Secured@5.1.327
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Secured@6.0.336
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Secured@6.1.892
