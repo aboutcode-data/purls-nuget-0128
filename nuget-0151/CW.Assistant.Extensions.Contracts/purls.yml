@@ -1,5 +1,6 @@
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.1.0-PullRequest3.26
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.10.0-PullRequest567.2
+- pkg:nuget/CW.Assistant.Extensions.Contracts@26.10.0-PullRequest569.4
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.3.0-alpha.263025
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.4.0-PullRequest14.3
@@ -117,3 +118,4 @@
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-alpha.77
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-beta.77
 - pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-beta.78
+- pkg:nuget/CW.Assistant.Extensions.Contracts@26.9.0-beta.79
