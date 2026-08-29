@@ -133,3 +133,5 @@
 - pkg:nuget/Fantomas.FCS@8.0.0-alpha-020
 - pkg:nuget/Fantomas.FCS@8.0.0-alpha-021
 - pkg:nuget/Fantomas.FCS@8.0.0-alpha-023
+- pkg:nuget/Fantomas.FCS@8.0.0-alpha-024
+- pkg:nuget/Fantomas.FCS@8.0.0-alpha-025
