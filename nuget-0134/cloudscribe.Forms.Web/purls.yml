@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.Forms.Web@1.0.0
 - pkg:nuget/cloudscribe.Forms.Web@1.0.1
+- pkg:nuget/cloudscribe.Forms.Web@10.1.0
 - pkg:nuget/cloudscribe.Forms.Web@3.0.0
 - pkg:nuget/cloudscribe.Forms.Web@3.1.0
 - pkg:nuget/cloudscribe.Forms.Web@3.1.1
