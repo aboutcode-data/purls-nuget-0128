@@ -18,6 +18,7 @@
 - pkg:nuget/FluentCertificates.Finder@0.16.1-ci.13
 - pkg:nuget/FluentCertificates.Finder@0.18.0
 - pkg:nuget/FluentCertificates.Finder@0.20.1
+- pkg:nuget/FluentCertificates.Finder@0.20.2-ci.31
 - pkg:nuget/FluentCertificates.Finder@0.3.0
 - pkg:nuget/FluentCertificates.Finder@0.3.2
 - pkg:nuget/FluentCertificates.Finder@0.3.2-ci.1
