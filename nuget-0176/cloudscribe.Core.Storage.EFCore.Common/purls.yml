@@ -7,6 +7,7 @@
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@1.1.0-rc20170526
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@1.1.0-rc20170627
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@1.1.1
+- pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@10.1.0
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@2.0.0
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.Common@2.0.0-preview20170727

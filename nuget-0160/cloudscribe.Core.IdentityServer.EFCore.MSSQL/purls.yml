@@ -8,6 +8,7 @@
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@1.1.0-rc20170401
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@1.1.0-rc20170509
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@1.1.1
+- pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@10.1.0
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@2.0.0
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@2.0.0-preview20170821
 - pkg:nuget/cloudscribe.Core.IdentityServer.EFCore.MSSQL@2.0.0-preview20171002
