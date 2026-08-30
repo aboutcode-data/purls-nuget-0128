@@ -238,3 +238,5 @@
 - pkg:nuget/Soenneker.Domainr.Client@4.0.480
 - pkg:nuget/Soenneker.Domainr.Client@4.0.489
 - pkg:nuget/Soenneker.Domainr.Client@4.0.498
+- pkg:nuget/Soenneker.Domainr.Client@4.0.506
+- pkg:nuget/Soenneker.Domainr.Client@4.0.507
