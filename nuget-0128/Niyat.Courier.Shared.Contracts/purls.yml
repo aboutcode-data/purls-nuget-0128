@@ -1,4 +1,5 @@
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.100
+- pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.114
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.14
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.28
 - pkg:nuget/Niyat.Courier.Shared.Contracts@1.0.3
