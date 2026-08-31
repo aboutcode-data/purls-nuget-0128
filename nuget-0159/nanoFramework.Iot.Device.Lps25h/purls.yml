@@ -133,5 +133,6 @@
 - pkg:nuget/nanoFramework.Iot.Device.Lps25h@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Lps25h@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Lps25h@1.2.889
+- pkg:nuget/nanoFramework.Iot.Device.Lps25h@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Lps25h@2.0.0-preview.49
 - pkg:nuget/nanoFramework.Iot.Device.Lps25h@2.0.0-preview.73

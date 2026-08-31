@@ -103,5 +103,6 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ina219@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Ina219@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Ina219@1.2.889
+- pkg:nuget/nanoFramework.Iot.Device.Ina219@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Ina219@2.0.0-preview.49
 - pkg:nuget/nanoFramework.Iot.Device.Ina219@2.0.0-preview.73
