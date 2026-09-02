@@ -1,2 +1,6 @@
 - pkg:nuget/Umai.PaymentSystem.Commons@1.0.0-pre-release-5
 - pkg:nuget/Umai.PaymentSystem.Commons@1.0.5
+- pkg:nuget/Umai.PaymentSystem.Commons@1.0.7
+- pkg:nuget/Umai.PaymentSystem.Commons@1.0.8
+- pkg:nuget/Umai.PaymentSystem.Commons@1.1.1
+- pkg:nuget/Umai.PaymentSystem.Commons@1.1.2
