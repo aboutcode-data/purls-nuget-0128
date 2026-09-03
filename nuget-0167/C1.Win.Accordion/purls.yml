@@ -1,4 +1,5 @@
 - pkg:nuget/C1.Win.Accordion@10.0.20261.779
+- pkg:nuget/C1.Win.Accordion@10.0.20261.813
 - pkg:nuget/C1.Win.Accordion@6.0.20222.566-beta
 - pkg:nuget/C1.Win.Accordion@6.0.20222.576-beta
 - pkg:nuget/C1.Win.Accordion@6.0.20223.584
