@@ -13,3 +13,5 @@
 - pkg:nuget/clojure.test.check@1.1.0.1
 - pkg:nuget/clojure.test.check@1.1.1
 - pkg:nuget/clojure.test.check@1.1.2
+- pkg:nuget/clojure.test.check@1.1.4
+- pkg:nuget/clojure.test.check@1.1.4-beta1
