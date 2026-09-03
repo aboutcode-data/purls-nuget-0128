@@ -10,3 +10,4 @@
 - pkg:nuget/AVPRClient@0.1.0
 - pkg:nuget/AVPRClient@0.1.1
 - pkg:nuget/AVPRClient@0.1.2
+- pkg:nuget/AVPRClient@0.3.0-preview.1
