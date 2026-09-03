@@ -7,3 +7,4 @@
 - pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.143
 - pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.144
 - pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.2.9
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@8.2.11
