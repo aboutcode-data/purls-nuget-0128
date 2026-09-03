@@ -50,3 +50,4 @@
 - pkg:nuget/DotMake.CommandLine@2.7.1
 - pkg:nuget/DotMake.CommandLine@2.8.0
 - pkg:nuget/DotMake.CommandLine@2.8.1
+- pkg:nuget/DotMake.CommandLine@3.6.0
