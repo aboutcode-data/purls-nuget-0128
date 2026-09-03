@@ -4,3 +4,5 @@
 - pkg:nuget/EnergyExemplar.EntityFrameworkCore.DuckDb@0.1.4-preview
 - pkg:nuget/EnergyExemplar.EntityFrameworkCore.DuckDb@0.1.5-preview
 - pkg:nuget/EnergyExemplar.EntityFrameworkCore.DuckDb@1.0.0
+- pkg:nuget/EnergyExemplar.EntityFrameworkCore.DuckDb@10.0.1
+- pkg:nuget/EnergyExemplar.EntityFrameworkCore.DuckDb@8.0.1
