@@ -1,3 +1,6 @@
 - pkg:nuget/Slackjaw.Tools@2026.2.13.54
 - pkg:nuget/Slackjaw.Tools@2026.3.30.62
 - pkg:nuget/Slackjaw.Tools@2026.3.30.64
+- pkg:nuget/Slackjaw.Tools@2026.8.23.68
+- pkg:nuget/Slackjaw.Tools@2026.8.28.72
+- pkg:nuget/Slackjaw.Tools@2026.8.28.74
