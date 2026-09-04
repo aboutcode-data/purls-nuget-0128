@@ -283,6 +283,7 @@
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@3.0.99
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.1022
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.1024
+- pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.1032
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.306
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.307
 - pkg:nuget/Soenneker.Blazor.Consumers.Base@4.0.318
