@@ -7,3 +7,5 @@
 - pkg:nuget/MgSoftDev.IndustrialController.AllenBradley.LibPlcTagNetCore@1.0.7
 - pkg:nuget/MgSoftDev.IndustrialController.AllenBradley.LibPlcTagNetCore@1.1.0
 - pkg:nuget/MgSoftDev.IndustrialController.AllenBradley.LibPlcTagNetCore@1.1.1
+- pkg:nuget/MgSoftDev.IndustrialController.AllenBradley.LibPlcTagNetCore@1.2.0
+- pkg:nuget/MgSoftDev.IndustrialController.AllenBradley.LibPlcTagNetCore@1.2.1
