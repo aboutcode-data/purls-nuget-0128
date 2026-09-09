@@ -39,3 +39,4 @@
 - pkg:nuget/Cratis.Arc.MongoDB@21.6.0
 - pkg:nuget/Cratis.Arc.MongoDB@21.8.1
 - pkg:nuget/Cratis.Arc.MongoDB@22.1.1
+- pkg:nuget/Cratis.Arc.MongoDB@22.11.0
