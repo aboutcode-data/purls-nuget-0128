@@ -147,3 +147,4 @@
 - pkg:nuget/Microsoft.TestPlatform.TranslationLayer@17.9.0-preview-23531-01
 - pkg:nuget/Microsoft.TestPlatform.TranslationLayer@17.9.0-preview-23577-04
 - pkg:nuget/Microsoft.TestPlatform.TranslationLayer@17.9.0-release-23619-01
+- pkg:nuget/Microsoft.TestPlatform.TranslationLayer@18.10.0
