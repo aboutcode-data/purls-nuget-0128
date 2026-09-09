@@ -90,6 +90,7 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.366
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.377
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.385
+- pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.387
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.66
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.68
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Mistral@4.0.75
