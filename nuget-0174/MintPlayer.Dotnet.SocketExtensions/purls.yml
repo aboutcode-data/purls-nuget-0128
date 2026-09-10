@@ -4,6 +4,7 @@
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@10.0.0-preview.26
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@10.0.0-preview.65
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@10.0.0-preview.70
+- pkg:nuget/MintPlayer.Dotnet.SocketExtensions@10.0.0-preview.79
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@8.0.0
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@8.0.1
 - pkg:nuget/MintPlayer.Dotnet.SocketExtensions@8.0.4
