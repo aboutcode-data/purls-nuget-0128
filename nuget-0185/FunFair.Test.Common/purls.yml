@@ -2477,3 +2477,4 @@
 - pkg:nuget/FunFair.Test.Common@6.4.6.2741-main
 - pkg:nuget/FunFair.Test.Common@6.4.6.2742-main
 - pkg:nuget/FunFair.Test.Common@6.4.6.2745-main
+- pkg:nuget/FunFair.Test.Common@6.4.7.2752-rider-code-anal
