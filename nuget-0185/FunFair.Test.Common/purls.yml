@@ -2478,3 +2478,5 @@
 - pkg:nuget/FunFair.Test.Common@6.4.6.2742-main
 - pkg:nuget/FunFair.Test.Common@6.4.6.2745-main
 - pkg:nuget/FunFair.Test.Common@6.4.7.2752-rider-code-anal
+- pkg:nuget/FunFair.Test.Common@6.4.7.2772-xunitloggerbase
+- pkg:nuget/FunFair.Test.Common@6.4.7.2781-xunitloggerbase
