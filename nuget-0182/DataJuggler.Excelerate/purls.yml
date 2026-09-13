@@ -43,6 +43,7 @@
 - pkg:nuget/DataJuggler.Excelerate@1.7.1
 - pkg:nuget/DataJuggler.Excelerate@1.7.2
 - pkg:nuget/DataJuggler.Excelerate@1.7.3
+- pkg:nuget/DataJuggler.Excelerate@10.0.17
 - pkg:nuget/DataJuggler.Excelerate@6.0.0
 - pkg:nuget/DataJuggler.Excelerate@6.0.1
 - pkg:nuget/DataJuggler.Excelerate@6.0.2
