@@ -646,6 +646,8 @@
 - pkg:nuget/MudBlazor.Extensions@8.9.1-prev-2507141426-copilot-fix-150
 - pkg:nuget/MudBlazor.Extensions@8.9.1-prev-2507151845-main
 - pkg:nuget/MudBlazor.Extensions@8.9.1-prev-2508221732-main
+- pkg:nuget/MudBlazor.Extensions@9.10.1-prev-260915123
+- pkg:nuget/MudBlazor.Extensions@9.10.1-prev-260915124-main
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511150
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511151-main
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201013
