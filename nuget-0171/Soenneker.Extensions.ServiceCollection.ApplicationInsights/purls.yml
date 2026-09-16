@@ -152,3 +152,4 @@
 - pkg:nuget/Soenneker.Extensions.ServiceCollection.ApplicationInsights@4.0.290
 - pkg:nuget/Soenneker.Extensions.ServiceCollection.ApplicationInsights@4.0.297
 - pkg:nuget/Soenneker.Extensions.ServiceCollection.ApplicationInsights@4.0.317
+- pkg:nuget/Soenneker.Extensions.ServiceCollection.ApplicationInsights@4.0.330
