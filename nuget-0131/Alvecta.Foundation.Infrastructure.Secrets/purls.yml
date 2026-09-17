@@ -2,3 +2,4 @@
 - pkg:nuget/Alvecta.Foundation.Infrastructure.Secrets@1.0.18
 - pkg:nuget/Alvecta.Foundation.Infrastructure.Secrets@1.0.3
 - pkg:nuget/Alvecta.Foundation.Infrastructure.Secrets@2.4.31
+- pkg:nuget/Alvecta.Foundation.Infrastructure.Secrets@5.0.49
