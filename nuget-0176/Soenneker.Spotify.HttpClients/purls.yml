@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.103
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.115
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.116
+- pkg:nuget/Soenneker.Spotify.HttpClients@4.0.128
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.19
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Spotify.HttpClients@4.0.21
