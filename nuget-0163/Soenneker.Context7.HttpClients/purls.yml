@@ -4,3 +4,4 @@
 - pkg:nuget/Soenneker.Context7.HttpClients@4.0.33
 - pkg:nuget/Soenneker.Context7.HttpClients@4.0.42
 - pkg:nuget/Soenneker.Context7.HttpClients@4.0.43
+- pkg:nuget/Soenneker.Context7.HttpClients@4.0.55
