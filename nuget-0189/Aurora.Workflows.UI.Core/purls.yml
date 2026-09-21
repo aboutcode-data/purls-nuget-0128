@@ -143,4 +143,5 @@
 - pkg:nuget/Aurora.Workflows.UI.Core@0.4.1.18
 - pkg:nuget/Aurora.Workflows.UI.Core@0.4.1.29
 - pkg:nuget/Aurora.Workflows.UI.Core@0.4.1.5
+- pkg:nuget/Aurora.Workflows.UI.Core@0.5.1.24
 - pkg:nuget/Aurora.Workflows.UI.Core@1.0.0
