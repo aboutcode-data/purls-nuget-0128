@@ -16,3 +16,4 @@
 - pkg:nuget/DotNetCore.Collections.Paginable@3.2.1
 - pkg:nuget/DotNetCore.Collections.Paginable@3.3.0
 - pkg:nuget/DotNetCore.Collections.Paginable@5.0.0
+- pkg:nuget/DotNetCore.Collections.Paginable@6.4.0
