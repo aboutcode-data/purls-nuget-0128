@@ -5,3 +5,4 @@
 - pkg:nuget/Zongsoft.Data.ClickHouse@2.0.0
 - pkg:nuget/Zongsoft.Data.ClickHouse@2.1.0
 - pkg:nuget/Zongsoft.Data.ClickHouse@2.3.0
+- pkg:nuget/Zongsoft.Data.ClickHouse@2.7.2
