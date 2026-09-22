@@ -44,3 +44,4 @@
 - pkg:nuget/Raylib-cs@6.1.1
 - pkg:nuget/Raylib-cs@7.0.0
 - pkg:nuget/Raylib-cs@7.0.1
+- pkg:nuget/Raylib-cs@8.1.0
