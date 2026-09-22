@@ -6,3 +6,5 @@
 - pkg:nuget/Shiny.Extensions.MauiHosting@4.0.0-beta-0002
 - pkg:nuget/Shiny.Extensions.MauiHosting@4.0.0-beta-0059
 - pkg:nuget/Shiny.Extensions.MauiHosting@4.0.0-beta-0063
+- pkg:nuget/Shiny.Extensions.MauiHosting@5.2.0
+- pkg:nuget/Shiny.Extensions.MauiHosting@5.2.1
