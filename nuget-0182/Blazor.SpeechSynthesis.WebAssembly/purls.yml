@@ -1,4 +1,5 @@
 - pkg:nuget/Blazor.SpeechSynthesis.WebAssembly@1.5.0
+- pkg:nuget/Blazor.SpeechSynthesis.WebAssembly@10.1.0
 - pkg:nuget/Blazor.SpeechSynthesis.WebAssembly@2.0.1
 - pkg:nuget/Blazor.SpeechSynthesis.WebAssembly@2.0.10
 - pkg:nuget/Blazor.SpeechSynthesis.WebAssembly@2.0.11
