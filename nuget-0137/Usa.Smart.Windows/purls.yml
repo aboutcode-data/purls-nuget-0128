@@ -76,6 +76,7 @@
 - pkg:nuget/Usa.Smart.Windows@2.2.2
 - pkg:nuget/Usa.Smart.Windows@2.2.3
 - pkg:nuget/Usa.Smart.Windows@2.3.0
+- pkg:nuget/Usa.Smart.Windows@2.33.0
 - pkg:nuget/Usa.Smart.Windows@2.4.0
 - pkg:nuget/Usa.Smart.Windows@2.5.0
 - pkg:nuget/Usa.Smart.Windows@2.6.0
