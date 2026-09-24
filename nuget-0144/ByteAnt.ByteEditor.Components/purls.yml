@@ -1,4 +1,5 @@
 - pkg:nuget/ByteAnt.ByteEditor.Components@17.0.0-alpha
+- pkg:nuget/ByteAnt.ByteEditor.Components@17.0.2
 - pkg:nuget/ByteAnt.ByteEditor.Components@2.0.0
 - pkg:nuget/ByteAnt.ByteEditor.Components@2.0.1
 - pkg:nuget/ByteAnt.ByteEditor.Components@2.0.3-alpha
