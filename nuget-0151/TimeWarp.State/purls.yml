@@ -63,3 +63,4 @@
 - pkg:nuget/TimeWarp.State@11.0.2
 - pkg:nuget/TimeWarp.State@11.0.3
 - pkg:nuget/TimeWarp.State@12.0.0-beta.1
+- pkg:nuget/TimeWarp.State@12.0.0-beta.5
