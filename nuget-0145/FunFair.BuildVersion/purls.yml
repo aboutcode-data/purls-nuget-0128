@@ -2016,6 +2016,7 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2327-main
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2369-main
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2382-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2383-github-actions
 - pkg:nuget/FunFair.BuildVersion@6.2.3.40-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.42-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.43-main
