@@ -1,5 +1,6 @@
 - pkg:nuget/linQsupply.Analyzers@1.0.11
 - pkg:nuget/linQsupply.Analyzers@1.0.14
+- pkg:nuget/linQsupply.Analyzers@1.0.15
 - pkg:nuget/linQsupply.Analyzers@1.0.3
 - pkg:nuget/linQsupply.Analyzers@1.0.6
 - pkg:nuget/linQsupply.Analyzers@1.0.9
