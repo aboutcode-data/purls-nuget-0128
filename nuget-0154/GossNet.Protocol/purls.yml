@@ -6,3 +6,5 @@
 - pkg:nuget/GossNet.Protocol@0.1.16
 - pkg:nuget/GossNet.Protocol@0.1.8
 - pkg:nuget/GossNet.Protocol@0.1.9
+- pkg:nuget/GossNet.Protocol@0.8.2
+- pkg:nuget/GossNet.Protocol@0.9.0
