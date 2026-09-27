@@ -3,3 +3,5 @@
 - pkg:nuget/MaxRev.Gdal.CLI.osx-x64@3.12.2.494
 - pkg:nuget/MaxRev.Gdal.CLI.osx-x64@3.12.3.496
 - pkg:nuget/MaxRev.Gdal.CLI.osx-x64@3.13.1.534
+- pkg:nuget/MaxRev.Gdal.CLI.osx-x64@3.13.2.549
+- pkg:nuget/MaxRev.Gdal.CLI.osx-x64@3.13.3.557
