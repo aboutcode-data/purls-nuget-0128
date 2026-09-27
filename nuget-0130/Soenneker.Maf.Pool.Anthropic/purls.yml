@@ -1,5 +1,10 @@
 - pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.101
 - pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.111
+- pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.141
+- pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.143
+- pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.144
+- pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.146
+- pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.147
 - pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.15
 - pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.19
 - pkg:nuget/Soenneker.Maf.Pool.Anthropic@4.0.26
