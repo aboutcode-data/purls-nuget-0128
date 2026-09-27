@@ -1,1 +1,3 @@
 - pkg:nuget/KBlazor@1.0.0
+- pkg:nuget/KBlazor@1.0.3
+- pkg:nuget/KBlazor@1.1.0
