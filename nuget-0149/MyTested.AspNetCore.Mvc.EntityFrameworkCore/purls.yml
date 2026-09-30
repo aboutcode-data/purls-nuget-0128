@@ -2,6 +2,7 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@1.0.0-preview
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@1.0.0-preview-final
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.EntityFrameworkCore@3.0.0
