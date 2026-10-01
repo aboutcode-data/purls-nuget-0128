@@ -20,5 +20,6 @@
 - pkg:nuget/pdfcnunit@25.4.232
 - pkg:nuget/pdfcnunit@25.4.260
 - pkg:nuget/pdfcnunit@25.4.312
+- pkg:nuget/pdfcnunit@26.10.199
 - pkg:nuget/pdfcnunit@4.0.0
 - pkg:nuget/pdfcnunit@4.0.1
