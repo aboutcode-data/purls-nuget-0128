@@ -193,3 +193,4 @@
 - pkg:nuget/DotFramework.Infra.Web.API.Controller@2.99.7
 - pkg:nuget/DotFramework.Infra.Web.API.Controller@2.99.8
 - pkg:nuget/DotFramework.Infra.Web.API.Controller@2.99.9
+- pkg:nuget/DotFramework.Infra.Web.API.Controller@4.4.1
