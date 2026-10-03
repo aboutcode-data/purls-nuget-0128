@@ -12,6 +12,7 @@
 - pkg:nuget/Gate.IO.Api@4.105.6
 - pkg:nuget/Gate.IO.Api@4.105.8
 - pkg:nuget/Gate.IO.Api@4.105.9
+- pkg:nuget/Gate.IO.Api@4.106.144
 - pkg:nuget/Gate.IO.Api@4.4.1001
 - pkg:nuget/Gate.IO.Api@4.4.1002
 - pkg:nuget/Gate.IO.Api@4.4.1003
