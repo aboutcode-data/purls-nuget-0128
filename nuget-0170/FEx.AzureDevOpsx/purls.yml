@@ -13,6 +13,7 @@
 - pkg:nuget/FEx.AzureDevOpsx@0.3.0
 - pkg:nuget/FEx.AzureDevOpsx@0.3.0-alpha.5
 - pkg:nuget/FEx.AzureDevOpsx@0.4.0-alpha.129
+- pkg:nuget/FEx.AzureDevOpsx@0.4.0-alpha.194
 - pkg:nuget/FEx.AzureDevOpsx@0.4.0-alpha.25
 - pkg:nuget/FEx.AzureDevOpsx@0.4.0-alpha.38
 - pkg:nuget/FEx.AzureDevOpsx@0.4.0-alpha.55
