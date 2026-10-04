@@ -13,6 +13,7 @@
 - pkg:nuget/LotgdFormat@0.15.1
 - pkg:nuget/LotgdFormat@0.15.2
 - pkg:nuget/LotgdFormat@0.17.0
+- pkg:nuget/LotgdFormat@0.18.0
 - pkg:nuget/LotgdFormat@0.5.0
 - pkg:nuget/LotgdFormat@0.6.0
 - pkg:nuget/LotgdFormat@0.6.1
