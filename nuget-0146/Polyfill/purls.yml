@@ -69,6 +69,7 @@
 - pkg:nuget/Polyfill@10.11.1
 - pkg:nuget/Polyfill@10.11.2
 - pkg:nuget/Polyfill@10.8.0
+- pkg:nuget/Polyfill@11.4.3
 - pkg:nuget/Polyfill@2.0.0
 - pkg:nuget/Polyfill@2.0.1
 - pkg:nuget/Polyfill@2.1.0
