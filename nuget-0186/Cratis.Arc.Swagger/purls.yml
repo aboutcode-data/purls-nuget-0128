@@ -53,4 +53,5 @@
 - pkg:nuget/Cratis.Arc.Swagger@22.41.1
 - pkg:nuget/Cratis.Arc.Swagger@22.44.2
 - pkg:nuget/Cratis.Arc.Swagger@22.48.1
+- pkg:nuget/Cratis.Arc.Swagger@22.50.3
 - pkg:nuget/Cratis.Arc.Swagger@22.8.2
