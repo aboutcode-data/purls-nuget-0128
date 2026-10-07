@@ -414,6 +414,7 @@
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.114
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.115
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.119
+- pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.148
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.15
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.4
 - pkg:nuget/Meshmakers.Octo.Sdk.SourceGeneration@3.4.42
