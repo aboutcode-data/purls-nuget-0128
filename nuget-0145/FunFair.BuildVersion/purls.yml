@@ -2019,6 +2019,7 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2383-github-actions
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2393-pull-406-merge
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2394-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2397-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.40-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.42-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.43-main
