@@ -1,4 +1,8 @@
 - pkg:nuget/Unpdf@0.1.2
 - pkg:nuget/Unpdf@0.1.5
+- pkg:nuget/Unpdf@0.17.0
 - pkg:nuget/Unpdf@0.2.4
+- pkg:nuget/Unpdf@0.22.0
+- pkg:nuget/Unpdf@0.28.0
+- pkg:nuget/Unpdf@0.29.0
 - pkg:nuget/Unpdf@0.4.4
