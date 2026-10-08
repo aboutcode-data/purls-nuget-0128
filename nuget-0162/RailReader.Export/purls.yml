@@ -1,3 +1,7 @@
 - pkg:nuget/RailReader.Export@0.32.1
 - pkg:nuget/RailReader.Export@0.42.0
 - pkg:nuget/RailReader.Export@0.43.0
+- pkg:nuget/RailReader.Export@0.53.0
+- pkg:nuget/RailReader.Export@0.54.0
+- pkg:nuget/RailReader.Export@0.63.0
+- pkg:nuget/RailReader.Export@0.63.1
