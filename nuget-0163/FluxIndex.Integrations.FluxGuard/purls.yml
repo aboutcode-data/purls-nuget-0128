@@ -1,0 +1,5 @@
+- pkg:nuget/FluxIndex.Integrations.FluxGuard@0.71.2
+- pkg:nuget/FluxIndex.Integrations.FluxGuard@0.74.0
+- pkg:nuget/FluxIndex.Integrations.FluxGuard@0.76.0
+- pkg:nuget/FluxIndex.Integrations.FluxGuard@0.80.11
+- pkg:nuget/FluxIndex.Integrations.FluxGuard@0.80.14
