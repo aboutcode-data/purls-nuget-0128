@@ -113,6 +113,7 @@
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.206
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.207
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.21
+- pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.217
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.22
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.23
 - pkg:nuget/Kentico.Xperience.AspNet.Mvc5@13.0.24
