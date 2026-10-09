@@ -1055,6 +1055,7 @@
 - pkg:nuget/Pulumi.Kubernetes@4.35.0-alpha.1789420430
 - pkg:nuget/Pulumi.Kubernetes@4.35.0-alpha.1789747678
 - pkg:nuget/Pulumi.Kubernetes@4.35.0-alpha.1791373612
+- pkg:nuget/Pulumi.Kubernetes@4.35.0-alpha.1791542291
 - pkg:nuget/Pulumi.Kubernetes@4.4.0
 - pkg:nuget/Pulumi.Kubernetes@4.4.0-alpha.1696266133%2B47beeeab
 - pkg:nuget/Pulumi.Kubernetes@4.4.0-alpha.1696269163%2B98306fc8
