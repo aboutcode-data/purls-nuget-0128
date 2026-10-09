@@ -108,3 +108,4 @@
 - pkg:nuget/Aquarius.SDK.Legacy@25.1.8
 - pkg:nuget/Aquarius.SDK.Legacy@25.1.9
 - pkg:nuget/Aquarius.SDK.Legacy@25.2.0
+- pkg:nuget/Aquarius.SDK.Legacy@26.3.0
