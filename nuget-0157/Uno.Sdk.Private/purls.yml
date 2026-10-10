@@ -981,6 +981,7 @@
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.1666
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.1679
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.1692
+- pkg:nuget/Uno.Sdk.Private@7.0.0-dev.2098
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.680
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.713
 - pkg:nuget/Uno.Sdk.Private@7.0.0-dev.722
