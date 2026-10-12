@@ -62,5 +62,6 @@
 - pkg:nuget/Bbx.Fabric@1.0.66
 - pkg:nuget/Bbx.Fabric@1.0.69
 - pkg:nuget/Bbx.Fabric@1.0.7
+- pkg:nuget/Bbx.Fabric@1.0.72
 - pkg:nuget/Bbx.Fabric@1.0.8
 - pkg:nuget/Bbx.Fabric@1.0.9
