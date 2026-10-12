@@ -23,3 +23,4 @@
 - pkg:nuget/kickflip@2.0.10
 - pkg:nuget/kickflip@2.0.8-alpha
 - pkg:nuget/kickflip@2.0.9-alpha
+- pkg:nuget/kickflip@3.0.1
