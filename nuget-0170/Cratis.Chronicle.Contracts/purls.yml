@@ -246,4 +246,5 @@
 - pkg:nuget/Cratis.Chronicle.Contracts@19.4.6
 - pkg:nuget/Cratis.Chronicle.Contracts@19.43.0
 - pkg:nuget/Cratis.Chronicle.Contracts@19.45.0
+- pkg:nuget/Cratis.Chronicle.Contracts@19.51.1
 - pkg:nuget/Cratis.Chronicle.Contracts@19.6.1
