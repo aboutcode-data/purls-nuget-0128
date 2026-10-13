@@ -1,6 +1,7 @@
 - pkg:nuget/NSbusLib.Base@0.9.0-beta
 - pkg:nuget/NSbusLib.Base@0.9.1-beta
 - pkg:nuget/NSbusLib.Base@0.9.10-beta
+- pkg:nuget/NSbusLib.Base@0.9.100-beta
 - pkg:nuget/NSbusLib.Base@0.9.11-beta
 - pkg:nuget/NSbusLib.Base@0.9.12-beta
 - pkg:nuget/NSbusLib.Base@0.9.13-beta
