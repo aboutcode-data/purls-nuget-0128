@@ -652,6 +652,8 @@
 - pkg:nuget/MudBlazor.Extensions@9.11.1-prev-2610082241-fix-objectedit-meta-configuration-labels
 - pkg:nuget/MudBlazor.Extensions@9.11.1-prev-2610082242
 - pkg:nuget/MudBlazor.Extensions@9.11.1-prev-2610082243-main
+- pkg:nuget/MudBlazor.Extensions@9.11.4-prev-2610140829
+- pkg:nuget/MudBlazor.Extensions@9.11.4-prev-2610140829-main
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511150
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511151-main
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201013
