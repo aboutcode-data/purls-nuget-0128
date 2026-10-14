@@ -1,3 +1,7 @@
 - pkg:nuget/Soenneker.Atomics.Bools@4.0.25
 - pkg:nuget/Soenneker.Atomics.Bools@4.0.36
 - pkg:nuget/Soenneker.Atomics.Bools@4.0.41
+- pkg:nuget/Soenneker.Atomics.Bools@4.0.44
+- pkg:nuget/Soenneker.Atomics.Bools@4.0.46
+- pkg:nuget/Soenneker.Atomics.Bools@4.0.64
+- pkg:nuget/Soenneker.Atomics.Bools@4.0.74
