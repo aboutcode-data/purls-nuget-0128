@@ -105,3 +105,6 @@
 - pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.77
 - pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.84
 - pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.85
+- pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.88
+- pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.89
+- pkg:nuget/Siemens.Simatic.S7.Webserver.API@3.3.90
