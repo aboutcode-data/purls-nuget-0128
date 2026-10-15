@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.13
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.141
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.154
+- pkg:nuget/Soenneker.Quo.HttpClients@4.0.156
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.24
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.3
 - pkg:nuget/Soenneker.Quo.HttpClients@4.0.30
