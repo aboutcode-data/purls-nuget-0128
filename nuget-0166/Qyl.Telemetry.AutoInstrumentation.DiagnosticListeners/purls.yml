@@ -1,4 +1,5 @@
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.DiagnosticListeners@23.0.0
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.DiagnosticListeners@24.0.2
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.DiagnosticListeners@24.1.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.DiagnosticListeners@25.0.0
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.DiagnosticListeners@9.0.1
