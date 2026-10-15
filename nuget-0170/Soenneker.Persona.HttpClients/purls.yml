@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.128
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.137
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.152
+- pkg:nuget/Soenneker.Persona.HttpClients@4.0.153
+- pkg:nuget/Soenneker.Persona.HttpClients@4.0.154
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.20
 - pkg:nuget/Soenneker.Persona.HttpClients@4.0.23
