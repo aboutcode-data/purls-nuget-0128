@@ -19,6 +19,7 @@
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.25.0
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.3.0
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.3.1
+- pkg:nuget/LLamaSharp.Backend.Cpu@0.30.0
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.4.1-preview
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.4.2-preview
 - pkg:nuget/LLamaSharp.Backend.Cpu@0.5.0
