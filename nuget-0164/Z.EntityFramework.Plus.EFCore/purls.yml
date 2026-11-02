@@ -101,6 +101,7 @@
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@10.105.6
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@10.105.7
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@10.105.8
+- pkg:nuget/Z.EntityFramework.Plus.EFCore@11.0.0-rc.2.26504.105
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.0
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.1
 - pkg:nuget/Z.EntityFramework.Plus.EFCore@2.0.15
