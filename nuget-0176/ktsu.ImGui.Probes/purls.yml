@@ -15,4 +15,8 @@
 - pkg:nuget/ktsu.ImGui.Probes@3.59.0
 - pkg:nuget/ktsu.ImGui.Probes@3.65.0
 - pkg:nuget/ktsu.ImGui.Probes@3.75.1
+- pkg:nuget/ktsu.ImGui.Probes@3.75.2-pre.1
+- pkg:nuget/ktsu.ImGui.Probes@3.77.2
+- pkg:nuget/ktsu.ImGui.Probes@3.78.0
+- pkg:nuget/ktsu.ImGui.Probes@3.79.0
 - pkg:nuget/ktsu.ImGui.Probes@3.9.0
