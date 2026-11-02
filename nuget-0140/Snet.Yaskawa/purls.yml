@@ -88,5 +88,7 @@
 - pkg:nuget/Snet.Yaskawa@26.222.1
 - pkg:nuget/Snet.Yaskawa@26.226.1
 - pkg:nuget/Snet.Yaskawa@26.256.1
+- pkg:nuget/Snet.Yaskawa@26.282.1
+- pkg:nuget/Snet.Yaskawa@26.283.1-preview.1
 - pkg:nuget/Snet.Yaskawa@26.77.1
 - pkg:nuget/Snet.Yaskawa@26.78.1
