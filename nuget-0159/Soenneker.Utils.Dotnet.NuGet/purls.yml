@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Utils.Dotnet.NuGet@11.0.2159
+- pkg:nuget/Soenneker.Utils.Dotnet.NuGet@11.0.2161
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@2.1.1
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@2.1.10
 - pkg:nuget/Soenneker.Utils.Dotnet.NuGet@2.1.100
