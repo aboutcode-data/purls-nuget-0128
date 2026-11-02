@@ -721,6 +721,7 @@
 - pkg:nuget/StrawberryShake.Tools@13.9.14
 - pkg:nuget/StrawberryShake.Tools@13.9.14-p.1
 - pkg:nuget/StrawberryShake.Tools@13.9.15
+- pkg:nuget/StrawberryShake.Tools@13.9.18
 - pkg:nuget/StrawberryShake.Tools@13.9.2
 - pkg:nuget/StrawberryShake.Tools@13.9.3
 - pkg:nuget/StrawberryShake.Tools@13.9.4
@@ -1328,6 +1329,7 @@
 - pkg:nuget/StrawberryShake.Tools@16.6.2-p.6
 - pkg:nuget/StrawberryShake.Tools@16.6.3
 - pkg:nuget/StrawberryShake.Tools@16.6.8
+- pkg:nuget/StrawberryShake.Tools@16.7.0
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.1
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.12
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.14
@@ -1337,4 +1339,11 @@
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.24
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.25
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.26
+- pkg:nuget/StrawberryShake.Tools@16.7.0-p.32
+- pkg:nuget/StrawberryShake.Tools@16.7.0-p.33
+- pkg:nuget/StrawberryShake.Tools@16.7.0-p.35
 - pkg:nuget/StrawberryShake.Tools@16.7.0-p.8
+- pkg:nuget/StrawberryShake.Tools@16.7.3
+- pkg:nuget/StrawberryShake.Tools@16.8.0-p.4
+- pkg:nuget/StrawberryShake.Tools@16.8.0-p.8
+- pkg:nuget/StrawberryShake.Tools@16.8.0-p.9
