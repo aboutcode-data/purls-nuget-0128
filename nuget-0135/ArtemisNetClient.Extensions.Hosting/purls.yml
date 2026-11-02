@@ -36,3 +36,4 @@
 - pkg:nuget/ArtemisNetClient.Extensions.Hosting@2.8.0
 - pkg:nuget/ArtemisNetClient.Extensions.Hosting@2.9.0
 - pkg:nuget/ArtemisNetClient.Extensions.Hosting@3.0.0
+- pkg:nuget/ArtemisNetClient.Extensions.Hosting@3.1.2
