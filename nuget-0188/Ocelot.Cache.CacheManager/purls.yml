@@ -147,3 +147,5 @@
 - pkg:nuget/Ocelot.Cache.CacheManager@25.0.0-beta.2
 - pkg:nuget/Ocelot.Cache.CacheManager@25.0.0-beta.3
 - pkg:nuget/Ocelot.Cache.CacheManager@25.0.0-beta.4
+- pkg:nuget/Ocelot.Cache.CacheManager@25.0.2
+- pkg:nuget/Ocelot.Cache.CacheManager@25.0.2-beta.1
