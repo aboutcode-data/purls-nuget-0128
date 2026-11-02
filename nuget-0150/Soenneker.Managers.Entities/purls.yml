@@ -1,3 +1,11 @@
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1509
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1510
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1511
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1518
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1523
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1524
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1531
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1533
 - pkg:nuget/Soenneker.Managers.Entities@3.0.1
 - pkg:nuget/Soenneker.Managers.Entities@3.0.10
 - pkg:nuget/Soenneker.Managers.Entities@3.0.100
@@ -467,6 +475,7 @@
 - pkg:nuget/Soenneker.Managers.Entities@4.0.1490
 - pkg:nuget/Soenneker.Managers.Entities@4.0.1494
 - pkg:nuget/Soenneker.Managers.Entities@4.0.1496
+- pkg:nuget/Soenneker.Managers.Entities@4.0.1500
 - pkg:nuget/Soenneker.Managers.Entities@4.0.447
 - pkg:nuget/Soenneker.Managers.Entities@4.0.453
 - pkg:nuget/Soenneker.Managers.Entities@4.0.513
