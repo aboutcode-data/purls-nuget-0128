@@ -69,6 +69,9 @@
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.100.4
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.100.5
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.101.2
+- pkg:nuget/AWSSDK.WorkspacesInstances@4.0.102.7
+- pkg:nuget/AWSSDK.WorkspacesInstances@4.0.104.1
+- pkg:nuget/AWSSDK.WorkspacesInstances@4.0.104.2
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.3.4
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.3.6
 - pkg:nuget/AWSSDK.WorkspacesInstances@4.0.3.7
