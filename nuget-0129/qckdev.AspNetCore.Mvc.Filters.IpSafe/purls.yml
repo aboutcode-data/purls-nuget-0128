@@ -13,3 +13,5 @@
 - pkg:nuget/qckdev.AspNetCore.Mvc.Filters.IpSafe@1.3.0-development01.1340
 - pkg:nuget/qckdev.AspNetCore.Mvc.Filters.IpSafe@1.3.0-development01.1342
 - pkg:nuget/qckdev.AspNetCore.Mvc.Filters.IpSafe@1.3.0-development01.1343
+- pkg:nuget/qckdev.AspNetCore.Mvc.Filters.IpSafe@2.0.0-net10revamp.1827
+- pkg:nuget/qckdev.AspNetCore.Mvc.Filters.IpSafe@2.0.0-net10revampmultischema.1814
