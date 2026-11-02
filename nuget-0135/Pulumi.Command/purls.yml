@@ -411,5 +411,12 @@
 - pkg:nuget/Pulumi.Command@1.3.0-alpha.1790588178
 - pkg:nuget/Pulumi.Command@1.3.0-alpha.1791575088
 - pkg:nuget/Pulumi.Command@1.3.0-alpha.1792031641
+- pkg:nuget/Pulumi.Command@1.3.0-alpha.1792128907
+- pkg:nuget/Pulumi.Command@1.3.0-alpha.1792513442
+- pkg:nuget/Pulumi.Command@1.3.0-alpha.1792647281
+- pkg:nuget/Pulumi.Command@1.3.0-alpha.1793046795
+- pkg:nuget/Pulumi.Command@1.3.0-alpha.1793270508
+- pkg:nuget/Pulumi.Command@1.4.0-alpha.1793280963
+- pkg:nuget/Pulumi.Command@1.4.0-alpha.1793281669
 - pkg:nuget/Pulumi.Command@4.5.0
 - pkg:nuget/Pulumi.Command@4.6.0-alpha.1662390243%2B5c22c9dd
