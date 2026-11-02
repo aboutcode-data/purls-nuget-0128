@@ -21,3 +21,6 @@
 - pkg:nuget/SQLServerInteraction@1.0.7
 - pkg:nuget/SQLServerInteraction@1.0.8
 - pkg:nuget/SQLServerInteraction@1.0.9
+- pkg:nuget/SQLServerInteraction@1.1.1
+- pkg:nuget/SQLServerInteraction@2.0.1
+- pkg:nuget/SQLServerInteraction@3.0.0
