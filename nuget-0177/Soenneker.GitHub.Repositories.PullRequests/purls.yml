@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@11.0.2040
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@11.0.2043
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@3.0.1
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@3.0.100
@@ -1270,3 +1272,6 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1981
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.1982
 - pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.2020
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.2026
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.2027
+- pkg:nuget/Soenneker.GitHub.Repositories.PullRequests@4.0.2028

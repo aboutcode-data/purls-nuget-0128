@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Ipqs.Client@11.0.1679
+- pkg:nuget/Soenneker.Ipqs.Client@11.0.1682
 - pkg:nuget/Soenneker.Ipqs.Client@2.1.1
 - pkg:nuget/Soenneker.Ipqs.Client@2.1.10
 - pkg:nuget/Soenneker.Ipqs.Client@2.1.100
