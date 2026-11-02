@@ -15,6 +15,7 @@
 - pkg:nuget/StockSharp.Diagram.Core@5.0.110
 - pkg:nuget/StockSharp.Diagram.Core@5.0.115
 - pkg:nuget/StockSharp.Diagram.Core@5.0.12
+- pkg:nuget/StockSharp.Diagram.Core@5.0.121
 - pkg:nuget/StockSharp.Diagram.Core@5.0.13
 - pkg:nuget/StockSharp.Diagram.Core@5.0.14
 - pkg:nuget/StockSharp.Diagram.Core@5.0.15
