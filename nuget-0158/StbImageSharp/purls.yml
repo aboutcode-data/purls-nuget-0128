@@ -12,3 +12,4 @@
 - pkg:nuget/StbImageSharp@2.27.7
 - pkg:nuget/StbImageSharp@2.27.8
 - pkg:nuget/StbImageSharp@2.30.15
+- pkg:nuget/StbImageSharp@2.30.16
