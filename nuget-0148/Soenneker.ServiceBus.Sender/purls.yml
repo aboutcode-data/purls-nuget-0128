@@ -228,6 +228,8 @@
 - pkg:nuget/Soenneker.ServiceBus.Sender@1.0.97
 - pkg:nuget/Soenneker.ServiceBus.Sender@1.0.98
 - pkg:nuget/Soenneker.ServiceBus.Sender@1.0.99
+- pkg:nuget/Soenneker.ServiceBus.Sender@11.0.2586
+- pkg:nuget/Soenneker.ServiceBus.Sender@11.0.2587
 - pkg:nuget/Soenneker.ServiceBus.Sender@2.0.1
 - pkg:nuget/Soenneker.ServiceBus.Sender@2.0.2
 - pkg:nuget/Soenneker.ServiceBus.Sender@2.0.231
