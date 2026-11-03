@@ -1013,6 +1013,9 @@
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.225.2822-main
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.225.2823-main
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.226.2832-main
+- pkg:nuget/Credfeto.Database.SqlServer@1.2.226.2837-main
+- pkg:nuget/Credfeto.Database.SqlServer@1.2.226.2839
+- pkg:nuget/Credfeto.Database.SqlServer@1.2.227.2838-main
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.23.688-main
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.23.689-main
 - pkg:nuget/Credfeto.Database.SqlServer@1.2.23.690-main
