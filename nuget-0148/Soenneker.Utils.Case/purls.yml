@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Utils.Case@4.0.104
+- pkg:nuget/Soenneker.Utils.Case@4.0.110
+- pkg:nuget/Soenneker.Utils.Case@4.0.112
+- pkg:nuget/Soenneker.Utils.Case@4.0.115
 - pkg:nuget/Soenneker.Utils.Case@4.0.18
 - pkg:nuget/Soenneker.Utils.Case@4.0.35
 - pkg:nuget/Soenneker.Utils.Case@4.0.36
@@ -10,3 +14,5 @@
 - pkg:nuget/Soenneker.Utils.Case@4.0.82
 - pkg:nuget/Soenneker.Utils.Case@4.0.83
 - pkg:nuget/Soenneker.Utils.Case@4.0.85
+- pkg:nuget/Soenneker.Utils.Case@4.0.95
+- pkg:nuget/Soenneker.Utils.Case@4.0.97
