@@ -51,6 +51,7 @@
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.140
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.147
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.15
+- pkg:nuget/Codefoco.MonoGame.Framework@3.8.155
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.16
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.17
 - pkg:nuget/Codefoco.MonoGame.Framework@3.8.18
