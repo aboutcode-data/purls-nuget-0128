@@ -1,1 +1,5 @@
 - pkg:nuget/GridPixel.KlaviyoSharp.RateLimiting.Orleans@0.21.0
+- pkg:nuget/GridPixel.KlaviyoSharp.RateLimiting.Orleans@0.22.1
+- pkg:nuget/GridPixel.KlaviyoSharp.RateLimiting.Orleans@0.23.0
+- pkg:nuget/GridPixel.KlaviyoSharp.RateLimiting.Orleans@0.24.0
+- pkg:nuget/GridPixel.KlaviyoSharp.RateLimiting.Orleans@0.25.0
