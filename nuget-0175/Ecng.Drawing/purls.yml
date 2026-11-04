@@ -42,6 +42,7 @@
 - pkg:nuget/Ecng.Drawing@1.0.198
 - pkg:nuget/Ecng.Drawing@1.0.2
 - pkg:nuget/Ecng.Drawing@1.0.20
+- pkg:nuget/Ecng.Drawing@1.0.202
 - pkg:nuget/Ecng.Drawing@1.0.21
 - pkg:nuget/Ecng.Drawing@1.0.22
 - pkg:nuget/Ecng.Drawing@1.0.23

@@ -139,6 +139,7 @@
 - pkg:nuget/Ecng.IO@1.0.28
 - pkg:nuget/Ecng.IO@1.0.29
 - pkg:nuget/Ecng.IO@1.0.29-atestpub
+- pkg:nuget/Ecng.IO@1.0.293
 - pkg:nuget/Ecng.IO@1.0.3
 - pkg:nuget/Ecng.IO@1.0.30
 - pkg:nuget/Ecng.IO@1.0.31
