@@ -16,6 +16,7 @@
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.15.1
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.17
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.2
+- pkg:nuget/Microsoft.Direct3D.WARP@1.0.22
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.3
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.4
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.5
@@ -25,3 +26,4 @@
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.8
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.8-preview
 - pkg:nuget/Microsoft.Direct3D.WARP@1.0.9
+- pkg:nuget/Microsoft.Direct3D.WARP@1.65535.22-preview
