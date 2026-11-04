@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Extensions.Array.Object@11.0.114
 - pkg:nuget/Soenneker.Extensions.Array.Object@2.1.1
 - pkg:nuget/Soenneker.Extensions.Array.Object@2.1.10
 - pkg:nuget/Soenneker.Extensions.Array.Object@2.1.11
@@ -52,6 +53,7 @@
 - pkg:nuget/Soenneker.Extensions.Array.Object@3.0.53
 - pkg:nuget/Soenneker.Extensions.Array.Object@3.0.54
 - pkg:nuget/Soenneker.Extensions.Array.Object@3.0.55
+- pkg:nuget/Soenneker.Extensions.Array.Object@4.0.100
 - pkg:nuget/Soenneker.Extensions.Array.Object@4.0.58
 - pkg:nuget/Soenneker.Extensions.Array.Object@4.0.61
 - pkg:nuget/Soenneker.Extensions.Array.Object@4.0.69
