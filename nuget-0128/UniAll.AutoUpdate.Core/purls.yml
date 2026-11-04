@@ -37,3 +37,4 @@
 - pkg:nuget/UniAll.AutoUpdate.Core@1.0.0.7
 - pkg:nuget/UniAll.AutoUpdate.Core@1.0.0.8
 - pkg:nuget/UniAll.AutoUpdate.Core@1.0.0.9
+- pkg:nuget/UniAll.AutoUpdate.Core@2.0.0.6
