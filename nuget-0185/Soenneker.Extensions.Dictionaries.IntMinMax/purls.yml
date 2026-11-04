@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@11.0.215
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@3.0.1
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@3.0.10
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@3.0.100
@@ -121,3 +122,4 @@
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@4.0.176
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@4.0.180
 - pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@4.0.190
+- pkg:nuget/Soenneker.Extensions.Dictionaries.IntMinMax@4.0.206
