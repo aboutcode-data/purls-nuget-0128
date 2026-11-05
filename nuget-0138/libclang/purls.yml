@@ -12,5 +12,6 @@
 - pkg:nuget/libclang@18.1.3.1
 - pkg:nuget/libclang@18.1.3.2
 - pkg:nuget/libclang@20.1.2
+- pkg:nuget/libclang@23.1.5
 - pkg:nuget/libclang@8.0.0
 - pkg:nuget/libclang@9.0.0
