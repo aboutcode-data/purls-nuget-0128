@@ -2,6 +2,7 @@
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@10.2.1
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@10.2.5
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@10.2.8
+- pkg:nuget/SpiceLogic.HtmlEditor.WinForms@10.2.9
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@8.0.4-preview.3
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@9.0.18
 - pkg:nuget/SpiceLogic.HtmlEditor.WinForms@9.0.22
