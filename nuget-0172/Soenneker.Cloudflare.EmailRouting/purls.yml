@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@11.0.545
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@11.0.546
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@11.0.551
+- pkg:nuget/Soenneker.Cloudflare.EmailRouting@11.0.567
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.EmailRouting@3.0.100
