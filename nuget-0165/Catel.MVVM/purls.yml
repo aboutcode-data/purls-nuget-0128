@@ -852,3 +852,4 @@
 - pkg:nuget/Catel.MVVM@7.0.0-alpha0323
 - pkg:nuget/Catel.MVVM@7.0.0-alpha0392
 - pkg:nuget/Catel.MVVM@7.0.1
+- pkg:nuget/Catel.MVVM@7.1.0
