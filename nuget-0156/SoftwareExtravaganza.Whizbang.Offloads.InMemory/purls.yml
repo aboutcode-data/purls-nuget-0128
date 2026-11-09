@@ -95,6 +95,9 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.587
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.628
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.737
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.796
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.816
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.2627.0-alpha.824
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.674.1-alpha.32
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.687.1-alpha.11
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.InMemory@0.688.1-alpha.14
