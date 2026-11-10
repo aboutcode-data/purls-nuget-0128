@@ -45,6 +45,7 @@
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@13.9.1
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.0.0
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.11.0
+- pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.12.0
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.2.1
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.3.0
 - pkg:nuget/NewRelic.Azure.WebSites.Extension.NodeAgent@14.3.4
