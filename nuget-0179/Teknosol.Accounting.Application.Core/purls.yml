@@ -1,1 +1,5 @@
 - pkg:nuget/Teknosol.Accounting.Application.Core@1.1.0
+- pkg:nuget/Teknosol.Accounting.Application.Core@1.1.19
+- pkg:nuget/Teknosol.Accounting.Application.Core@1.1.22
+- pkg:nuget/Teknosol.Accounting.Application.Core@1.1.24
+- pkg:nuget/Teknosol.Accounting.Application.Core@1.1.29
