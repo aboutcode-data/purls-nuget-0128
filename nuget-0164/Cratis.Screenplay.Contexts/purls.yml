@@ -45,4 +45,7 @@
 - pkg:nuget/Cratis.Screenplay.Contexts@4.87.1
 - pkg:nuget/Cratis.Screenplay.Contexts@4.93.0
 - pkg:nuget/Cratis.Screenplay.Contexts@5.8.0
+- pkg:nuget/Cratis.Screenplay.Contexts@6.10.0
+- pkg:nuget/Cratis.Screenplay.Contexts@6.12.0
+- pkg:nuget/Cratis.Screenplay.Contexts@6.14.0
 - pkg:nuget/Cratis.Screenplay.Contexts@6.3.0
