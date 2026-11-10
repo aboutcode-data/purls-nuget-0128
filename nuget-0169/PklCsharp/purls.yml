@@ -1,2 +1,4 @@
 - pkg:nuget/PklCsharp@0.1.0
 - pkg:nuget/PklCsharp@0.2.0
+- pkg:nuget/PklCsharp@0.3.1
+- pkg:nuget/PklCsharp@0.5.0
