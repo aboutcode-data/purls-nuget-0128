@@ -249,4 +249,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-111-webinar-pin-prompt.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-115-serial-login-prompt.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-139-meeting-times-utc.1
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.1
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.2
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-40-presentation-mode-feedback.1
