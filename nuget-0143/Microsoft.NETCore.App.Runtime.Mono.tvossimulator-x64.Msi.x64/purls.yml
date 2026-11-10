@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.14
+- pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.15
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64@10.0.7
