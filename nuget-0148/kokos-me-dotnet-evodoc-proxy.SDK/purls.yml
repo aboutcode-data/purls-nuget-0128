@@ -13,3 +13,7 @@
 - pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.1.0-dev-2
 - pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.1.0-dev-4
 - pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.1.0-feature.feature-325-integrazione-frontend-evosdi-step-3.4
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.3.0-feature.feature-285-rivoluzione-note-parte-2.3
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.3.0-feature.feature-285-rivoluzione-note-parte-2.4
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.4.0-dev-0
+- pkg:nuget/kokos-me-dotnet-evodoc-proxy.SDK@1.4.0-dev-12
