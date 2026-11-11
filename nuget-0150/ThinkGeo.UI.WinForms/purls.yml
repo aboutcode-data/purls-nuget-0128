@@ -1067,3 +1067,4 @@
 - pkg:nuget/ThinkGeo.UI.WinForms@15.0.0-beta256
 - pkg:nuget/ThinkGeo.UI.WinForms@15.0.0-beta260
 - pkg:nuget/ThinkGeo.UI.WinForms@15.1.0-beta002
+- pkg:nuget/ThinkGeo.UI.WinForms@15.1.0-beta005
