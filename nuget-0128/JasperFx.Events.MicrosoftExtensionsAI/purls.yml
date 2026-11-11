@@ -11,3 +11,4 @@
 - pkg:nuget/JasperFx.Events.MicrosoftExtensionsAI@2.94.0
 - pkg:nuget/JasperFx.Events.MicrosoftExtensionsAI@2.96.0
 - pkg:nuget/JasperFx.Events.MicrosoftExtensionsAI@2.97.0
+- pkg:nuget/JasperFx.Events.MicrosoftExtensionsAI@3.0.1
