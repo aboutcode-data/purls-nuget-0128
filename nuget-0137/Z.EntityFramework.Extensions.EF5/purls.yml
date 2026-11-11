@@ -1,3 +1,4 @@
+- pkg:nuget/Z.EntityFramework.Extensions.EF5@11.106.0
 - pkg:nuget/Z.EntityFramework.Extensions.EF5@3.10.31
 - pkg:nuget/Z.EntityFramework.Extensions.EF5@3.10.38
 - pkg:nuget/Z.EntityFramework.Extensions.EF5@3.10.57
