@@ -27,3 +27,4 @@
 - pkg:nuget/Cake.Testing.Xunit@4.2.0
 - pkg:nuget/Cake.Testing.Xunit@5.0.0
 - pkg:nuget/Cake.Testing.Xunit@6.0.0
+- pkg:nuget/Cake.Testing.Xunit@7.0.0
