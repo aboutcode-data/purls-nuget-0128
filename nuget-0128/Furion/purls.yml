@@ -1152,6 +1152,7 @@
 - pkg:nuget/Furion@4.9.8.9
 - pkg:nuget/Furion@4.9.8.97
 - pkg:nuget/Furion@4.9.9
+- pkg:nuget/Furion@4.9.9.100
 - pkg:nuget/Furion@4.9.9.17
 - pkg:nuget/Furion@4.9.9.19
 - pkg:nuget/Furion@4.9.9.27
