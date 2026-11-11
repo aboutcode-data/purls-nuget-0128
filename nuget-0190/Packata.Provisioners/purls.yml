@@ -76,5 +76,7 @@
 - pkg:nuget/Packata.Provisioners@1.15.0
 - pkg:nuget/Packata.Provisioners@1.29.0
 - pkg:nuget/Packata.Provisioners@1.3.1
+- pkg:nuget/Packata.Provisioners@1.31.0
+- pkg:nuget/Packata.Provisioners@1.32.0
 - pkg:nuget/Packata.Provisioners@1.6.0
 - pkg:nuget/Packata.Provisioners@1.7.0
