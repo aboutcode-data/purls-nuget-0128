@@ -63,3 +63,4 @@
 - pkg:nuget/LiveReloadServer@1.7.9
 - pkg:nuget/LiveReloadServer@1.7.9.1
 - pkg:nuget/LiveReloadServer@2.0.0
+- pkg:nuget/LiveReloadServer@2.0.5
