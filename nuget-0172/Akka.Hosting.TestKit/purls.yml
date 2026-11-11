@@ -61,3 +61,4 @@
 - pkg:nuget/Akka.Hosting.TestKit@1.5.7
 - pkg:nuget/Akka.Hosting.TestKit@1.5.8
 - pkg:nuget/Akka.Hosting.TestKit@1.5.8.1
+- pkg:nuget/Akka.Hosting.TestKit@1.6.0-beta7
