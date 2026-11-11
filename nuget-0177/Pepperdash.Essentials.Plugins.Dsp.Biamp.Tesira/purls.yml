@@ -42,3 +42,4 @@
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@4.0.0-fix-watchdog-restart-after-stall.1
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@4.0.0-integration-v3-improvements.12
 - pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@4.0.0-integration-v3-improvements.3
+- pkg:nuget/Pepperdash.Essentials.Plugins.Dsp.Biamp.Tesira@4.5.2-fix-watchdog-quarantine-release.1
