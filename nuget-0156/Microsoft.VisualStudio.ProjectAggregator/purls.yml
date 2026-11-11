@@ -35,6 +35,7 @@
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@17.7.37349
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@17.8.37221
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@17.9.37000
+- pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@18.12.1583
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@8.0.50727
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@8.0.50727-pre
 - pkg:nuget/Microsoft.VisualStudio.ProjectAggregator@8.0.50728
