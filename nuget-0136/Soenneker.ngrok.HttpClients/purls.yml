@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.ngrok.HttpClients@11.0.165
+- pkg:nuget/Soenneker.ngrok.HttpClients@11.0.169
+- pkg:nuget/Soenneker.ngrok.HttpClients@11.0.176
+- pkg:nuget/Soenneker.ngrok.HttpClients@11.0.179
 - pkg:nuget/Soenneker.ngrok.HttpClients@4.0.109
 - pkg:nuget/Soenneker.ngrok.HttpClients@4.0.114
 - pkg:nuget/Soenneker.ngrok.HttpClients@4.0.118
