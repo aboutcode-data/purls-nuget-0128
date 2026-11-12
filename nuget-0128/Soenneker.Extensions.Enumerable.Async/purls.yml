@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Extensions.Enumerable.Async@11.0.549
 - pkg:nuget/Soenneker.Extensions.Enumerable.Async@2.1.10
 - pkg:nuget/Soenneker.Extensions.Enumerable.Async@2.1.100
 - pkg:nuget/Soenneker.Extensions.Enumerable.Async@2.1.101
