@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Postman.Converter@11.0.161
+- pkg:nuget/Soenneker.Postman.Converter@11.0.173
 - pkg:nuget/Soenneker.Postman.Converter@4.0.10
 - pkg:nuget/Soenneker.Postman.Converter@4.0.101
 - pkg:nuget/Soenneker.Postman.Converter@4.0.103
