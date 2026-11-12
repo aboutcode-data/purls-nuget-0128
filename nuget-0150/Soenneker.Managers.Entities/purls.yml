@@ -8,6 +8,8 @@
 - pkg:nuget/Soenneker.Managers.Entities@11.0.1533
 - pkg:nuget/Soenneker.Managers.Entities@11.0.1543
 - pkg:nuget/Soenneker.Managers.Entities@11.0.1546
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1562
+- pkg:nuget/Soenneker.Managers.Entities@11.0.1570
 - pkg:nuget/Soenneker.Managers.Entities@3.0.1
 - pkg:nuget/Soenneker.Managers.Entities@3.0.10
 - pkg:nuget/Soenneker.Managers.Entities@3.0.100
