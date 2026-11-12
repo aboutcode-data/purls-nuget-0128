@@ -2,4 +2,6 @@
 - pkg:nuget/Microsoft.Agents.AI.Hosting@1.0.0-preview.251110.1
 - pkg:nuget/Microsoft.Agents.AI.Hosting@1.0.0-preview.260330.1
 - pkg:nuget/Microsoft.Agents.AI.Hosting@1.0.0-preview.260402.1
+- pkg:nuget/Microsoft.Agents.AI.Hosting@1.25.0-preview.261014.1
+- pkg:nuget/Microsoft.Agents.AI.Hosting@1.27.0-preview.261030.1
 - pkg:nuget/Microsoft.Agents.AI.Hosting@1.5.0-preview.260507.1
