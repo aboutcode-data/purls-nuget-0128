@@ -3,3 +3,4 @@
 - pkg:nuget/BatchIt@1.0.2
 - pkg:nuget/BatchIt@1.1.0
 - pkg:nuget/BatchIt@1.2.0
+- pkg:nuget/BatchIt@2.0.0
