@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Validators.Phone.Possible@11.0.340
+- pkg:nuget/Soenneker.Validators.Phone.Possible@11.0.344
 - pkg:nuget/Soenneker.Validators.Phone.Possible@3.0.1
 - pkg:nuget/Soenneker.Validators.Phone.Possible@3.0.10
 - pkg:nuget/Soenneker.Validators.Phone.Possible@3.0.100
