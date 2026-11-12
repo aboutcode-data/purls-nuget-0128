@@ -395,3 +395,4 @@
 - pkg:nuget/Intent.Packager.CLI@5.2.3-pre.3
 - pkg:nuget/Intent.Packager.CLI@5.2.4-pre.1
 - pkg:nuget/Intent.Packager.CLI@5.3.6-pre.0
+- pkg:nuget/Intent.Packager.CLI@5.4.2-pre.0
