@@ -108,6 +108,7 @@
 - pkg:nuget/Leal.Core.CANOpen.CiA402@0.9.8.1
 - pkg:nuget/Leal.Core.CANOpen.CiA402@0.9.9.1
 - pkg:nuget/Leal.Core.CANOpen.CiA402@1.1.1.1
+- pkg:nuget/Leal.Core.CANOpen.CiA402@1.1.12.2
 - pkg:nuget/Leal.Core.CANOpen.CiA402@1.1.2.2
 - pkg:nuget/Leal.Core.CANOpen.CiA402@1.1.2.4
 - pkg:nuget/Leal.Core.CANOpen.CiA402@1.1.2.6
