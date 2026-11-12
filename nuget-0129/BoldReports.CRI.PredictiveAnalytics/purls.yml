@@ -22,6 +22,7 @@
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@14.1.18
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@14.1.19
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@14.1.23
+- pkg:nuget/BoldReports.CRI.PredictiveAnalytics@15.1.16
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@4.2.52
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@4.2.66
 - pkg:nuget/BoldReports.CRI.PredictiveAnalytics@4.2.68
