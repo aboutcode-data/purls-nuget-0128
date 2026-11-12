@@ -186,3 +186,5 @@
 - pkg:nuget/Calysto.EntityFrameworkCore@1.0.2385
 - pkg:nuget/Calysto.EntityFrameworkCore@1.0.2594
 - pkg:nuget/Calysto.EntityFrameworkCore@1.0.2698
+- pkg:nuget/Calysto.EntityFrameworkCore@1.0.2702
+- pkg:nuget/Calysto.EntityFrameworkCore@1.0.2709
