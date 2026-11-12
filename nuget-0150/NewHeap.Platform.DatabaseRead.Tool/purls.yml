@@ -1,0 +1,15 @@
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@10.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@14.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@23.0.1
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@34.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@37.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@38.1.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@4.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@4.1.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@4.3.1
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@7.0.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@7.1.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@7.2.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@7.7.0
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@7.8.2
+- pkg:nuget/NewHeap.Platform.DatabaseRead.Tool@8.0.0
