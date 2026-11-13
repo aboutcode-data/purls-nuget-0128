@@ -252,4 +252,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-190-camera-recovery-outage.3
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-194-coalesce-sync-steps.1
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-194-coalesce-sync-steps.3
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-194-coalesce-sync-steps.4
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-fix-40-presentation-mode-feedback.1
