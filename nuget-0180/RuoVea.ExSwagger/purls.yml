@@ -1,4 +1,5 @@
 - pkg:nuget/RuoVea.ExSwagger@10.0.0
+- pkg:nuget/RuoVea.ExSwagger@10.0.0.2
 - pkg:nuget/RuoVea.ExSwagger@5.0.0
 - pkg:nuget/RuoVea.ExSwagger@5.0.0.1
 - pkg:nuget/RuoVea.ExSwagger@5.0.0.2
@@ -27,4 +28,5 @@
 - pkg:nuget/RuoVea.ExSwagger@8.0.0.1
 - pkg:nuget/RuoVea.ExSwagger@8.0.0.2
 - pkg:nuget/RuoVea.ExSwagger@8.0.0.3
+- pkg:nuget/RuoVea.ExSwagger@8.0.0.5
 - pkg:nuget/RuoVea.ExSwagger@9.0.0
