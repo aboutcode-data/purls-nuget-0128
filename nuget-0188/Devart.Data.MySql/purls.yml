@@ -1,4 +1,5 @@
 - pkg:nuget/Devart.Data.MySql@10.0.0
+- pkg:nuget/Devart.Data.MySql@10.3.248
 - pkg:nuget/Devart.Data.MySql@8.10.1013
 - pkg:nuget/Devart.Data.MySql@8.10.1031
 - pkg:nuget/Devart.Data.MySql@8.10.1061
