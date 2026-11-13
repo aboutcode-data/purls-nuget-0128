@@ -25,3 +25,4 @@
 - pkg:nuget/Bynder.Sdk@2.2.9
 - pkg:nuget/Bynder.Sdk@3.0.0
 - pkg:nuget/Bynder.Sdk@3.0.1
+- pkg:nuget/Bynder.Sdk@4.0.0
