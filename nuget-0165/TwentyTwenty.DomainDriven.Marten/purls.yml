@@ -66,6 +66,7 @@
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.25.0
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.27.0
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.3.0
+- pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.32.0
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.4.0
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.5.0
 - pkg:nuget/TwentyTwenty.DomainDriven.Marten@3.6.0
