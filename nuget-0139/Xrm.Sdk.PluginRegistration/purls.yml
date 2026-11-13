@@ -43,4 +43,6 @@
 - pkg:nuget/Xrm.Sdk.PluginRegistration@3.2023.12.7
 - pkg:nuget/Xrm.Sdk.PluginRegistration@3.2023.9.3
 - pkg:nuget/Xrm.Sdk.PluginRegistration@3.2024.3.2
+- pkg:nuget/Xrm.Sdk.PluginRegistration@3.2026.11.16
+- pkg:nuget/Xrm.Sdk.PluginRegistration@3.2026.11.18
 - pkg:nuget/Xrm.Sdk.PluginRegistration@3.2026.4.1
