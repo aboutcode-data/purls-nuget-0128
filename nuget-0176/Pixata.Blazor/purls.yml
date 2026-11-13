@@ -55,3 +55,12 @@
 - pkg:nuget/Pixata.Blazor@3.0.0
 - pkg:nuget/Pixata.Blazor@4.4.0
 - pkg:nuget/Pixata.Blazor@4.5.0
+- pkg:nuget/Pixata.Blazor@5.10.0
+- pkg:nuget/Pixata.Blazor@5.14.0
+- pkg:nuget/Pixata.Blazor@5.19.0
+- pkg:nuget/Pixata.Blazor@5.20.0
+- pkg:nuget/Pixata.Blazor@5.21.0
+- pkg:nuget/Pixata.Blazor@5.4.0
+- pkg:nuget/Pixata.Blazor@5.8.0
+- pkg:nuget/Pixata.Blazor@5.9.0
+- pkg:nuget/Pixata.Blazor@5.9.1
