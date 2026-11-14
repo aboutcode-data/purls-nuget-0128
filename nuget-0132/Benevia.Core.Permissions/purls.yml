@@ -84,6 +84,8 @@
 - pkg:nuget/Benevia.Core.Permissions@0.10.4-ci.694
 - pkg:nuget/Benevia.Core.Permissions@0.10.4-ci.697
 - pkg:nuget/Benevia.Core.Permissions@0.10.4-ci.717
+- pkg:nuget/Benevia.Core.Permissions@0.10.5-ci.726
+- pkg:nuget/Benevia.Core.Permissions@0.10.5-ci.727
 - pkg:nuget/Benevia.Core.Permissions@0.8.7-ci.42
 - pkg:nuget/Benevia.Core.Permissions@0.9.11
 - pkg:nuget/Benevia.Core.Permissions@0.9.13-ci.69
