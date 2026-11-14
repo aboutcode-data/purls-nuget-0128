@@ -1,5 +1,10 @@
+- pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@11.0.37
+- pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@11.0.39
 - pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@3.0.1
 - pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@3.0.2
 - pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@3.0.3
+- pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@4.0.20
+- pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@4.0.21
+- pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@4.0.29
 - pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@4.0.5
 - pkg:nuget/Soenneker.Telnyx.Dtos.Jwt@4.0.9

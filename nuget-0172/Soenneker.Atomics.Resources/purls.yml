@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Atomics.Resources@11.0.66
 - pkg:nuget/Soenneker.Atomics.Resources@4.0.15
 - pkg:nuget/Soenneker.Atomics.Resources@4.0.21
 - pkg:nuget/Soenneker.Atomics.Resources@4.0.27
