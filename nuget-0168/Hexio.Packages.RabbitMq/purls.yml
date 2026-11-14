@@ -1,3 +1,4 @@
+- pkg:nuget/Hexio.Packages.RabbitMq@10.0.1
 - pkg:nuget/Hexio.Packages.RabbitMq@7.0.13
 - pkg:nuget/Hexio.Packages.RabbitMq@7.0.9
 - pkg:nuget/Hexio.Packages.RabbitMq@7.0.9.1
