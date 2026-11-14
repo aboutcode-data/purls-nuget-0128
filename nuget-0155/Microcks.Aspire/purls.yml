@@ -10,3 +10,7 @@
 - pkg:nuget/Microcks.Aspire@0.2.0-alpha.269
 - pkg:nuget/Microcks.Aspire@0.2.0-alpha.283
 - pkg:nuget/Microcks.Aspire@0.2.0-alpha.300
+- pkg:nuget/Microcks.Aspire@0.2.0-alpha.359
+- pkg:nuget/Microcks.Aspire@0.2.0-alpha.361
+- pkg:nuget/Microcks.Aspire@0.2.1
+- pkg:nuget/Microcks.Aspire@0.3.0-alpha.384
