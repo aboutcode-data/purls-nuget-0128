@@ -1,1 +1,12 @@
 - pkg:nuget/Lakona.Game.Client@0.3.0
+- pkg:nuget/Lakona.Game.Client@0.3.13
+- pkg:nuget/Lakona.Game.Client@0.4.0
+- pkg:nuget/Lakona.Game.Client@0.4.15
+- pkg:nuget/Lakona.Game.Client@0.4.6
+- pkg:nuget/Lakona.Game.Client@0.4.7
+- pkg:nuget/Lakona.Game.Client@0.5.15
+- pkg:nuget/Lakona.Game.Client@0.5.16
+- pkg:nuget/Lakona.Game.Client@0.5.22
+- pkg:nuget/Lakona.Game.Client@0.5.24
+- pkg:nuget/Lakona.Game.Client@0.5.27
+- pkg:nuget/Lakona.Game.Client@0.6.0
