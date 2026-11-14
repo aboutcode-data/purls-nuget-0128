@@ -1,4 +1,8 @@
 - pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@26.0.2
+- pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@26.0.7
+- pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@27.0.0-alpha.11
+- pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@27.0.0-alpha.2
+- pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@27.0.0-alpha.3
 - pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@5.0.1-alpha
 - pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@5.0.10
 - pkg:nuget/Majorsilence.Reporting.RdlAsp.Mvc@5.0.11

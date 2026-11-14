@@ -1,0 +1,5 @@
+- pkg:nuget/Quartz.Aspire@4.0.0-beta.1
+- pkg:nuget/Quartz.Aspire@4.1.1
+- pkg:nuget/Quartz.Aspire@4.2.0
+- pkg:nuget/Quartz.Aspire@4.3.0
+- pkg:nuget/Quartz.Aspire@4.5.0

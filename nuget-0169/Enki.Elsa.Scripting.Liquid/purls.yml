@@ -1,2 +1,5 @@
 - pkg:nuget/Enki.Elsa.Scripting.Liquid@1.6.0
 - pkg:nuget/Enki.Elsa.Scripting.Liquid@1.6.1
+- pkg:nuget/Enki.Elsa.Scripting.Liquid@2.0.0
+- pkg:nuget/Enki.Elsa.Scripting.Liquid@2.0.1
+- pkg:nuget/Enki.Elsa.Scripting.Liquid@2.1.0
