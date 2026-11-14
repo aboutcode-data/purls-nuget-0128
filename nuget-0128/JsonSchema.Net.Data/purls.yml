@@ -24,3 +24,4 @@
 - pkg:nuget/JsonSchema.Net.Data@6.0.0.2
 - pkg:nuget/JsonSchema.Net.Data@6.1.0
 - pkg:nuget/JsonSchema.Net.Data@7.0.0
+- pkg:nuget/JsonSchema.Net.Data@9.1.0
