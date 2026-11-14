@@ -1,5 +1,6 @@
 - pkg:nuget/RuoVea.ExFilter@10.0.0.1
 - pkg:nuget/RuoVea.ExFilter@10.0.0.9
+- pkg:nuget/RuoVea.ExFilter@2.0.0.1
 - pkg:nuget/RuoVea.ExFilter@5.0.0
 - pkg:nuget/RuoVea.ExFilter@5.0.0.1
 - pkg:nuget/RuoVea.ExFilter@5.0.0.2
