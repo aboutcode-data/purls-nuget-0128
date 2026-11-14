@@ -23,3 +23,5 @@
 - pkg:nuget/VectorDraw.Drawing.Linux.Mono@11.4.3
 - pkg:nuget/VectorDraw.Drawing.Linux.Mono@11.4.4
 - pkg:nuget/VectorDraw.Drawing.Linux.Mono@11.4.5
+- pkg:nuget/VectorDraw.Drawing.Linux.Mono@12.1.1
+- pkg:nuget/VectorDraw.Drawing.Linux.Mono@12.1.20
