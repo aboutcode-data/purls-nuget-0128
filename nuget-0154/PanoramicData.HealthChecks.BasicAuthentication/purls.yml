@@ -2,4 +2,5 @@
 - pkg:nuget/PanoramicData.HealthChecks.BasicAuthentication@1.1.26
 - pkg:nuget/PanoramicData.HealthChecks.BasicAuthentication@10.0.17
 - pkg:nuget/PanoramicData.HealthChecks.BasicAuthentication@10.0.3
+- pkg:nuget/PanoramicData.HealthChecks.BasicAuthentication@10.0.90
 - pkg:nuget/PanoramicData.HealthChecks.BasicAuthentication@9.0.1
