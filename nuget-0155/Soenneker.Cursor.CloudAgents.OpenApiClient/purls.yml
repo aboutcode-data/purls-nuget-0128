@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@11.0.77
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@11.0.80
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@11.0.84
+- pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@11.0.90
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@4.0.1
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@4.0.2
 - pkg:nuget/Soenneker.Cursor.CloudAgents.OpenApiClient@4.0.25

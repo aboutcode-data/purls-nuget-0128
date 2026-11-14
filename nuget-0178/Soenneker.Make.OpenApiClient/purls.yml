@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Make.OpenApiClient@11.0.153
 - pkg:nuget/Soenneker.Make.OpenApiClient@11.0.157
 - pkg:nuget/Soenneker.Make.OpenApiClient@11.0.158
+- pkg:nuget/Soenneker.Make.OpenApiClient@11.0.161
 - pkg:nuget/Soenneker.Make.OpenApiClient@4.0.129
 - pkg:nuget/Soenneker.Make.OpenApiClient@4.0.13
 - pkg:nuget/Soenneker.Make.OpenApiClient@4.0.130
