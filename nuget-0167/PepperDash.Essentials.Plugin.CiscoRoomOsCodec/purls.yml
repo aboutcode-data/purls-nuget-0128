@@ -236,6 +236,8 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feat-129-stage1-parse-quick-fixes.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feat-129-stage6d-model-populate.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feat-in-progress-lockout-updates.2
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feat-select-primary-camera-on-call-start.2
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feat-select-primary-camera-on-call-start.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feature-net8-v3-migration.14
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feature-net8-v3-migration.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@3.0.0-feature-net8-v3-migration.3
