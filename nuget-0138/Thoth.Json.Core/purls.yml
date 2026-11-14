@@ -1,4 +1,5 @@
 - pkg:nuget/Thoth.Json.Core@0.1.0
+- pkg:nuget/Thoth.Json.Core@0.10.0
 - pkg:nuget/Thoth.Json.Core@0.2.0
 - pkg:nuget/Thoth.Json.Core@0.2.1
 - pkg:nuget/Thoth.Json.Core@0.3.0
