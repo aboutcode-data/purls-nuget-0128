@@ -1,6 +1,7 @@
 - pkg:nuget/Barcode-net.Wpf@10.0.0.6
 - pkg:nuget/Barcode-net.Wpf@4.0.0.6
 - pkg:nuget/Barcode-net.Wpf@4.5.0.6
+- pkg:nuget/Barcode-net.Wpf@4.5.1.10
 - pkg:nuget/Barcode-net.Wpf@4.5.1.6
 - pkg:nuget/Barcode-net.Wpf@4.5.2.6
 - pkg:nuget/Barcode-net.Wpf@4.6.0.6
