@@ -8,3 +8,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.Npgsql@14.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.Npgsql@15.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.Npgsql@15.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.Npgsql@16.0.0
