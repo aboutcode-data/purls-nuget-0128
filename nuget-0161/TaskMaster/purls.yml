@@ -230,3 +230,4 @@
 - pkg:nuget/TaskMaster@5.1.29
 - pkg:nuget/TaskMaster@5.1.8
 - pkg:nuget/TaskMaster@5.1.9
+- pkg:nuget/TaskMaster@6.0.0
