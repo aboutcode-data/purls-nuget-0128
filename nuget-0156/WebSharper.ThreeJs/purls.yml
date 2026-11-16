@@ -1,3 +1,5 @@
+- pkg:nuget/WebSharper.ThreeJs@10.1.0.748
+- pkg:nuget/WebSharper.ThreeJs@11.0.0.747-preview.1
 - pkg:nuget/WebSharper.ThreeJs@4.4.1.119
 - pkg:nuget/WebSharper.ThreeJs@4.5.0.121
 - pkg:nuget/WebSharper.ThreeJs@4.5.0.122
