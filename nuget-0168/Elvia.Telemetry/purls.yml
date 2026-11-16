@@ -86,3 +86,5 @@
 - pkg:nuget/Elvia.Telemetry@7.3.1-preview.1-1
 - pkg:nuget/Elvia.Telemetry@7.3.1-preview.1-2
 - pkg:nuget/Elvia.Telemetry@7.3.3-preview.1-6
+- pkg:nuget/Elvia.Telemetry@8.0.0
+- pkg:nuget/Elvia.Telemetry@8.0.0-preview.1-6
