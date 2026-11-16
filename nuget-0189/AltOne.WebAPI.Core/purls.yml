@@ -34,3 +34,4 @@
 - pkg:nuget/AltOne.WebAPI.Core@2510.1.1.80102
 - pkg:nuget/AltOne.WebAPI.Core@2606.0.1.80100
 - pkg:nuget/AltOne.WebAPI.Core@2606.0.1.80102
+- pkg:nuget/AltOne.WebAPI.Core@2610.0.2.80102
