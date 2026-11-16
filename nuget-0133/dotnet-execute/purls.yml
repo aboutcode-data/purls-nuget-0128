@@ -189,6 +189,7 @@
 - pkg:nuget/dotnet-execute@0.4.0-preview-20220612-155832
 - pkg:nuget/dotnet-execute@0.4.0-preview-20220614-045540
 - pkg:nuget/dotnet-execute@0.4.0-preview-20220616-164516
+- pkg:nuget/dotnet-execute@0.40.0
 - pkg:nuget/dotnet-execute@0.5.0
 - pkg:nuget/dotnet-execute@0.5.0-preview-20220626-081644
 - pkg:nuget/dotnet-execute@0.5.0-preview-20220626-092804
