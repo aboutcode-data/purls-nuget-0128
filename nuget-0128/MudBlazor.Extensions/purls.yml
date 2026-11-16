@@ -667,6 +667,7 @@
 - pkg:nuget/MudBlazor.Extensions@9.12.2-prev-2611141655
 - pkg:nuget/MudBlazor.Extensions@9.13.1-prev-2611142316
 - pkg:nuget/MudBlazor.Extensions@9.13.1-prev-2611142317-main
+- pkg:nuget/MudBlazor.Extensions@9.13.2-prev-2611151551
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511150
 - pkg:nuget/MudBlazor.Extensions@9.4.1-prev-260511151-main
 - pkg:nuget/MudBlazor.Extensions@9.4.2-prev-2605201013
