@@ -5,6 +5,7 @@
 - pkg:nuget/KpokPatagon.Cache@10.1.26091.1
 - pkg:nuget/KpokPatagon.Cache@10.1.26091.2
 - pkg:nuget/KpokPatagon.Cache@10.2.26091.3
+- pkg:nuget/KpokPatagon.Cache@11.1.26321.1
 - pkg:nuget/KpokPatagon.Cache@7.0.24091.1
 - pkg:nuget/KpokPatagon.Cache@7.0.24161.1
 - pkg:nuget/KpokPatagon.Cache@7.0.24172.1
