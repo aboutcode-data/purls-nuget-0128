@@ -3,6 +3,7 @@
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.116
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.119
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.125
+- pkg:nuget/Lakona.Game.Clustering.Redis@0.1.129
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.24
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.31
 - pkg:nuget/Lakona.Game.Clustering.Redis@0.1.54
