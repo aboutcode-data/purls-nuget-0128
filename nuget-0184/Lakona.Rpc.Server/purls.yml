@@ -24,3 +24,4 @@
 - pkg:nuget/Lakona.Rpc.Server@0.17.25
 - pkg:nuget/Lakona.Rpc.Server@0.17.27
 - pkg:nuget/Lakona.Rpc.Server@0.17.30
+- pkg:nuget/Lakona.Rpc.Server@0.17.31
