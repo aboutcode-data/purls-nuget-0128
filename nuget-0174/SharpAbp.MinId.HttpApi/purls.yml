@@ -161,4 +161,5 @@
 - pkg:nuget/SharpAbp.MinId.HttpApi@4.6.8
 - pkg:nuget/SharpAbp.MinId.HttpApi@4.6.9
 - pkg:nuget/SharpAbp.MinId.HttpApi@4.7.10
+- pkg:nuget/SharpAbp.MinId.HttpApi@4.8.0
 - pkg:nuget/SharpAbp.MinId.HttpApi@6.0.1
