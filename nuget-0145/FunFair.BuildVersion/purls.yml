@@ -2039,6 +2039,7 @@
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2521-pull-423-merge
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2529-main
 - pkg:nuget/FunFair.BuildVersion@6.2.20.2540-main
+- pkg:nuget/FunFair.BuildVersion@6.2.20.2552-native-aot-tool
 - pkg:nuget/FunFair.BuildVersion@6.2.3.40-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.42-main
 - pkg:nuget/FunFair.BuildVersion@6.2.3.43-main
