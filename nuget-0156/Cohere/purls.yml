@@ -91,4 +91,5 @@
 - pkg:nuget/Cohere@1.0.1-dev.85
 - pkg:nuget/Cohere@1.0.1-dev.9
 - pkg:nuget/Cohere@1.0.2-dev.56
+- pkg:nuget/Cohere@1.0.2-dev.58
 - pkg:nuget/Cohere@1.0.2-dev.8
