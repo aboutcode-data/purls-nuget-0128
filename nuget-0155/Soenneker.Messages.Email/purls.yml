@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Messages.Email@11.0.469
 - pkg:nuget/Soenneker.Messages.Email@11.0.476
 - pkg:nuget/Soenneker.Messages.Email@11.0.481
+- pkg:nuget/Soenneker.Messages.Email@11.0.489
+- pkg:nuget/Soenneker.Messages.Email@11.0.490
 - pkg:nuget/Soenneker.Messages.Email@3.0.1
 - pkg:nuget/Soenneker.Messages.Email@3.0.10
 - pkg:nuget/Soenneker.Messages.Email@3.0.100
