@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Keap.OpenApiClient@11.0.53
+- pkg:nuget/Soenneker.Keap.OpenApiClient@11.0.68
 - pkg:nuget/Soenneker.Keap.OpenApiClient@4.0.12
 - pkg:nuget/Soenneker.Keap.OpenApiClient@4.0.23
 - pkg:nuget/Soenneker.Keap.OpenApiClient@4.0.25
