@@ -10,3 +10,5 @@
 - pkg:nuget/ultra@2.0.0
 - pkg:nuget/ultra@2.0.1
 - pkg:nuget/ultra@2.0.2
+- pkg:nuget/ultra@3.5.0
+- pkg:nuget/ultra@4.3.0
