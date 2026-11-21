@@ -39,6 +39,7 @@
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@13.0.24.521
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@14.0.0
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@14.0.25.609
+- pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@16.0.26.1117
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@5.0.3500.11
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@5.0.3500.14
 - pkg:nuget/Neodynamic.Windows.ThermalLabelEditor@5.0.3500.4
