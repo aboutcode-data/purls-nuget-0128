@@ -31,3 +31,5 @@
 - pkg:nuget/I-Synergy.Framework.EventSourcing.Storage.Azure@2026.11110.11539-preview
 - pkg:nuget/I-Synergy.Framework.EventSourcing.Storage.Azure@2026.11111.11259-preview
 - pkg:nuget/I-Synergy.Framework.EventSourcing.Storage.Azure@2026.11114.11302-preview
+- pkg:nuget/I-Synergy.Framework.EventSourcing.Storage.Azure@2026.11119.11127-preview
+- pkg:nuget/I-Synergy.Framework.EventSourcing.Storage.Azure@2026.11119.12316
