@@ -195,6 +195,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.1.0-refactoring.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.1.0-refactoring.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.1.0-refactoring.4
+- pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.11.10-fix-207-first-directory-search-full-list-v2.3
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.11.2
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.11.3-bug-113-serial-session-resync.1
 - pkg:nuget/PepperDash.Essentials.Plugin.CiscoRoomOsCodec@2.11.4
