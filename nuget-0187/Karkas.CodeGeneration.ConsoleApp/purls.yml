@@ -5,3 +5,4 @@
 - pkg:nuget/Karkas.CodeGeneration.ConsoleApp@1.0.5
 - pkg:nuget/Karkas.CodeGeneration.ConsoleApp@1.0.6
 - pkg:nuget/Karkas.CodeGeneration.ConsoleApp@1.0.9
+- pkg:nuget/Karkas.CodeGeneration.ConsoleApp@2.2.0
