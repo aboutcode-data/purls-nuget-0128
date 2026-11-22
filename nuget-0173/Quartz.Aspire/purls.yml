@@ -3,3 +3,4 @@
 - pkg:nuget/Quartz.Aspire@4.2.0
 - pkg:nuget/Quartz.Aspire@4.3.0
 - pkg:nuget/Quartz.Aspire@4.5.0
+- pkg:nuget/Quartz.Aspire@4.8.1
