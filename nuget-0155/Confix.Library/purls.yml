@@ -69,3 +69,4 @@
 - pkg:nuget/Confix.Library@1.7.0-preview.5
 - pkg:nuget/Confix.Library@1.7.0-preview.8
 - pkg:nuget/Confix.Library@1.7.0-preview.9
+- pkg:nuget/Confix.Library@2.3.4
