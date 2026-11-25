@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@11.0.50
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@11.0.54
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@11.0.56
+- pkg:nuget/Soenneker.PlanetScale.OpenApiClient@11.0.66
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@4.0.21
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@4.0.30
 - pkg:nuget/Soenneker.PlanetScale.OpenApiClient@4.0.31

@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.OpenZl.Windows@11.0.55
 - pkg:nuget/Soenneker.OpenZl.Windows@11.0.67
 - pkg:nuget/Soenneker.OpenZl.Windows@11.0.77
+- pkg:nuget/Soenneker.OpenZl.Windows@11.0.78
 - pkg:nuget/Soenneker.OpenZl.Windows@4.0.1
 - pkg:nuget/Soenneker.OpenZl.Windows@4.0.16
 - pkg:nuget/Soenneker.OpenZl.Windows@4.0.18
