@@ -20,6 +20,7 @@
 - pkg:nuget/Harmony.Core.OData@1.1.31
 - pkg:nuget/Harmony.Core.OData@1.1.57
 - pkg:nuget/Harmony.Core.OData@1.1.97
+- pkg:nuget/Harmony.Core.OData@10.0.64
 - pkg:nuget/Harmony.Core.OData@3.1.101
 - pkg:nuget/Harmony.Core.OData@3.1.108
 - pkg:nuget/Harmony.Core.OData@3.1.129
