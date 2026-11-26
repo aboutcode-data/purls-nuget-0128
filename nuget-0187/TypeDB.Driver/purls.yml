@@ -7,3 +7,5 @@
 - pkg:nuget/TypeDB.Driver@2.29.0
 - pkg:nuget/TypeDB.Driver@2.29.2
 - pkg:nuget/TypeDB.Driver@2.29.2-rc0
+- pkg:nuget/TypeDB.Driver@3.14.0
+- pkg:nuget/TypeDB.Driver@3.15.0
