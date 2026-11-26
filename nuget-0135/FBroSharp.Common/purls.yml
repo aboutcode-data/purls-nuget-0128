@@ -79,3 +79,4 @@
 - pkg:nuget/FBroSharp.Common@4.9.21
 - pkg:nuget/FBroSharp.Common@5.16.13
 - pkg:nuget/FBroSharp.Common@5.38.48
+- pkg:nuget/FBroSharp.Common@5.41.57
