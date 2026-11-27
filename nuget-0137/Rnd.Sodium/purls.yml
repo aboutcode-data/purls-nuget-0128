@@ -1,5 +1,6 @@
 - pkg:nuget/Rnd.Sodium@10.0.0
 - pkg:nuget/Rnd.Sodium@10.0.1
+- pkg:nuget/Rnd.Sodium@11.0.0
 - pkg:nuget/Rnd.Sodium@9.1.0
 - pkg:nuget/Rnd.Sodium@9.1.1
 - pkg:nuget/Rnd.Sodium@9.2.0
