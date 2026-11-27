@@ -14,6 +14,7 @@
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@11.0.196
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@11.0.197
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@11.0.198
+- pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@11.0.200
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@4.0.3
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@4.0.30
 - pkg:nuget/Soenneker.Blazor.Utils.LocalStorage@4.0.34
