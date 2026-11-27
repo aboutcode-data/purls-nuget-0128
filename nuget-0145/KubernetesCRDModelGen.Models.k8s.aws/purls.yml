@@ -1,3 +1,8 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.0.0
 - pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.24.0
 - pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.38.0
+- pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.57.0
+- pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.59.0
+- pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.61.0
+- pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.70.0
+- pkg:nuget/KubernetesCRDModelGen.Models.k8s.aws@1.80.0

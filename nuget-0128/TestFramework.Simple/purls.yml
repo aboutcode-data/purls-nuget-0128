@@ -1,1 +1,2 @@
 - pkg:nuget/TestFramework.Simple@0.1.3
+- pkg:nuget/TestFramework.Simple@0.3.0
