@@ -11,3 +11,4 @@
 - pkg:nuget/Waher.Networking.XMPP.WebSocket@2.0.2
 - pkg:nuget/Waher.Networking.XMPP.WebSocket@3.0.0
 - pkg:nuget/Waher.Networking.XMPP.WebSocket@3.1.0
+- pkg:nuget/Waher.Networking.XMPP.WebSocket@3.2.0
