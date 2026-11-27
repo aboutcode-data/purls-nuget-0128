@@ -103,6 +103,7 @@
 - pkg:nuget/Rebus.RabbitMq@10.0.0
 - pkg:nuget/Rebus.RabbitMq@10.0.1
 - pkg:nuget/Rebus.RabbitMq@10.0.2
+- pkg:nuget/Rebus.RabbitMq@11.0.0
 - pkg:nuget/Rebus.RabbitMq@2.0.0
 - pkg:nuget/Rebus.RabbitMq@2.0.0-a1
 - pkg:nuget/Rebus.RabbitMq@2.0.0-a2
