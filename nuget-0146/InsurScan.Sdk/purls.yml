@@ -19,4 +19,6 @@
 - pkg:nuget/InsurScan.Sdk@0.5.0
 - pkg:nuget/InsurScan.Sdk@0.6.20
 - pkg:nuget/InsurScan.Sdk@0.6.25
+- pkg:nuget/InsurScan.Sdk@0.6.31
+- pkg:nuget/InsurScan.Sdk@0.6.32
 - pkg:nuget/InsurScan.Sdk@0.6.9
