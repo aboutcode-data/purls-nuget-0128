@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Figma.HttpClients@11.0.105
+- pkg:nuget/Soenneker.Figma.HttpClients@11.0.89
+- pkg:nuget/Soenneker.Figma.HttpClients@11.0.93
 - pkg:nuget/Soenneker.Figma.HttpClients@4.0.29
 - pkg:nuget/Soenneker.Figma.HttpClients@4.0.34
 - pkg:nuget/Soenneker.Figma.HttpClients@4.0.37
