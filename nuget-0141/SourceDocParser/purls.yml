@@ -1,1 +1,5 @@
 - pkg:nuget/SourceDocParser@1.1.1
+- pkg:nuget/SourceDocParser@2.2.0
+- pkg:nuget/SourceDocParser@2.3.0
+- pkg:nuget/SourceDocParser@2.5.0
+- pkg:nuget/SourceDocParser@2.8.1
