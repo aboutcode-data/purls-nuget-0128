@@ -7,3 +7,4 @@
 - pkg:nuget/CSharpEssentials.Http@6.3.0
 - pkg:nuget/CSharpEssentials.Http@6.5.0
 - pkg:nuget/CSharpEssentials.Http@7.0.0
+- pkg:nuget/CSharpEssentials.Http@9.0.0
