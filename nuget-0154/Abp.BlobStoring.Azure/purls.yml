@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.BlobStoring.Azure@10.1.0
 - pkg:nuget/Abp.BlobStoring.Azure@10.2.0
 - pkg:nuget/Abp.BlobStoring.Azure@10.3.0
+- pkg:nuget/Abp.BlobStoring.Azure@10.5.1
 - pkg:nuget/Abp.BlobStoring.Azure@9.0.0
 - pkg:nuget/Abp.BlobStoring.Azure@9.1.0
 - pkg:nuget/Abp.BlobStoring.Azure@9.1.1
