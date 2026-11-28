@@ -32,5 +32,6 @@
 - pkg:nuget/Microsoft.Windows.CsWin32@0.3.2-beta
 - pkg:nuget/Microsoft.Windows.CsWin32@0.3.205
 - pkg:nuget/Microsoft.Windows.CsWin32@0.3.235
+- pkg:nuget/Microsoft.Windows.CsWin32@0.3.366
 - pkg:nuget/Microsoft.Windows.CsWin32@0.3.46-beta
 - pkg:nuget/Microsoft.Windows.CsWin32@0.3.49-beta
