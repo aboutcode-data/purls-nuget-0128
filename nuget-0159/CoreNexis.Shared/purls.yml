@@ -1,4 +1,6 @@
 - pkg:nuget/CoreNexis.Shared@1.0.0
 - pkg:nuget/CoreNexis.Shared@1.0.0-beta
+- pkg:nuget/CoreNexis.Shared@1.0.0.261116
 - pkg:nuget/CoreNexis.Shared@1.1.330-beta
 - pkg:nuget/CoreNexis.Shared@1.1.501-beta
+- pkg:nuget/CoreNexis.Shared@1.2.0.261105-beta
