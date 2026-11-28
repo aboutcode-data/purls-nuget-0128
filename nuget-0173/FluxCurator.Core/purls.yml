@@ -1,2 +1,6 @@
+- pkg:nuget/FluxCurator.Core@0.10.2
+- pkg:nuget/FluxCurator.Core@0.13.0
+- pkg:nuget/FluxCurator.Core@0.20.0
 - pkg:nuget/FluxCurator.Core@0.7.3
 - pkg:nuget/FluxCurator.Core@0.7.5
+- pkg:nuget/FluxCurator.Core@0.9.0
