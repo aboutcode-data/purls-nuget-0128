@@ -2,3 +2,8 @@
 - pkg:nuget/EFCore.Kusto@0.1.1
 - pkg:nuget/EFCore.Kusto@0.1.1.1
 - pkg:nuget/EFCore.Kusto@0.1.8
+- pkg:nuget/EFCore.Kusto@0.2.10
+- pkg:nuget/EFCore.Kusto@0.3.1
+- pkg:nuget/EFCore.Kusto@0.3.4
+- pkg:nuget/EFCore.Kusto@0.3.5
+- pkg:nuget/EFCore.Kusto@0.3.6
