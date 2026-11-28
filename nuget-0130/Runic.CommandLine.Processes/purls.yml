@@ -1,3 +1,6 @@
+- pkg:nuget/Runic.CommandLine.Processes@0.14.0
 - pkg:nuget/Runic.CommandLine.Processes@0.2.0-preview.1
 - pkg:nuget/Runic.CommandLine.Processes@0.3.0-preview.1
 - pkg:nuget/Runic.CommandLine.Processes@0.6.0-preview.2
+- pkg:nuget/Runic.CommandLine.Processes@0.6.0-preview.4
+- pkg:nuget/Runic.CommandLine.Processes@0.8.0

@@ -1,1 +1,10 @@
 - pkg:nuget/LunaticPanel.Core.PluginValidator@0.0.11
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.1.5
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.1.94
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.1.97
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.2.108
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.2.109
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.4.2
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.5.8
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.5.9
+- pkg:nuget/LunaticPanel.Core.PluginValidator@0.6.0-preview.3
