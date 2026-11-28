@@ -1,5 +1,10 @@
 - pkg:nuget/TKWF.Ext.Permissions@0.9.1
 - pkg:nuget/TKWF.Ext.Permissions@0.9.4-preview.0.9
+- pkg:nuget/TKWF.Ext.Permissions@0.9.5-preview.0.50
+- pkg:nuget/TKWF.Ext.Permissions@0.9.5-preview.0.75
+- pkg:nuget/TKWF.Ext.Permissions@0.9.6-preview.0.18
+- pkg:nuget/TKWF.Ext.Permissions@0.9.6-preview.0.19
+- pkg:nuget/TKWF.Ext.Permissions@0.9.6-preview.0.65
 - pkg:nuget/TKWF.Ext.Permissions@4.10.1-preview.0.1
 - pkg:nuget/TKWF.Ext.Permissions@4.10.1-preview.0.22
 - pkg:nuget/TKWF.Ext.Permissions@4.10.1-preview.0.31

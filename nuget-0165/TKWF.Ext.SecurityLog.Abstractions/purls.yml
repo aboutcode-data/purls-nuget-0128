@@ -1,4 +1,9 @@
 - pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.0
 - pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.1-preview.0.16
 - pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.1-preview.0.25
+- pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.124
+- pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.149
+- pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.260
+- pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.261
+- pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.307
 - pkg:nuget/TKWF.Ext.SecurityLog.Abstractions@0.1.2-preview.0.60
