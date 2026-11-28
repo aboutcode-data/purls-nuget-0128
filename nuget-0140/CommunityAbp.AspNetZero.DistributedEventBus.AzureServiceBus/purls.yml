@@ -1,0 +1,2 @@
+- pkg:nuget/CommunityAbp.AspNetZero.DistributedEventBus.AzureServiceBus@0.10.1
+- pkg:nuget/CommunityAbp.AspNetZero.DistributedEventBus.AzureServiceBus@0.11.1
