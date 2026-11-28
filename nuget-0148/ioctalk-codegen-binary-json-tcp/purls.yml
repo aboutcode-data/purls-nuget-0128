@@ -25,3 +25,4 @@
 - pkg:nuget/ioctalk-codegen-binary-json-tcp@2.4.5
 - pkg:nuget/ioctalk-codegen-binary-json-tcp@2.4.8
 - pkg:nuget/ioctalk-codegen-binary-json-tcp@2.4.9
+- pkg:nuget/ioctalk-codegen-binary-json-tcp@2.6.2
