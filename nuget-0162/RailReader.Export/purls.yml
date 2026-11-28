@@ -15,3 +15,5 @@
 - pkg:nuget/RailReader.Export@0.81.0
 - pkg:nuget/RailReader.Export@0.82.2
 - pkg:nuget/RailReader.Export@0.83.1
+- pkg:nuget/RailReader.Export@0.88.0
+- pkg:nuget/RailReader.Export@0.89.0
