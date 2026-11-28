@@ -1,2 +1,4 @@
 - pkg:nuget/Misaki.HighPerformance.Jobs@3.2.1
 - pkg:nuget/Misaki.HighPerformance.Jobs@3.2.2
+- pkg:nuget/Misaki.HighPerformance.Jobs@3.2.3
+- pkg:nuget/Misaki.HighPerformance.Jobs@3.3.8
