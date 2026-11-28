@@ -3,6 +3,10 @@
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.10.0
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.2.0
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.23.0
+- pkg:nuget/OnAim.FeaturesEngine.Application@1.28.0
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.3.0
+- pkg:nuget/OnAim.FeaturesEngine.Application@1.40.0
+- pkg:nuget/OnAim.FeaturesEngine.Application@1.57.0
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.6.0
+- pkg:nuget/OnAim.FeaturesEngine.Application@1.62.0
 - pkg:nuget/OnAim.FeaturesEngine.Application@1.8.0
