@@ -7,6 +7,8 @@
 - pkg:nuget/Ndapi@12.2.1.33
 - pkg:nuget/Ndapi@13.0.0
 - pkg:nuget/Ndapi@13.1.0
+- pkg:nuget/Ndapi@14.1.0
+- pkg:nuget/Ndapi@14.1.1
 - pkg:nuget/Ndapi@6.0.8
 - pkg:nuget/Ndapi@6.0.8.1
 - pkg:nuget/Ndapi@6.0.8.2
