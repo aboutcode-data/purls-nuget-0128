@@ -1,4 +1,7 @@
 - pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@10.0.0.2-rc1
+- pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@10.0.0.3
+- pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@10.0.0.5
+- pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@10.0.2.2
 - pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@6.0.0.1
 - pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@6.0.0.10
 - pkg:nuget/SeliseBlocks.Genesis.Framework.PDS.Entity@6.0.0.11
