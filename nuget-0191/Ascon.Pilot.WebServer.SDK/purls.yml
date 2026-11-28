@@ -37,4 +37,6 @@
 - pkg:nuget/Ascon.Pilot.WebServer.SDK@25.8.9-alpha
 - pkg:nuget/Ascon.Pilot.WebServer.SDK@25.9.0
 - pkg:nuget/Ascon.Pilot.WebServer.SDK@26.13.0
+- pkg:nuget/Ascon.Pilot.WebServer.SDK@26.20.0
+- pkg:nuget/Ascon.Pilot.WebServer.SDK@26.22.0
 - pkg:nuget/Ascon.Pilot.WebServer.SDK@26.4.0
