@@ -3,3 +3,13 @@
 - pkg:nuget/Console.Lib.Inspector@4.17.1541%2B0e3a4fb0507981fcbccd7192f36da072a32b7d43
 - pkg:nuget/Console.Lib.Inspector@4.6.1371%2B2e583602fdb649b122bbb2a13860ef70779ff29f
 - pkg:nuget/Console.Lib.Inspector@5.0.1911%2Bd269bcf7eea61f87d35fae20fecab64f9e2fd3ec
+- pkg:nuget/Console.Lib.Inspector@5.18.2561%2B741a1658805c902fccf7e5529344f957df7a39b3
+- pkg:nuget/Console.Lib.Inspector@5.27.2781%2B61118d893a3a13e963e3d539edf790eaf917e86e
+- pkg:nuget/Console.Lib.Inspector@5.29.2821%2B6cf64baf3566290c266ef9096d34cadb20a8c430
+- pkg:nuget/Console.Lib.Inspector@5.30.2841%2B5366f8c0584b072c8f0ae59326c70608096b5c89
+- pkg:nuget/Console.Lib.Inspector@5.31.2861%2Bd0716f37687a39fbbba758f4c923d2abc45fa321
+- pkg:nuget/Console.Lib.Inspector@5.34.2921%2B053207197c1911f725bf3d3f8c479994ef7bb92b
+- pkg:nuget/Console.Lib.Inspector@5.36.2961%2B228ce5e06769c8ba79f92019b0f863f7d050658a
+- pkg:nuget/Console.Lib.Inspector@5.38.3031%2B78a4a15035066b6cbda8e43a8fb183457306a6c8
+- pkg:nuget/Console.Lib.Inspector@5.6.2061%2B1741428a493a6777af3439b5761ec681938d8223
+- pkg:nuget/Console.Lib.Inspector@5.6.2091%2Be2dfe28291ec4b8c3c3e72ce2db35eab74a0e9be
