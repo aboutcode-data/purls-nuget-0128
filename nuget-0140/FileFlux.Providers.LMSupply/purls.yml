@@ -9,3 +9,4 @@
 - pkg:nuget/FileFlux.Providers.LMSupply@0.56.0
 - pkg:nuget/FileFlux.Providers.LMSupply@0.62.0
 - pkg:nuget/FileFlux.Providers.LMSupply@0.65.1
+- pkg:nuget/FileFlux.Providers.LMSupply@0.69.0
